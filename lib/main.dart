@@ -1,5 +1,7 @@
-import 'package:convida/theText.dart';
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 
 void main() {
@@ -46,9 +48,44 @@ class MyHomePage extends StatelessWidget {
   // always marked "final".
 
   final String title;
+  ValueNotifier<String> text = ValueNotifier<String>("");
 
   @override
   Widget build(BuildContext context) {
+    rootBundle.load("txt.md").then((bytes) {
+      String newText = utf8.decode(bytes.buffer.asUint8List());
+      List<String> lines = [];
+      List<int> headers = [];
+      newText.split("\n").forEach((line) {
+        line = line.trimRight();
+
+        if (line.length == 0) return;
+
+        if (line.startsWith("#")) {
+          int indent = line.indexOf(" ");
+          if (indent < 5) {
+            while (headers.length > indent) {
+              headers.removeLast();
+            }
+            if (indent == headers.length) {
+              headers[indent - 1] = headers[indent - 1] + 1;
+            } else {
+              for (int i = headers.length; i < indent; ++i) {
+                headers.add(1);
+              }
+            }
+            lines.add(line.replaceRange(indent + 1, indent + 1,
+                headers.map((h) => h.toString()).join(".") + " "));
+            return;
+          }
+        }
+        lines.add(line);
+      });
+      text.value = lines.join("\n");
+      // text.value = lines.join("\n");
+    });
+    // return _mapController.addImage(name, bytes.buffer.asUint8List());
+
     // This method is rerun every time setState is called, for instance as done
     // by the _incrementCounter method above.
     //
@@ -64,7 +101,9 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
-        child: Markdown(data: theText),
+        child: ValueListenableBuilder(
+            valueListenable: text,
+            builder: (context, value, child) => Markdown(data: value)),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }

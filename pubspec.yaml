@@ -41,7 +41,7 @@ flutter_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/logo.png"
-  
+
 # The following section is specific to Flutter.
 flutter:
 
@@ -50,7 +50,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/
+    - assets/logo.png
+    - assets/txt.md
 
   # To add assets to your application, add an assets section, like this:
   # assets:
