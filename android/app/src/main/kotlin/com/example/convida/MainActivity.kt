@@ -1,4 +1,4 @@
-package com.example.convida
+package support.convida
 
 import io.flutter.embedding.android.FlutterActivity
 
