@@ -52,7 +52,7 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    rootBundle.load("txt.md").then((bytes) {
+    rootBundle.load("assets/txt.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
       List<String> lines = [];
       List<int> headers = [];
