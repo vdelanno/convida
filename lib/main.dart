@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 
+import 'markdown_extensions.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -36,7 +38,9 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatelessWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key key, this.title}) : super(key: key) {
+    loadText();
+  }
 
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
@@ -48,10 +52,10 @@ class MyHomePage extends StatelessWidget {
   // always marked "final".
 
   final String title;
-  ValueNotifier<String> text = ValueNotifier<String>("");
+  final ValueNotifier<String> text = ValueNotifier<String>(null);
+  final ValueNotifier<List<Anchor>> anchors = ValueNotifier<List<Anchor>>([]);
 
-  @override
-  Widget build(BuildContext context) {
+  Future loadText() async {
     rootBundle.load("txt.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
       List<String> lines = [];
@@ -74,25 +78,95 @@ class MyHomePage extends StatelessWidget {
                 headers.add(1);
               }
             }
-            lines.add(line.replaceRange(indent + 1, indent + 1,
-                headers.map((h) => h.toString()).join(".") + " "));
+            bool anchor = indent < 3;
+            String indentstr = (anchor ? "[[" : "") +
+                headers.map((h) => h.toString()).join(".") +
+                " ";
+            String suffix = anchor ? "]]" : "";
+            lines.add(
+                line.replaceRange(indent + 1, indent + 1, indentstr) + suffix);
             return;
           }
         }
         lines.add(line);
       });
       text.value = lines.join("\n");
-      // text.value = lines.join("\n");
     });
-    // return _mapController.addImage(name, bytes.buffer.asUint8List());
+  }
 
+  String markdownSearch(String text, String substr) {
+    return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
+        (Match m) => "^^${m[1]}^^");
+  }
+
+  ListView buildMainView(BuildContext context, ScrollController controller) {
+    return ListView(children: [
+      ValueListenableBuilder(
+          valueListenable: text,
+          builder: (context, value, child) {
+            if (value == null) {
+              return Text("Loading");
+            }
+
+            AnchorBuilder anchorBuilder = AnchorBuilder();
+            WidgetsBinding.instance.addPostFrameCallback((_) {
+              anchors.value = anchorBuilder.anchors;
+            });
+            MarkdownBody widget =
+                MarkdownBody(data: value, selectable: true, inlineSyntaxes: [
+              // HighlighSyntax(),
+              AnchorSyntax()
+            ], blockSyntaxes: [], builders: {
+              // 'mark': HighlightBuilder(),
+              'anchor': anchorBuilder,
+            });
+
+            return widget;
+          })
+    ], controller: controller);
+  }
+
+  Widget buildDrawer(BuildContext context, ScrollController controller) {
+    return Drawer(
+      child: ValueListenableBuilder(
+          valueListenable: anchors,
+          builder: (context, value, child) {
+            List<Widget> children = <Widget>[
+                  Container(
+                      child: Text("Acceso Rapido",
+                          style: Theme.of(context).textTheme.headline5),
+                      padding: EdgeInsets.all(1.0),
+                      margin: EdgeInsets.only(bottom: 1.0))
+                ] +
+                value
+                    .map<Widget>((anchor) => ListTile(
+                        title: Text(anchor.text),
+                        onTap: () {
+                          controller.position.ensureVisible(
+                              anchor.key.currentContext.findRenderObject());
+                          Navigator.pop(context);
+                        }))
+                    .toList();
+            return ListView(
+              children: children,
+            );
+          }),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
     // by the _incrementCounter method above.
     //
     // The Flutter framework has been optimized to make rerunning build methods
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
+    ScrollController controller = ScrollController();
+    ListView mainView = buildMainView(context, controller);
+    Widget drawer = buildDrawer(context, controller);
     return Scaffold(
+      drawer: drawer,
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
@@ -101,9 +175,8 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
-        child: ValueListenableBuilder(
-            valueListenable: text,
-            builder: (context, value, child) => Markdown(data: value)),
+        child: Scrollbar(
+            isAlwaysShown: true, controller: controller, child: mainView),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
