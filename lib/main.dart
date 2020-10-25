@@ -51,7 +51,9 @@ class MyHomePage extends StatelessWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
+  final TextEditingController _searchController = new TextEditingController();
   final String title;
+  final ValueNotifier<String> fullText = ValueNotifier<String>(null);
   final ValueNotifier<String> text = ValueNotifier<String>(null);
   final ValueNotifier<List<Anchor>> anchors = ValueNotifier<List<Anchor>>([]);
 
@@ -90,13 +92,43 @@ class MyHomePage extends StatelessWidget {
         }
         lines.add(line);
       });
-      text.value = lines.join("\n");
+      fullText.value = lines.join("\n");
+      text.value = fullText.value;
     });
   }
 
   String markdownSearch(String text, String substr) {
-    return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
-        (Match m) => "^^${m[1]}^^");
+    String toSearch = substr.toLowerCase().trim();
+    List<String> headers = [];
+    List<String> lastHeaders = [];
+    List<String> lines = [];
+    bool keepNext = false;
+    text.split("\n").forEach((line) {
+      if (line.startsWith("#")) {
+        keepNext = false;
+        int indent = line.indexOf(" ");
+        if (indent > headers.length) {
+          headers.add(line);
+        } else {
+          headers = headers.sublist(0, indent);
+          headers[indent - 1] = line;
+        }
+        keepNext = line.toLowerCase().contains(toSearch);
+      } else {
+        if (line.toLowerCase().contains(toSearch) || keepNext) {
+          for (int i = 0; i < headers.length; ++i) {
+            if (i >= lastHeaders.length || headers[i] != lastHeaders[i]) {
+              lines.add(headers[i]);
+            }
+          }
+          lastHeaders = List.from(headers);
+          lines.add(line);
+        }
+      }
+    });
+    return lines.join("\n");
+    // return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
+    //     (Match m) => "^^${m[1]}^^");
   }
 
   ListView buildMainView(BuildContext context, ScrollController controller) {
@@ -154,6 +186,15 @@ class MyHomePage extends StatelessWidget {
     );
   }
 
+  void searchInputUpdated() {
+    print(_searchController.text);
+    String newText = markdownSearch(fullText.value, _searchController.text);
+    if (newText != text.value) {
+      anchors.value = [];
+      text.value = newText;
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -168,10 +209,25 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       drawer: drawer,
       appBar: AppBar(
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
-        title: Text("COnVIDa"),
-      ),
+          // Here we take the value from the MyHomePage object that was created by
+          // the App.build method, and use it to set our appbar title.
+          title: Row(children: [
+        Text("COnVIDa"),
+        Container(
+          width: 50,
+        ),
+        Expanded(
+            child: TextField(
+          controller: _searchController,
+          decoration: InputDecoration(
+              border: InputBorder.none,
+              hintText: 'Buscar...',
+              suffix: GestureDetector(
+                  child: Icon(Icons.search),
+                  onTap: () => searchInputUpdated())),
+          onSubmitted: (value) => searchInputUpdated(),
+        ))
+      ])),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
