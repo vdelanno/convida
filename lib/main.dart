@@ -105,7 +105,6 @@ class MyHomePage extends StatelessWidget {
   }
 
   String markdownSearch(String text, String substr) {
-    String toSearch = substr.toLowerCase().trim();
     List<String> headers = [];
     List<String> lastHeaders = [];
     List<String> lines = [];
@@ -131,7 +130,6 @@ class MyHomePage extends StatelessWidget {
         }
       }
     });
-    print(lines);
     return lines.join("\n");
   }
 
@@ -168,11 +166,13 @@ class MyHomePage extends StatelessWidget {
           valueListenable: anchors,
           builder: (context, value, child) {
             List<Widget> children = <Widget>[
-                  Container(
-                      child: Text("Acceso Rapido",
-                          style: Theme.of(context).textTheme.headline5),
-                      padding: EdgeInsets.all(1.0),
-                      margin: EdgeInsets.only(bottom: 1.0))
+                  AppBar(
+                    automaticallyImplyLeading: false,
+                    title: Text("Acceso Rapido",
+                        style: Theme.of(context).textTheme.headline5),
+                    // padding: EdgeInsets.all(1.0),
+                    // margin: EdgeInsets.only(bottom: 1.0)
+                  )
                 ] +
                 value
                     .map<Widget>((anchor) => ListTile(
@@ -221,18 +221,20 @@ class MyHomePage extends StatelessWidget {
           // the App.build method, and use it to set our appbar title.
           title: Row(children: [
         Text("COnVIDa"),
-        Container(
-          width: 50,
-        ),
         Expanded(
-            child: SearchWidget(
-                onTextChange: (value) => searchInputUpdated(value)))
+            child: Center(
+                child: Container(
+                    constraints: BoxConstraints(minWidth: 100, maxWidth: 300),
+                    child: SearchWidget(
+                        onTextChange: (value) => searchInputUpdated(value)))))
       ])),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
-        child: Scrollbar(
-            isAlwaysShown: true, controller: controller, child: mainView),
+        child: Container(
+            constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
+            child: Scrollbar(
+                isAlwaysShown: true, controller: controller, child: mainView)),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }

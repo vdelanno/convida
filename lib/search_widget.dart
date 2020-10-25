@@ -30,13 +30,13 @@ class SearchWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextField(
+      style: Theme.of(context).primaryTextTheme.headline6,
       controller: _searchController,
       decoration: InputDecoration(
           border: InputBorder.none,
           hintText: 'Buscar...',
           suffix: ValueListenableBuilder(
             builder: (context, isSearch, child) {
-              print(isSearch);
               if (isSearch) {
                 return GestureDetector(
                     child: Icon(Icons.search),
