@@ -1,5 +1,7 @@
 import 'dart:convert';
+import 'dart:math';
 
+import 'package:convida/search_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
@@ -97,15 +99,18 @@ class MyHomePage extends StatelessWidget {
     });
   }
 
+  String highlightMarkdown(String text, String substr) {
+    return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
+        (Match m) => "^^${m[1]}^^");
+  }
+
   String markdownSearch(String text, String substr) {
     String toSearch = substr.toLowerCase().trim();
     List<String> headers = [];
     List<String> lastHeaders = [];
     List<String> lines = [];
-    bool keepNext = false;
     text.split("\n").forEach((line) {
       if (line.startsWith("#")) {
-        keepNext = false;
         int indent = line.indexOf(" ");
         if (indent > headers.length) {
           headers.add(line);
@@ -113,22 +118,21 @@ class MyHomePage extends StatelessWidget {
           headers = headers.sublist(0, indent);
           headers[indent - 1] = line;
         }
-        keepNext = line.toLowerCase().contains(toSearch);
       } else {
-        if (line.toLowerCase().contains(toSearch) || keepNext) {
+        String highlighted = highlightMarkdown(line, substr);
+        if (highlighted.length != line.length) {
           for (int i = 0; i < headers.length; ++i) {
             if (i >= lastHeaders.length || headers[i] != lastHeaders[i]) {
               lines.add(headers[i]);
             }
           }
           lastHeaders = List.from(headers);
-          lines.add(line);
+          lines.add(highlighted);
         }
       }
     });
+    print(lines);
     return lines.join("\n");
-    // return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
-    //     (Match m) => "^^${m[1]}^^");
   }
 
   ListView buildMainView(BuildContext context, ScrollController controller) {
@@ -146,10 +150,10 @@ class MyHomePage extends StatelessWidget {
             });
             MarkdownBody widget =
                 MarkdownBody(data: value, selectable: true, inlineSyntaxes: [
-              // HighlighSyntax(),
+              HighlighSyntax(),
               AnchorSyntax()
             ], blockSyntaxes: [], builders: {
-              // 'mark': HighlightBuilder(),
+              'mark': HighlightBuilder(),
               'anchor': anchorBuilder,
             });
 
@@ -186,9 +190,13 @@ class MyHomePage extends StatelessWidget {
     );
   }
 
-  void searchInputUpdated() {
-    print(_searchController.text);
-    String newText = markdownSearch(fullText.value, _searchController.text);
+  void searchInputUpdated(String value) {
+    print("search $value");
+    String toSearch = value.trim();
+    String newText = fullText.value;
+    if (toSearch.isNotEmpty) {
+      newText = markdownSearch(fullText.value, toSearch);
+    }
     if (newText != text.value) {
       anchors.value = [];
       text.value = newText;
@@ -217,16 +225,8 @@ class MyHomePage extends StatelessWidget {
           width: 50,
         ),
         Expanded(
-            child: TextField(
-          controller: _searchController,
-          decoration: InputDecoration(
-              border: InputBorder.none,
-              hintText: 'Buscar...',
-              suffix: GestureDetector(
-                  child: Icon(Icons.search),
-                  onTap: () => searchInputUpdated())),
-          onSubmitted: (value) => searchInputUpdated(),
-        ))
+            child: SearchWidget(
+                onTextChange: (value) => searchInputUpdated(value)))
       ])),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it

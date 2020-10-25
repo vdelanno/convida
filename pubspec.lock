@@ -100,11 +100,9 @@ packages:
   flutter_markdown:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "7401403c08a89ab1377ac0551ea4904ac184355a"
-      url: "https://github.com/vdelanno/flutter_markdown.git"
-    source: git
+      name: flutter_markdown
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.5.0"
   flutter_test:
     dependency: "direct dev"
@@ -153,13 +151,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
-  scrollable_positioned_list:
-    dependency: "direct main"
-    description:
-      name: scrollable_positioned_list
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.8"
   sky_engine:
     dependency: transitive
     description: flutter

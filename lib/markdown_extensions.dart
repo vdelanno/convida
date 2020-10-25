@@ -6,7 +6,8 @@ import 'package:markdown/markdown.dart' as md;
 class HighlighSyntax extends md.TagSyntax {
   static final _pattern = r'\^\^';
   HighlighSyntax()
-      : super(_pattern, requiresDelimiterRun: false, allowIntraWord: true);
+      : super(_pattern,
+            end: _pattern, requiresDelimiterRun: false, allowIntraWord: true);
 
   @override
   bool onMatchEnd(md.InlineParser parser, Match match, md.TagState state) {
@@ -14,7 +15,6 @@ class HighlighSyntax extends md.TagSyntax {
     var matchStart = parser.pos;
     var matchEnd = parser.pos + runLength - 1;
     var openingRunLength = state.endPos - state.startPos;
-    parser.advanceBy(0);
     parser.addNode(md.Element('mark', state.children));
     return true;
   }
@@ -30,7 +30,7 @@ class HighlighSyntax extends md.TagSyntax {
 class HighlightBuilder extends MarkdownElementBuilder {
   @override
   bool visitElementBefore(md.Element element) {
-    return true;
+    return false;
   }
 
   @override
@@ -40,10 +40,11 @@ class HighlightBuilder extends MarkdownElementBuilder {
 
   @override
   Widget visitElementAfter(md.Element element, TextStyle preferredStyle) {
-    return null;
     TextStyle style = preferredStyle == null
         ? TextStyle(backgroundColor: Colors.yellow)
         : preferredStyle.copyWith(backgroundColor: Colors.yellow);
+    // MarkdownBuilder newBuilder = builder.clone();
+    // builder.build(element.children);
     SelectableText widget =
         SelectableText.rich(TextSpan(text: element.textContent, style: style));
     return widget;
@@ -63,7 +64,12 @@ class AnchorSyntax extends md.TagSyntax {
     var matchEnd = parser.pos + runLength - 1;
     var openingRunLength = state.endPos - state.startPos;
 
-    parser.addNode(md.Element('anchor', state.children));
+    md.Element anchor = md.Element.text('anchor', "");
+    anchor.attributes['anchor'] =
+        state.children.map((e) => e.textContent).join(" ");
+    parser.addNode(anchor);
+    state.children.forEach((element) => parser.addNode(element));
+    // parser.advanceBy(0);
     return true;
   }
 }
@@ -89,11 +95,11 @@ class AnchorBuilder extends MarkdownElementBuilder {
   @override
   Widget visitElementAfter(md.Element element, TextStyle preferredStyle) {
     final GlobalKey dataKey = new GlobalKey();
-    SelectableText widget = SelectableText.rich(
-        TextSpan(text: element.textContent, style: preferredStyle),
-        key: dataKey);
+    // SelectableText widget = SelectableText.rich(
+    //     TextSpan(text: element.textContent, style: preferredStyle),
+    //     key: dataKey);
 
-    anchors.add(Anchor(element.textContent, dataKey));
-    return widget;
+    anchors.add(Anchor(element.attributes['anchor'], dataKey));
+    return Container(key: dataKey);
   }
 }
