@@ -2,12 +2,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 typedef TextChangeCallback = void Function(String);
+typedef NavigateItemCallback = void Function();
 
 class SearchWidget extends StatelessWidget {
-  SearchWidget({this.onTextChange}) {
+  SearchWidget({this.onTextChange, this.onNextItem, this.onPreviousItem}) {
     _searchController.addListener(() => _inputTextChanged());
   }
   final TextChangeCallback onTextChange;
+  final NavigateItemCallback onNextItem;
+  final NavigateItemCallback onPreviousItem;
 
   final TextEditingController _searchController = new TextEditingController();
   final ValueNotifier<String> _text = new ValueNotifier<String>("");
@@ -29,31 +32,52 @@ class SearchWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return TextField(
-      style: Theme.of(context).primaryTextTheme.headline6,
-      controller: _searchController,
-      decoration: InputDecoration(
-          border: InputBorder.none,
-          hintText: 'Buscar...',
-          suffix: ValueListenableBuilder(
-            builder: (context, isSearch, child) {
-              if (isSearch) {
-                return GestureDetector(
-                    child: Icon(Icons.search),
-                    onTap: () => _searchInputUpdated());
-              } else {
-                return GestureDetector(
-                    child: Icon(Icons.close),
-                    onTap: () {
-                      _searchController.text = "";
-                      _searchInputUpdated();
-                    });
-              }
-            },
-            valueListenable: _isSearch,
-          )),
-      onSubmitted: (value) => _searchInputUpdated(),
-      onChanged: (value) => _inputTextChanged(),
-    );
+    return Row(children: [
+      Expanded(
+        child: TextField(
+          style: Theme.of(context).primaryTextTheme.headline6,
+          controller: _searchController,
+          decoration: InputDecoration(
+            border: InputBorder.none,
+            hintText: 'Buscar...',
+            prefix: ValueListenableBuilder(
+              builder: (context, isSearch, child) {
+                if (isSearch) {
+                  return GestureDetector(
+                      child: Icon(Icons.search),
+                      onTap: () => _searchInputUpdated());
+                } else {
+                  return GestureDetector(
+                      child: Icon(Icons.close),
+                      onTap: () {
+                        _searchController.text = "";
+                        _searchInputUpdated();
+                      });
+                }
+              },
+              valueListenable: _isSearch,
+            ),
+          ),
+          onSubmitted: (value) => _searchInputUpdated(),
+          onChanged: (value) => _inputTextChanged(),
+        ),
+      ),
+      ValueListenableBuilder(
+        builder: (context, text, child) {
+          if (text.isEmpty) {
+            return Container();
+          }
+          return Row(
+            children: [
+              GestureDetector(
+                  child: Icon(Icons.arrow_left), onTap: () => onPreviousItem()),
+              GestureDetector(
+                  child: Icon(Icons.arrow_right), onTap: () => onNextItem())
+            ],
+          );
+        },
+        valueListenable: _text,
+      )
+    ]);
   }
 }
