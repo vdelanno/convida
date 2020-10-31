@@ -37,11 +37,9 @@ class MyApp extends StatelessWidget {
                 headers.add(1);
               }
             }
-            bool anchor = indent < 3;
-            String indentstr = (anchor ? "[[" : "") +
-                headers.map((h) => h.toString()).join(".") +
-                " ";
-            String suffix = anchor ? "]]" : "";
+            String indentstr =
+                "[[" + headers.map((h) => h.toString()).join(".") + " ";
+            String suffix = "]]";
             lines.add(
                 line.replaceRange(indent + 1, indent + 1, indentstr) + suffix);
             return;

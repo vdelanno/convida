@@ -89,10 +89,6 @@ class AnchorBuilder extends MarkdownElementBuilder {
   @override
   Widget visitElementAfter(md.Element element, TextStyle preferredStyle) {
     GlobalKey dataKey = new GlobalKey(debugLabel: "anchor");
-    // SelectableText widget = SelectableText.rich(
-    //     TextSpan(text: element.textContent, style: preferredStyle),
-    //     key: dataKey);
-
     anchors
         .putIfAbsent(
             AnchorType.values[int.parse(element.attributes['type'])], () => [])

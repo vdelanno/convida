@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:convida/model.dart';
 import 'package:flutter/material.dart';
 
@@ -9,14 +11,15 @@ class ScrollbarItem {
 }
 
 class MyScrollbarPainter extends CustomPainter {
-  MyScrollbarPainter({this.model, this.repaintNotifier})
+  MyScrollbarPainter({this.model, this.thickness, this.repaintNotifier})
       : super(repaint: repaintNotifier) {
     model.anchors.addListener(() => _updateItems());
   }
 
+  final double thickness;
   final ChangeNotifier repaintNotifier;
   final Model model;
-  final List<ScrollbarItem> items = <ScrollbarItem>[];
+  final List<List<ScrollbarItem>> items = [];
 
   void _updateItems() {
     if (model.markdownViewkey.currentContext == null) {
@@ -25,13 +28,13 @@ class MyScrollbarPainter extends CustomPainter {
 
     final Rect widgetRect = getRect(model.markdownViewkey);
     final double sizeFactor = 1 / widgetRect.height;
-    List<ScrollbarItem> newItems = [];
-    model.highlights.forEach((highlight) {
-      newItems.add(getHighlight(highlight, widgetRect.top, sizeFactor));
-    });
-    model.headers.forEach((header) {
-      newItems.add(getHeader(header, widgetRect.top, sizeFactor));
-    });
+    List<List<ScrollbarItem>> newItems = [];
+    newItems.add(model.highlights
+        .map((highlight) => getHighlight(highlight, widgetRect.top, sizeFactor))
+        .toList());
+    newItems.add(model.headers
+        .map((header) => getHeader(header, widgetRect.top, sizeFactor))
+        .toList());
 
     items.clear();
     items.addAll(newItems);
@@ -51,29 +54,27 @@ class MyScrollbarPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
-    items.forEach((item) {
-      final Rect rect = Rect.fromLTRB(
-        item.rect.left * size.width,
-        item.rect.top * size.height,
-        item.rect.right * size.width,
-        item.rect.bottom * size.height,
-      );
-      canvas.drawRect(rect, item.paint);
+    Rect clip = Offset(size.width - (thickness - 5), 0) &
+        Size(thickness - 5, size.height);
+    items.forEach((layer) {
+      canvas.saveLayer(null, Paint()..blendMode = BlendMode.multiply);
+      layer.forEach((item) {
+        final Rect rect = Rect.fromLTRB(
+          clip.left + item.rect.left * clip.width,
+          item.rect.top * clip.height,
+          clip.left + item.rect.right * clip.width,
+          item.rect.bottom * clip.height,
+        );
+        canvas.drawRect(rect, item.paint);
+      });
+      // canvas.restore();
+    });
+    items.forEach((layer) {
+      canvas.restore();
     });
   }
 
   ScrollbarItem getHeader(Anchor header, double top, double sizeFactor) {
-    final List<Paint> paints = [
-      Paint()
-        ..color = Color.fromARGB(128, 0, 0, 0)
-        ..strokeWidth = 3.0,
-      Paint()
-        ..color = Color.fromARGB(128, 50, 50, 50)
-        ..strokeWidth = 2.0,
-      Paint()
-        ..color = Color.fromARGB(128, 128, 128, 128)
-        ..strokeWidth = 1.0
-    ];
     int headerLevel =
         header.text.substring(0, header.text.indexOf(" ")).split(".").length;
 
@@ -85,8 +86,9 @@ class MyScrollbarPainter extends CustomPainter {
         1.0,
         (headerRect.bottom - top) * sizeFactor);
 
+    int colValue = min((headerLevel - 1) * 30, 255);
     return ScrollbarItem(
-      paints[headerLevel - 1],
+      Paint()..color = Color.fromARGB(255, colValue, colValue, colValue),
       headerBound,
     );
   }
@@ -110,27 +112,30 @@ class MyScrollbarPainter extends CustomPainter {
 }
 
 class MarkdownScrollBar extends StatelessWidget {
-  MarkdownScrollBar({Key key, this.model, this.controller}) : super(key: key);
+  MarkdownScrollBar(
+      {Key key, this.thickness, this.model, this.controller, this.child})
+      : super(key: key);
 
   final Model model;
+  final double thickness;
   final ScrollController controller;
+  final Widget child;
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
-      child: CustomPaint(
-        painter:
-            MyScrollbarPainter(model: model, repaintNotifier: ChangeNotifier()),
-        child: Container(),
-      ),
-      onTapUp: (TapUpDetails details) {
-        double targetHeight = controller.position.maxScrollExtent;
-        double widgetHeight = context.size.height;
-        controller.position.animateTo(
-            (details.localPosition.dy / widgetHeight) * targetHeight,
-            duration: Duration(milliseconds: 200),
-            curve: Curves.easeInOutCubic);
-      },
-    );
+    return CustomPaint(
+        foregroundPainter: MyScrollbarPainter(
+          thickness: thickness,
+          model: model,
+          repaintNotifier: ChangeNotifier(),
+        ),
+        child: Scrollbar(
+            thickness: thickness,
+            isAlwaysShown: true,
+            controller: controller,
+            child: Row(children: [
+              Expanded(child: child),
+              Container(width: thickness)
+            ])));
   }
 }

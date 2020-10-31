@@ -41,6 +41,7 @@ class HomePage extends StatelessWidget {
       child: ValueListenableBuilder(
           valueListenable: model.anchors,
           builder: (context, value, child) {
+            List<Anchor> headers = value[AnchorType.HEADER] as List<Anchor>;
             List<Widget> children = <Widget>[
                   AppBar(
                     automaticallyImplyLeading: false,
@@ -50,7 +51,13 @@ class HomePage extends StatelessWidget {
                     // margin: EdgeInsets.only(bottom: 1.0)
                   )
                 ] +
-                value[AnchorType.HEADER]
+                headers
+                    .where((anchor) =>
+                        anchor.text
+                            .substring(0, anchor.text.indexOf(" "))
+                            .split(".")
+                            .length <
+                        3)
                     .map<Widget>((anchor) => ListTile(
                         title: Text(anchor.text),
                         onTap: () {
@@ -134,19 +141,11 @@ class HomePage extends StatelessWidget {
                 return Container(
                     constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
                     padding: EdgeInsets.fromLTRB(5, 0, 5, 10),
-                    child: Row(children: [
-                      Expanded(
-                          child: Scrollbar(
-                              isAlwaysShown: true,
-                              controller: _scrollController,
-                              child: buildMainView(context))),
-                      Container(
-                          width: 30,
-                          child: MarkdownScrollBar(
-                            model: model,
-                            controller: _scrollController,
-                          ))
-                    ]));
+                    child: MarkdownScrollBar(
+                        model: model,
+                        thickness: 30,
+                        controller: _scrollController,
+                        child: buildMainView(context)));
               })), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
