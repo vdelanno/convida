@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'markdown_extensions.dart';
 import 'model.dart';
@@ -53,8 +54,20 @@ class MarkdownView extends StatelessWidget {
     return lines.join("\n");
   }
 
+  Future openLink(String text, String href, String title) async {
+    print("openLink");
+    if (!await canLaunch(href)) {
+      print("cannot not launch $href");
+    } else if (!await launch(href)) {
+      print('Could not launch $href');
+    } else {
+      print('Could launch $href');
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
+    print("rebuilding markdown");
     AnchorBuilder anchorBuilder = AnchorBuilder();
     HighlightBuilder highlightBuilder = HighlightBuilder();
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -62,13 +75,11 @@ class MarkdownView extends StatelessWidget {
         anchors.removeWhere((a) => a.key.currentContext == null);
       });
       model.anchors.value = anchorBuilder.anchors;
-      // anchorBuilder.anchors[AnchorType.HEADER].forEach((element) {
-      //   element.key.currentContext.findRenderObject();
-      // });
     });
 
     return MarkdownBody(
         data: model.text.value,
+        onTapLink: (text, href, title) => openLink(text, href, title),
         selectable: true,
         inlineSyntaxes: [
           HighlighSyntax(),

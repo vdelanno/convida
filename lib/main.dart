@@ -1,18 +1,57 @@
 import 'dart:convert';
 import 'package:convida/loading_page.dart';
+import 'package:convida/sit_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:intl/intl.dart';
 import 'home_page.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(App());
 }
 
-class MyApp extends StatelessWidget {
-  MyApp();
+class App extends StatefulWidget {
+  App();
 
-  Future<String> loadText() async {
-    return rootBundle.load("assets/txt.md").then((bytes) {
+  @override
+  _AppState createState() => _AppState();
+}
+
+typedef LanguageCallback = void Function(String);
+
+class _AppState extends State<App> {
+  String _locale = 'es';
+  onChangeLanguage(String language) {
+    print("setting locale to $language");
+    if (_locale != language) {
+      setState(() {
+        _locale = language;
+      });
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return new MaterialApp(
+        locale: Locale(_locale),
+        localizationsDelegates: [
+          SitLocalizationsDelegate(),
+          GlobalMaterialLocalizations.delegate,
+          GlobalWidgetsLocalizations.delegate,
+        ],
+        supportedLocales: kSupportedLocales.map((l) => Locale(l)),
+        home: AppBody(this.onChangeLanguage, _locale));
+  }
+}
+
+class AppBody extends StatelessWidget {
+  final LanguageCallback onChangeLanguage;
+  final String _locale;
+  AppBody(this.onChangeLanguage, this._locale);
+
+  Future<String> loadText(String locale) async {
+    return rootBundle.load("assets/txt-$locale.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
       List<String> lines = [];
       List<int> headers = [];
@@ -51,34 +90,26 @@ class MyApp extends StatelessWidget {
     });
   }
 
-  // This widget is the root of your application.
+  String getLocale() => Intl.shortLocale(Intl.defaultLocale);
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-        title: 'COnVIDa',
-        theme: ThemeData(
-          // This is the theme of your application.
-          //
-          // Try running your application with "flutter run". You'll see the
-          // application has a blue toolbar. Then, without quitting the app, try
-          // changing the primarySwatch below to Colors.green and then invoke
-          // "hot reload" (press "r" in the console where you ran "flutter run",
-          // or simply save your changes to "hot reload" in a Flutter IDE).
-          // Notice that the counter didn't reset back to zero; the application
-          // is not restarted.
-          primarySwatch: Colors.blue,
-          // This makes the visual density adapt to the platform that you run
-          // the app on. For desktop platforms, the controls will be smaller and
-          // closer together (more dense) than on mobile platforms.
-          visualDensity: VisualDensity.adaptivePlatformDensity,
-        ),
-        home: FutureBuilder(
-            future: loadText(),
-            builder: (context, snapshot) {
-              if (snapshot.connectionState == ConnectionState.done) {
-                return HomePage(title: 'COnVIDa', fullText: snapshot.data);
-              }
-              return LoadingPage(title: 'COnVIDa');
-            }));
+    String locale = getLocale();
+    if (locale != _locale) {
+      Future.delayed(Duration(microseconds: 0), () => onChangeLanguage(locale));
+
+      return Container();
+    }
+    print("build locale $locale ");
+    return FutureBuilder(
+        future: loadText(locale),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.done) {
+            return HomePage(fullText: snapshot.data);
+          }
+          return LoadingPage(
+            title: SitLocalizations.of(context).title,
+          );
+        });
   }
 }

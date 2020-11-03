@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2020-11-01T23:55:32.500106",
+  "title": "COnVIDa",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchPlaceholder": "Search...",
+  "@searchPlaceholder": {
+    "description": "The placeholder in the search entry",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingText": "Loading...",
+  "@loadingText": {
+    "description": "Text displayed in the loading page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sideMenuHeader": "Quick Access",
+  "@sideMenuHeader": {
+    "description": "side menu header text",
+    "type": "text",
+    "placeholders": {}
+  }
+}

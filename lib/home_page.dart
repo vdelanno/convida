@@ -1,11 +1,12 @@
 import 'package:convida/markdown_view.dart';
 import 'package:convida/search_widget.dart';
+import 'package:convida/sit_localizations.dart';
 import 'package:flutter/material.dart';
 import 'model.dart';
 import 'markdown_scrollbar.dart';
 
 class HomePage extends StatelessWidget {
-  HomePage({Key key, this.title, this.fullText})
+  HomePage({Key key, this.fullText})
       : model = Model(text: fullText),
         super(key: key);
 
@@ -18,7 +19,6 @@ class HomePage extends StatelessWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  final String title;
   final String fullText;
   final Model model;
   final ValueNotifier<int> searchIndex = ValueNotifier<int>(-1);
@@ -30,10 +30,13 @@ class HomePage extends StatelessWidget {
   }
 
   Widget buildMainView(BuildContext context) {
-    MarkdownView view = MarkdownView(model: model);
-    return ListView(children: [
-      view,
-    ], controller: _scrollController);
+    return ValueListenableBuilder(
+        valueListenable: model.text,
+        builder: (context, value, child) {
+          return ListView(children: [
+            MarkdownView(model: model),
+          ], controller: _scrollController);
+        });
   }
 
   Widget buildDrawer(BuildContext context) {
@@ -41,11 +44,12 @@ class HomePage extends StatelessWidget {
       child: ValueListenableBuilder(
           valueListenable: model.anchors,
           builder: (context, value, child) {
+            print("anchors updated");
             List<Anchor> headers = value[AnchorType.HEADER] as List<Anchor>;
             List<Widget> children = <Widget>[
                   AppBar(
                     automaticallyImplyLeading: false,
-                    title: Text("Acceso Rapido",
+                    title: Text(SitLocalizations.of(context).sideMenuHeader,
                         style: Theme.of(context).textTheme.headline5),
                     // padding: EdgeInsets.all(1.0),
                     // margin: EdgeInsets.only(bottom: 1.0)
@@ -113,7 +117,7 @@ class HomePage extends StatelessWidget {
           // Here we take the value from the MyHomePage object that was created by
           // the App.build method, and use it to set our appbar title.
           title: Row(children: [
-        Text("COnVIDa"),
+        Text(SitLocalizations.of(context).title),
         Expanded(
             child: Center(
                 child: Container(
@@ -123,30 +127,21 @@ class HomePage extends StatelessWidget {
                         onPreviousItem: () => moveSelection(-1),
                         onTextChange: (value) => searchInputUpdated(value)))))
       ])),
-      body: Center(
-          // Center is a layout widget. It takes a single child and positions it
-          // in the middle of the parent.
-          child: ValueListenableBuilder(
-              valueListenable: model.text,
-              builder: (context, value, child) {
-                if (value == null) {
-                  return Center(
-                      child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: [CircularProgressIndicator(), Text("Loading")],
-                  ));
-                }
-
-                return Container(
-                    constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
-                    padding: EdgeInsets.fromLTRB(5, 0, 5, 10),
-                    child: MarkdownScrollBar(
-                        model: model,
-                        thickness: 30,
-                        controller: _scrollController,
-                        child: buildMainView(context)));
-              })), // This trailing comma makes auto-formatting nicer for build methods.
+      body: Container(
+          color: Theme.of(context).highlightColor,
+          child: Center(
+            // Center is a layout widget. It takes a single child and positions it
+            // in the middle of the parent.
+            child: Container(
+                color: Theme.of(context).canvasColor,
+                constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
+                padding: EdgeInsets.fromLTRB(5, 0, 0, 10),
+                child: MarkdownScrollBar(
+                    model: model,
+                    thickness: 30,
+                    controller: _scrollController,
+                    child: buildMainView(context))),
+          )), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }

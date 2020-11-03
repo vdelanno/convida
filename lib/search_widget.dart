@@ -1,3 +1,4 @@
+import 'package:convida/sit_localizations.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -39,7 +40,7 @@ class SearchWidget extends StatelessWidget {
           controller: _searchController,
           decoration: InputDecoration(
             border: InputBorder.none,
-            hintText: 'Buscar...',
+            hintText: SitLocalizations.of(context).searchPlaceholder,
             prefix: ValueListenableBuilder(
               builder: (context, isSearch, child) {
                 if (isSearch) {
