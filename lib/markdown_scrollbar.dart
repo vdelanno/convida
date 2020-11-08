@@ -10,7 +10,7 @@ class ScrollbarItem {
   final Rect rect;
 }
 
-class MyScrollbarPainter extends CustomPainter {
+class MyScrollbarPainter extends CustomPainter with ChangeNotifier {
   MyScrollbarPainter({this.model, this.thickness, this.repaintNotifier})
       : super(repaint: repaintNotifier) {
     model.anchors.addListener(() => _updateItems());

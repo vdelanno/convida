@@ -70,6 +70,7 @@ class MarkdownView extends StatelessWidget {
     print("rebuilding markdown");
     AnchorBuilder anchorBuilder = AnchorBuilder();
     HighlightBuilder highlightBuilder = HighlightBuilder();
+    QaBuilder qaBuilder = QaBuilder();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       anchorBuilder.anchors.forEach((key, anchors) {
         anchors.removeWhere((a) => a.key.currentContext == null);
@@ -83,12 +84,16 @@ class MarkdownView extends StatelessWidget {
         selectable: true,
         inlineSyntaxes: [
           HighlighSyntax(),
-          AnchorSyntax()
+          AnchorSyntax(),
+          // QandASyntax()
         ],
-        blockSyntaxes: [],
+        blockSyntaxes: [
+          QandASyntax()
+        ],
         builders: {
           'mark': highlightBuilder,
           'anchor': anchorBuilder,
+          'qa': qaBuilder,
         });
   }
 }

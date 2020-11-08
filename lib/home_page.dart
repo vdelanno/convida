@@ -2,6 +2,7 @@ import 'package:convida/markdown_view.dart';
 import 'package:convida/search_widget.dart';
 import 'package:convida/sit_localizations.dart';
 import 'package:flutter/material.dart';
+import 'home_layout.dart';
 import 'model.dart';
 import 'markdown_scrollbar.dart';
 
@@ -30,51 +31,68 @@ class HomePage extends StatelessWidget {
   }
 
   Widget buildMainView(BuildContext context) {
-    return ValueListenableBuilder(
-        valueListenable: model.text,
-        builder: (context, value, child) {
-          return ListView(children: [
-            MarkdownView(model: model),
-          ], controller: _scrollController);
-        });
+    return Container(
+      color: Theme.of(context).canvasColor,
+      constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
+      padding: EdgeInsets.fromLTRB(5, 0, 0, 10),
+      child: MarkdownScrollBar(
+        model: model,
+        thickness: 30,
+        controller: _scrollController,
+        child: ValueListenableBuilder(
+            valueListenable: model.text,
+            builder: (context, value, child) {
+              return ListView(children: [
+                MarkdownView(model: model),
+              ], controller: _scrollController);
+            }),
+      ),
+    );
   }
 
   Widget buildDrawer(BuildContext context) {
-    return Drawer(
-      child: ValueListenableBuilder(
-          valueListenable: model.anchors,
-          builder: (context, value, child) {
-            print("anchors updated");
-            List<Anchor> headers = value[AnchorType.HEADER] as List<Anchor>;
-            List<Widget> children = <Widget>[
-                  AppBar(
+    return ValueListenableBuilder(
+        valueListenable: model.anchors,
+        builder: (context, value, child) {
+          if (value == null) {
+            return Container();
+          }
+          List<Anchor> headers = value[AnchorType.HEADER] as List<Anchor>;
+          if (headers == null) headers = [];
+          List<Widget> children = <Widget>[
+                AppBar(
+                  automaticallyImplyLeading: false,
+                  title: Text(SitLocalizations.of(context).sideMenuHeader,
+                      style: Theme.of(context).textTheme.headline5),
+                  // padding: EdgeInsets.all(1.0),
+                  // margin: EdgeInsets.only(bottom: 1.0)
+                ),
+                AppBar(
                     automaticallyImplyLeading: false,
-                    title: Text(SitLocalizations.of(context).sideMenuHeader,
-                        style: Theme.of(context).textTheme.headline5),
-                    // padding: EdgeInsets.all(1.0),
-                    // margin: EdgeInsets.only(bottom: 1.0)
-                  )
-                ] +
-                headers
-                    .where((anchor) =>
-                        anchor.text
-                            .substring(0, anchor.text.indexOf(" "))
-                            .split(".")
-                            .length <
-                        3)
-                    .map<Widget>((anchor) => ListTile(
-                        title: Text(anchor.text),
-                        onTap: () {
-                          _scrollController.position.ensureVisible(
-                              anchor.key.currentContext.findRenderObject());
-                          Navigator.pop(context);
-                        }))
-                    .toList();
-            return ListView(
-              children: children,
-            );
-          }),
-    );
+                    title: SearchWidget(
+                        onNextItem: () => moveSelection(1),
+                        onPreviousItem: () => moveSelection(-1),
+                        onTextChange: (value) => searchInputUpdated(value)))
+              ] +
+              headers
+                  .where((anchor) =>
+                      anchor.text
+                          .substring(0, anchor.text.indexOf(" "))
+                          .split(".")
+                          .length <
+                      3)
+                  .map<Widget>((anchor) => ListTile(
+                      title: Text(anchor.text),
+                      onTap: () {
+                        _scrollController.position.ensureVisible(
+                            anchor.key.currentContext.findRenderObject());
+                        Navigator.pop(context);
+                      }))
+                  .toList();
+          return ListView(
+            children: children,
+          );
+        });
   }
 
   void searchInputUpdated(String value) {
@@ -105,43 +123,12 @@ class HomePage extends StatelessWidget {
       moveSelection(0);
     });
 
-    // This method is rerun every time setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //
-    // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
-    // than having to individually change instances of widgets.
-    return Scaffold(
+    return HomeLayout(
+      title: GestureDetector(
+          child: Text(SitLocalizations.of(context).title),
+          onTap: () => searchInputUpdated("")),
       drawer: buildDrawer(context),
-      appBar: AppBar(
-          // Here we take the value from the MyHomePage object that was created by
-          // the App.build method, and use it to set our appbar title.
-          title: Row(children: [
-        Text(SitLocalizations.of(context).title),
-        Expanded(
-            child: Center(
-                child: Container(
-                    constraints: BoxConstraints(minWidth: 100, maxWidth: 300),
-                    child: SearchWidget(
-                        onNextItem: () => moveSelection(1),
-                        onPreviousItem: () => moveSelection(-1),
-                        onTextChange: (value) => searchInputUpdated(value)))))
-      ])),
-      body: Container(
-          color: Theme.of(context).highlightColor,
-          child: Center(
-            // Center is a layout widget. It takes a single child and positions it
-            // in the middle of the parent.
-            child: Container(
-                color: Theme.of(context).canvasColor,
-                constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
-                padding: EdgeInsets.fromLTRB(5, 0, 0, 10),
-                child: MarkdownScrollBar(
-                    model: model,
-                    thickness: 30,
-                    controller: _scrollController,
-                    child: buildMainView(context))),
-          )), // This trailing comma makes auto-formatting nicer for build methods.
+      mainView: buildMainView(context),
     );
   }
 }

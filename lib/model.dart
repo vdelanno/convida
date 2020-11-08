@@ -16,8 +16,7 @@ class Model {
   final GlobalKey markdownViewkey = GlobalKey();
   final ValueNotifier<String> text = ValueNotifier<String>("");
   final ValueNotifier<Map<AnchorType, List<Anchor>>> anchors =
-      ValueNotifier<Map<AnchorType, List<Anchor>>>(
-          Map<AnchorType, List<Anchor>>());
+      ValueNotifier<Map<AnchorType, List<Anchor>>>({});
 
   List<Anchor> get highlights {
     final List<Anchor> highlights =
