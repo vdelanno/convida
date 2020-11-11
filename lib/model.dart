@@ -8,8 +8,15 @@ class Anchor {
 
 enum AnchorType { HIGHLIGHT, HEADER }
 
-class Model {
-  Model({String text = ""}) {
+class Chapter {
+  Chapter({@required this.title, @required this.fullText, this.image});
+  final String title;
+  final String fullText;
+  final IconData image;
+}
+
+class PageDataModel {
+  PageDataModel({String text = ""}) {
     this.text.value = text;
   }
 

@@ -18,7 +18,7 @@ class MyScrollbarPainter extends CustomPainter with ChangeNotifier {
 
   final double thickness;
   final ChangeNotifier repaintNotifier;
-  final Model model;
+  final PageDataModel model;
   final List<List<ScrollbarItem>> items = [];
 
   void _updateItems() {
@@ -116,7 +116,7 @@ class MarkdownScrollBar extends StatelessWidget {
       {Key key, this.thickness, this.model, this.controller, this.child})
       : super(key: key);
 
-  final Model model;
+  final PageDataModel model;
   final double thickness;
   final ScrollController controller;
   final Widget child;

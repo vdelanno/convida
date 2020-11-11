@@ -17,7 +17,7 @@ class MarkdownView extends StatelessWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  final Model model;
+  final PageDataModel model;
 
   String highlightMarkdown(String text, String substr) {
     return text.replaceAllMapped(new RegExp('($substr)', caseSensitive: false),
