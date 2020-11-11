@@ -142,7 +142,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: d1a880a331f940d1175aa9f3bac75aee86d6dfb1
+      resolved-ref: df0954394ee1a73e6e43fb913d0a5859514cc431
       url: "https://github.com/vdelanno/flutter_markdown.git"
     source: git
     version: "0.5.0"
@@ -151,6 +151,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_treeview:
+    dependency: "direct main"
+    description:
+      name: flutter_treeview
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.6.0+1"
   flutter_web_plugins:
     dependency: transitive
     description: flutter

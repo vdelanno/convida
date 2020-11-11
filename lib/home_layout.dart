@@ -1,9 +1,4 @@
-import 'package:convida/markdown_view.dart';
-import 'package:convida/search_widget.dart';
-import 'package:convida/sit_localizations.dart';
 import 'package:flutter/material.dart';
-import 'model.dart';
-import 'markdown_scrollbar.dart';
 
 class HomeLayout extends StatelessWidget {
   HomeLayout(

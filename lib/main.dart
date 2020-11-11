@@ -63,34 +63,108 @@ class AppBody extends StatelessWidget {
   final String _locale;
   AppBody(this.onChangeLanguage, this._locale);
 
+  Section getSection(String text) {
+    print("get section $text");
+    int titleEnd = text.indexOf("\n");
+    String title = text.substring(0, titleEnd).trim();
+    String fullText = text.substring(titleEnd, text.length).trim();
+    return Section(title: title, fullText: fullText);
+  }
+
+  Chapter getChapter(String title, String fullText, String image) {
+    fullText = fullText.trim();
+    String description;
+    if (!fullText.startsWith('#')) {
+      int descriptionLength = fullText.indexOf("##");
+      if (descriptionLength == -1) {
+        description = fullText;
+        fullText = "";
+      } else {
+        description = fullText.substring(0, descriptionLength).trim();
+        fullText =
+            fullText.substring(descriptionLength, fullText.length).trim();
+      }
+    }
+
+    List<Section> sections = fullText
+        .split(new RegExp(r"^\#\# ", multiLine: true))
+        .map<Section>((section) {
+          if (section.isEmpty) {
+            return null;
+          }
+          return getSection(section);
+        })
+        .where((chapter) => chapter != null)
+        .toList();
+
+    print("chapter $title $description $image -----");
+    return Chapter(
+        title: title,
+        description: description,
+        image: kKnownIcons[image],
+        sections: sections);
+  }
+
+  Chapter parseChapter(String text) {
+    int titleEnd = text.indexOf("\n");
+    String title = text.substring(0, titleEnd).trim();
+    String fullText = text.substring(titleEnd, text.length).trim();
+    RegExp exp = new RegExp(r"^\[(.*)\]\s*(.*)");
+    RegExpMatch match = exp.firstMatch(title);
+
+    return getChapter(
+      match.group(2),
+      fullText,
+      match.group(1),
+    );
+  }
+
+  List<Chapter> parseChapters(String text) {
+    return text
+        .split(new RegExp(r"^\# ", multiLine: true))
+        .map<Chapter>((chapter) {
+          if (chapter.isEmpty) {
+            return null;
+          }
+          return parseChapter(chapter);
+        })
+        .where((chapter) => chapter != null)
+        .toList();
+  }
+
   Future<List<Chapter>> loadText(String locale) async {
     print("loading text");
     return rootBundle.load("assets/txt-$locale.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
-      List<String> chapters =
-          newText.split(new RegExp(r"^\# ", multiLine: true));
-      print(chapters.length);
-      List<Chapter> pages = chapters
-          .map<Chapter>((chapter) {
-            if (chapter.isEmpty) {
-              return null;
-            }
-            int titleEnd = chapter.indexOf("\n");
-            String title = chapter.substring(0, titleEnd).trim();
-            RegExp exp = new RegExp(r"^\[(.*)\]\s*(.*)");
-            RegExpMatch match = exp.firstMatch(title);
-            String fullText =
-                chapter.substring(titleEnd, chapter.length).trim();
-            print(match.group(2));
+      List<Chapter> pages = parseChapters(newText);
+      // newText.split(new RegExp(r"^\# ", multiLine: true));
+      // List<Chapter> pages = chapters
+      //     .map<Chapter>((chapter) {
+      //       if (chapter.isEmpty) {
+      //         return null;
+      //       }
+      //       ;
+      //       int titleEnd = chapter.indexOf("\n");
+      //       String title = chapter.substring(0, titleEnd).trim();
+      //       RegExp exp = new RegExp(r"^\[(.*)\]\s*(.*)");
+      //       RegExpMatch match = exp.firstMatch(title);
+      //       String fullText =
+      //           chapter.substring(titleEnd, chapter.length).trim();
+      //       print(match.group(2));
 
-            return Chapter(
-              title: match.group(2),
-              fullText: fullText,
-              image: kKnownIcons[match.group(1)],
-            );
-          })
-          .where((page) => page != null)
-          .toList();
+      //       String description = null;
+      //       List<Section> sections = [];
+
+      //       fullText.split("\n").forEach((line) {});
+
+      //       return Chapter(
+      //         title: match.group(2),
+      //         description: fullText,
+      //         image: kKnownIcons[match.group(1)],
+      //       );
+      //     })
+      //     .where((page) => page != null)
+      //     .toList();
       return pages;
     });
   }

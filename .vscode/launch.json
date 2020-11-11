@@ -7,7 +7,9 @@
         {
             "name": "convida",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            // "flutterMode": "release"
+
         }
     ]
 }

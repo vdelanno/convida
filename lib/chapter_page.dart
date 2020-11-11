@@ -1,15 +1,12 @@
 import 'package:convida/markdown_view.dart';
-import 'package:convida/search_widget.dart';
-import 'package:convida/sit_localizations.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_treeview/tree_view.dart';
-import 'home_layout.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import 'model.dart';
 import 'markdown_scrollbar.dart';
 
 class ChapterPage extends StatelessWidget {
   ChapterPage({Key key, this.chapter})
-      : model = PageDataModel(text: chapter.fullText),
+      : model = PageDataModel(text: chapter.description),
         super(key: key);
 
   // This widget is the home page of your application. It is stateful, meaning
@@ -31,21 +28,50 @@ class ChapterPage extends StatelessWidget {
         (Match m) => "^^${m[1]}^^");
   }
 
+  Widget sectionWidget(BuildContext context, Section section) {
+    return Card(
+        margin: EdgeInsets.fromLTRB(5, 10, 5, 0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Container(
+              padding: EdgeInsets.fromLTRB(5, 5, 5, 5),
+              child: Text(
+                section.title,
+                style: Theme.of(context).accentTextTheme.subtitle1,
+              ),
+              color: Theme.of(context).accentColor,
+            ),
+            Container(
+              padding: EdgeInsets.fromLTRB(5, 5, 5, 5),
+              child: MarkdownBody(data: section.fullText),
+            )
+          ],
+        ));
+  }
+
   Widget buildMainView(BuildContext context) {
     return Container(
-      color: Theme.of(context).canvasColor,
       constraints: BoxConstraints(minWidth: 300, maxWidth: 800),
-      padding: EdgeInsets.fromLTRB(5, 0, 0, 10),
-      child: MarkdownScrollBar(
-        model: model,
-        thickness: 30,
-        controller: _scrollController,
+      child: Scrollbar(
         child: ValueListenableBuilder(
             valueListenable: model.text,
             builder: (context, value, child) {
-              return ListView(children: [
-                MarkdownView(model: model),
-              ], controller: _scrollController);
+              List<Widget> widgets = [];
+              if (chapter.description != null) {
+                widgets.add(Container(
+                    color: Theme.of(context).canvasColor,
+                    padding: EdgeInsets.fromLTRB(10, 0, 0, 10),
+                    child: MarkdownBody(data: chapter.description)));
+              }
+
+              List<Widget> sections = chapter.sections
+                  .map<Widget>((section) => sectionWidget(context, section))
+                  .toList();
+              widgets.add(Container(
+                  // color: Theme.of(context).highlightColor,
+                  child: Column(children: sections)));
+              return ListView(children: widgets, controller: _scrollController);
             }),
       ),
     );
@@ -53,9 +79,9 @@ class ChapterPage extends StatelessWidget {
 
   void searchInputUpdated(String value) {
     String toSearch = value.trim();
-    String newText = chapter.fullText;
+    String newText = chapter.description;
     if (toSearch.isNotEmpty) {
-      newText = markdownSearch(chapter.fullText, toSearch);
+      newText = markdownSearch(chapter.description, toSearch);
     }
     if (newText != model.text.value) {
       searchIndex.value = 0;
@@ -63,22 +89,8 @@ class ChapterPage extends StatelessWidget {
     }
   }
 
-  void moveSelection(int offset) {
-    final List<Anchor> highlights =
-        model.anchors.value.putIfAbsent(AnchorType.HIGHLIGHT, () => []);
-    if (highlights.isNotEmpty) {
-      searchIndex.value = (searchIndex.value + offset) % highlights.length;
-      _scrollController.position.ensureVisible(
-          highlights[searchIndex.value].key.currentContext.findRenderObject());
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      moveSelection(0);
-    });
-
     return Scaffold(
       appBar: AppBar(
         title: Row(children: [

@@ -8,11 +8,22 @@ class Anchor {
 
 enum AnchorType { HIGHLIGHT, HEADER }
 
-class Chapter {
-  Chapter({@required this.title, @required this.fullText, this.image});
+class Section {
+  Section({@required this.title, @required this.fullText});
   final String title;
   final String fullText;
+}
+
+class Chapter {
+  Chapter(
+      {@required this.title,
+      @required this.description,
+      @required this.image,
+      @required this.sections});
+  final String title;
+  final String description;
   final IconData image;
+  final List<Section> sections;
 }
 
 class PageDataModel {
