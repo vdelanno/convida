@@ -61,6 +61,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/logo.png
+    - assets/about.md
     - assets/txt.md
     - assets/txt-es.md
     - assets/txt-en.md

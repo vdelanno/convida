@@ -30,16 +30,37 @@ class ChapterPage extends StatelessWidget {
 
   Widget sectionWidget(BuildContext context, Section section) {
     return Card(
+      margin: EdgeInsets.fromLTRB(5, 10, 5, 0),
+      color: Theme.of(context).accentColor,
+      child: ExpansionTile(
+          backgroundColor: Theme.of(context).accentColor,
+          leading: Icon(Icons.question_answer_rounded),
+          title: Container(
+              child: Text(
+            section.title,
+            style: Theme.of(context).accentTextTheme.subtitle1,
+          )),
+          children: [
+            Container(
+              padding: EdgeInsets.fromLTRB(10, 2, 10, 10),
+              child: MarkdownBody(data: section.fullText),
+              color: Theme.of(context).canvasColor,
+            )
+          ]),
+    );
+    return Card(
         margin: EdgeInsets.fromLTRB(5, 10, 5, 0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Container(
               padding: EdgeInsets.fromLTRB(5, 5, 5, 5),
-              child: Text(
-                section.title,
-                style: Theme.of(context).accentTextTheme.subtitle1,
-              ),
+              child: ListTile(
+                  leading: Icon(Icons.question_answer_rounded),
+                  title: Text(
+                    section.title,
+                    style: Theme.of(context).accentTextTheme.subtitle1,
+                  )),
               color: Theme.of(context).accentColor,
             ),
             Container(
@@ -61,7 +82,7 @@ class ChapterPage extends StatelessWidget {
               if (chapter.description != null) {
                 widgets.add(Container(
                     color: Theme.of(context).canvasColor,
-                    padding: EdgeInsets.fromLTRB(10, 0, 0, 10),
+                    padding: EdgeInsets.fromLTRB(10, 15, 0, 10),
                     child: MarkdownBody(data: chapter.description)));
               }
 
@@ -101,6 +122,7 @@ class ChapterPage extends StatelessWidget {
       ),
       body: Container(
           color: Theme.of(context).highlightColor,
+          padding: EdgeInsets.fromLTRB(0, 0, 0, 10),
           child: Center(
             child: buildMainView(context),
           )),
