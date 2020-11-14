@@ -1,12 +1,18 @@
 import 'dart:convert';
 import 'package:convida/loading_page.dart';
 import 'package:convida/sit_localizations.dart';
+import 'package:convida/text_load_layout.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
+import 'about_page.dart';
+import 'chapter_page.dart';
 import 'home_page.dart';
+import 'icons_helper.dart';
 import 'model.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+
+import 'search_page.dart';
 
 void main() {
   runApp(App());
@@ -21,17 +27,24 @@ class App extends StatefulWidget {
 
 typedef LanguageCallback = void Function(String);
 
-final Map<String, IconData> kKnownIcons = {
-  "help": Icons.help,
-  "hospital": Icons.local_hospital,
-  "symptoms": Icons.sick,
-  "treatment": Icons.medical_services,
-  "special_conditions": Icons.accessibility,
-  "share": Icons.share,
-  "prevention": Icons.security,
-  "home": Icons.home,
-  "settings": Icons.settings
-};
+// 1.	Aclarando dudas (Clarifying doubts)
+//    help / question mark
+// 2.	Transmisión (Transmission)3
+//    sharing
+// 3.	Prevención (Prevention)
+//    shield
+// 4.	Molestias (Síntomas) (Symptoms)
+//    sick guy
+// 5.	Personas especiales (Special people)
+//    accessibility_new
+// 6.	Cuando hay un enfermo en casa (When there is someone sick at home)
+//    home
+// 7.	Señales de alarma (Emergency warning signs)
+//    medical_services / ambulance
+// 8.	Exámenes (Tests)
+//    vial
+// 9.	Tratamiento (Treatment)
+//    healing
 
 class _AppState extends State<App> {
   String _locale = 'es';
@@ -47,14 +60,31 @@ class _AppState extends State<App> {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-        locale: Locale(_locale),
-        localizationsDelegates: [
-          SitLocalizationsDelegate(),
-          GlobalMaterialLocalizations.delegate,
-          GlobalWidgetsLocalizations.delegate,
-        ],
-        supportedLocales: kSupportedLocales.map((l) => Locale(l)),
-        home: AppBody(this.onChangeLanguage, _locale));
+      locale: Locale(_locale),
+      localizationsDelegates: [
+        SitLocalizationsDelegate(),
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+      ],
+      localeResolutionCallback: (locale, supportedLocales) {
+        print("resolve $locale");
+        return Locale(locale.languageCode);
+      },
+      initialRoute: '/',
+      routes: {
+        '/': (context) => HomePage(),
+        AboutPage.route: (context) => AboutPage(),
+        SearchPage.route: (context) => SearchPage(),
+      },
+      onGenerateRoute: (settings) {
+        print("canPop ${settings.name}? ${Navigator.canPop(context)}");
+        return MaterialPageRoute(
+            settings: RouteSettings(name: settings.name),
+            builder: (context) => ChapterPage());
+      },
+      supportedLocales: kSupportedLocales.map((l) => Locale(l)),
+      // home: AppBody(this.onChangeLanguage, _locale)
+    );
   }
 }
 
@@ -63,132 +93,16 @@ class AppBody extends StatelessWidget {
   final String _locale;
   AppBody(this.onChangeLanguage, this._locale);
 
-  Section getSection(String text) {
-    print("get section $text");
-    int titleEnd = text.indexOf("\n");
-    String title = text.substring(0, titleEnd).trim();
-    String fullText = text.substring(titleEnd, text.length).trim();
-    return Section(title: title, fullText: fullText);
-  }
-
-  Chapter getChapter(String title, String fullText, String image) {
-    fullText = fullText.trim();
-    String description;
-    if (!fullText.startsWith('#')) {
-      int descriptionLength = fullText.indexOf("##");
-      if (descriptionLength == -1) {
-        description = fullText;
-        fullText = "";
-      } else {
-        description = fullText.substring(0, descriptionLength).trim();
-        fullText =
-            fullText.substring(descriptionLength, fullText.length).trim();
-      }
-    }
-
-    List<Section> sections = fullText
-        .split(new RegExp(r"^\#\# ", multiLine: true))
-        .map<Section>((section) {
-          if (section.isEmpty) {
-            return null;
-          }
-          return getSection(section);
-        })
-        .where((chapter) => chapter != null)
-        .toList();
-
-    print("chapter $title $description $image -----");
-    return Chapter(
-        title: title,
-        description: description,
-        image: kKnownIcons[image],
-        sections: sections);
-  }
-
-  Chapter parseChapter(String text) {
-    int titleEnd = text.indexOf("\n");
-    String title = text.substring(0, titleEnd).trim();
-    String fullText = text.substring(titleEnd, text.length).trim();
-    RegExp exp = new RegExp(r"^\[(.*)\]\s*(.*)");
-    RegExpMatch match = exp.firstMatch(title);
-
-    return getChapter(
-      match.group(2),
-      fullText,
-      match.group(1),
-    );
-  }
-
-  List<Chapter> parseChapters(String text) {
-    return text
-        .split(new RegExp(r"^\# ", multiLine: true))
-        .map<Chapter>((chapter) {
-          if (chapter.isEmpty) {
-            return null;
-          }
-          return parseChapter(chapter);
-        })
-        .where((chapter) => chapter != null)
-        .toList();
-  }
-
-  Future<List<Chapter>> loadText(String locale) async {
-    print("loading text");
-    return rootBundle.load("assets/txt-$locale.md").then((bytes) {
-      String newText = utf8.decode(bytes.buffer.asUint8List());
-      List<Chapter> pages = parseChapters(newText);
-      // newText.split(new RegExp(r"^\# ", multiLine: true));
-      // List<Chapter> pages = chapters
-      //     .map<Chapter>((chapter) {
-      //       if (chapter.isEmpty) {
-      //         return null;
-      //       }
-      //       ;
-      //       int titleEnd = chapter.indexOf("\n");
-      //       String title = chapter.substring(0, titleEnd).trim();
-      //       RegExp exp = new RegExp(r"^\[(.*)\]\s*(.*)");
-      //       RegExpMatch match = exp.firstMatch(title);
-      //       String fullText =
-      //           chapter.substring(titleEnd, chapter.length).trim();
-      //       print(match.group(2));
-
-      //       String description = null;
-      //       List<Section> sections = [];
-
-      //       fullText.split("\n").forEach((line) {});
-
-      //       return Chapter(
-      //         title: match.group(2),
-      //         description: fullText,
-      //         image: kKnownIcons[match.group(1)],
-      //       );
-      //     })
-      //     .where((page) => page != null)
-      //     .toList();
-      return pages;
-    });
-  }
-
-  String getLocale() => Intl.shortLocale(Intl.defaultLocale);
-
   @override
   Widget build(BuildContext context) {
-    String locale = getLocale();
+    print("default localed ${Intl.defaultLocale}");
+    String locale = Intl.shortLocale(Intl.defaultLocale);
     if (locale != _locale) {
       Future.delayed(Duration(microseconds: 0), () => onChangeLanguage(locale));
 
       return Container();
     }
     print("build locale $locale ");
-    return FutureBuilder(
-        future: loadText(locale),
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.done) {
-            return HomePage(chapters: snapshot.data);
-          }
-          return LoadingPage(
-            title: SitLocalizations.of(context).title,
-          );
-        });
+    return TextLoadLayout(builder: (context, chapters) => HomePage());
   }
 }

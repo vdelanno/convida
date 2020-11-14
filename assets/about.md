@@ -18,3 +18,5 @@
 **contact**: [info@convida.support](mailto:info@convida.support)
 
 **code**: https://github.com/vdelanno/convida
+
+## License

@@ -5,6 +5,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 
 class AboutPage extends StatelessWidget {
+  static const String route = '/about';
   AboutPage({
     Key key,
   }) : super(key: key);
@@ -19,16 +20,17 @@ class AboutPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(
-          title: Text(SitLocalizations.of(context).title),
-        ),
-        body: FutureBuilder(
-            future: loadText(),
-            builder: (context, snapshot) {
-              if (snapshot.connectionState == ConnectionState.done) {
-                return Scrollbar(child: MarkdownBody(data: snapshot.data));
-              }
-              return Container();
-            }));
+      appBar: AppBar(
+        title: Text(SitLocalizations.of(context).title),
+      ),
+      body: FutureBuilder(
+          future: loadText(),
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.done) {
+              return Scrollbar(child: MarkdownBody(data: snapshot.data));
+            }
+            return Container();
+          }),
+    );
   }
 }

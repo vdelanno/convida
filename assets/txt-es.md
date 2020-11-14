@@ -1,4 +1,4 @@
-# [share] TRANSMISIÓN
+# [transmission:share] TRANSMISIÓN
 
 La transmisión del virus de COVID-19 es principalmente mediante las pequeñas gotas respiratorias y, en menor proporción, mediante contacto con superficies y objetos contaminados. Las gotas respiratorias se generan cuando una persona respira (bota aire de los pulmones), habla, canta, estornuda o tose. Estas gotas respiratorias se esparcen hasta 2 metros de distancia e ingresan por los ojos, nariz y boca de las personas que estén cerca.
 
@@ -30,7 +30,7 @@ Si tiene COVID-19 y no siente molestias, debe de quedarse en casa hasta 10 días
 
 Sea asintomático o sintomático, estar alejado de las personas en riesgo de enfermar gravemente, como personas mayores.
 
-# [symptoms] MOLESTIAS (SÍNTOMAS)
+# [symptons:sick] MOLESTIAS (SÍNTOMAS)
 
 COVID-19 se presenta de diferentes maneras, asintomática (sin molestias) o como  una neumonía severa, pudiendo ocasionar la muerte. La mayoría de las personas que enferman de COVID-19 tienen síntomas leves o moderados, recuperándose con cuidados médicos (de acuerdo a cómo la enfermedad se vaya presentando en cada paciente). Si tiene tos, fiebre y dificultad para respirar llame a su médico(a) o acuda al centro de salud. Si tiene fiebre y vive en una zona de paludismo (malaria) o dengue busque atención médica lo antes posible.
 
@@ -79,7 +79,7 @@ Las señales de alarma indican la necesidad de atención médica lo antes posibl
 *   Coloración azulada de labios (cianosis)
 *   Saturación de oxígeno menor a 95% (la saturación de oxígeno se mide con un pulsioxímetro, se parece a un dedal). La persona con COVID puede no sentir molestias mientras su saturación de oxígeno disminuye.
 
-# [prevention] PREVENCIÓN
+# [prevention:security] PREVENCIÓN
 
 Use o no mascarilla debe de cumplir con las siguientes medidas:
 *   Evitar ir a lugares con muchas personas.
@@ -134,7 +134,7 @@ Usted puede contraer la enfermedad del coronavirus sin importar que tan soleado 
 Los climas fríos no matan ni el virus de COVID-19 ni otros virus (bichos). La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C sin importar ni el clima ni la temperatura externa. La forma más efectiva de prevenir COVID-19 es lavarse las manos frecuentemente con agua y jabón o aplicarse alcohol gel si las manos no se están visiblemente sucias.
 
 
-# [special_conditions] CONDICIONES ESPECIALES
+# [conditions:accessibility_new] CONDICIONES ESPECIALES
 
 _El virus de COVID-19 afecta más a las personas mayores?, o a los jóvenes también_
 
@@ -168,7 +168,7 @@ Niños severamente inmunocomprometidos y con enfermedad cardiopulmonar podrían 
 
 Se ha visto en algunos niños han desarrollado el síndrome de inflamación multisistémica. Este síndrome fue descrito por primera vez en el Reino Unido (Inglaterra), niños con infección del virus de COVID-19 actual o reciente y previamente sanos presentaron inflamación severa y manifestaciones similares a la enfermedad de Kawasaki. En Nueva York se han identificado cientos de casos con pocas muertes de niños con síndrome de inflamación multisistémica (MIS-C). Este síndrome se presenta con fiebre persistente, inflamación sistémica, y compromiso de varios órganos (como el corazón, riñón, piel, sangre, sistema gastrointestinal y sistema nervioso).
 
-# [home] CUANDO HAY UN ENFERMO COVID-19 EN CASA
+# [home:home] CUANDO HAY UN ENFERMO COVID-19 EN CASA
 
 ## Recomendaciones para las personas con molestias (síntomas) COVID-19
 *   Aislarse en un dormitorio aparte, y de ser posible, utilizar un baño separado.
@@ -244,14 +244,14 @@ Si bien el uso de mascarillas quirúrgicas por un tiempo prolongado puede llegar
 *   Verificar en la etiqueta de la mascarilla la temperatura máxima a la que puede ser lavada. Las mascarillas hechas de polipropileno pueden aguantar altas temperaturas, hasta 140°C.
 *   Si es que no se puede contar con agua caliente, lavar la mascarilla con jabón o detergente y luego hervir la mascarilla por 1 minuto.
 
-# [hospital] PRUEBAS/EXÁMENES DE LABORATORIO
+# [testing:vial] PRUEBAS/EXÁMENES DE LABORATORIO
 La prueba rápida es positiva después de 21 días del comienzo de los síntomas/molestias. No se sabe si las defensas producidas por la persona infectada van a ser de por vida y si la protegerá de una segunda infección (reinfección). El resultado de la prueba rápida debe de ser leído por un médico o médica, ellos son los que le indicarán el siguiente paso a seguir.
 
 Las pruebas rápidas (serológicas) no deben de definir si las personas retornan al trabajo, escuela, o cualquier otro sitio donde se conglomeren o agrupen personas.
 
 Solo las pruebas moleculares o de antígenos pueden diagnosticar la infección aguda de SARS-CoV-2, que es cuando la persona puede transmitir el virus.
 
-# [treatment] TRATAMIENTO 
+# [treatment:healing] TRATAMIENTO 
 Hasta la fecha no hay una medicina (pastilla, ampolla) para prevenir o tratar el virus de COVID-19. Los infectados con el virus deben de recibir atención médica apropiada lo más temprano posible. Hay varios medicamentos que se están probando en estudios con pacientes hospitalizados y hasta la fecha no se ha demostrado su efectividad (si curan o no la enfermedad del coronavirus).
 
 Las personas con COVID-19 pueden desarrollar la enfermedad de forma leve a moderada en la mayoría de los casos. La detección temprano de las molestias y el tratamiento oportuno de las personas con COVID-19 puede evitar futuras complicaciones y posible muerte.
