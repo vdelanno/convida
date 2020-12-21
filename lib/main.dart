@@ -6,8 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
 import 'about_page.dart';
+import 'convida_page.dart';
+import 'section_page.dart';
 import 'chapter_page.dart';
-import 'home_page.dart';
 import 'icons_helper.dart';
 import 'model.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -72,7 +73,7 @@ class _AppState extends State<App> {
       },
       initialRoute: '/',
       routes: {
-        '/': (context) => HomePage(),
+        // '/': (context) => ConvidaPage(pageId: "convida"),
         AboutPage.route: (context) => AboutPage(),
         SearchPage.route: (context) => SearchPage(),
       },
@@ -80,29 +81,15 @@ class _AppState extends State<App> {
         print("canPop ${settings.name}? ${Navigator.canPop(context)}");
         return MaterialPageRoute(
             settings: RouteSettings(name: settings.name),
-            builder: (context) => ChapterPage());
+            builder: (context) {
+              String pageId = settings.name.substring(1);
+              if (pageId.isEmpty) {
+                pageId = "convida";
+              }
+              return ConvidaPage(pageId: pageId);
+            });
       },
       supportedLocales: kSupportedLocales.map((l) => Locale(l)),
-      // home: AppBody(this.onChangeLanguage, _locale)
     );
-  }
-}
-
-class AppBody extends StatelessWidget {
-  final LanguageCallback onChangeLanguage;
-  final String _locale;
-  AppBody(this.onChangeLanguage, this._locale);
-
-  @override
-  Widget build(BuildContext context) {
-    print("default localed ${Intl.defaultLocale}");
-    String locale = Intl.shortLocale(Intl.defaultLocale);
-    if (locale != _locale) {
-      Future.delayed(Duration(microseconds: 0), () => onChangeLanguage(locale));
-
-      return Container();
-    }
-    print("build locale $locale ");
-    return TextLoadLayout(builder: (context, chapters) => HomePage());
   }
 }

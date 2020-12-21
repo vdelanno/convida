@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:intl/intl.dart';
@@ -14,50 +15,164 @@ class Anchor {
 
 enum AnchorType { HIGHLIGHT, HEADER }
 
-class Section {
-  Section({@required this.title, @required this.fullText});
+class QuestionAnswer {
+  QuestionAnswer({@required this.title, @required this.fullText});
   final String title;
   final String fullText;
+
+  Map toDict() {
+    return {"title": title, "fullText": fullText};
+  }
 }
 
-class Chapter {
-  Chapter(
-      {@required this.id,
-      @required this.title,
-      @required this.description,
-      @required this.image,
-      @required this.sections});
+class PageItem {
+  PageItem({
+    @required this.id,
+    @required this.title,
+    @required this.image,
+  });
   final String id;
   final String title;
-  final String description;
   final IconData image;
-  final List<Section> sections;
+
+  Map toDict() {
+    print("page item todict $id $title");
+    return {
+      "id": this.id,
+      "title": this.title,
+    };
+  }
+}
+
+class Chapter extends PageItem {
+  Chapter(
+      {@required String id,
+      @required String title,
+      @required IconData image,
+      @required this.pages})
+      : super(id: id, title: title, image: image);
+  final List<PageItem> pages;
+
+  Map toDict() {
+    print("chapter todict ${pages.length}");
+    Map map = super.toDict();
+    print("chapter todict $map");
+    map["pages"] = pages.map((page) => page.toDict()).toList();
+    return map;
+  }
+}
+
+class Section extends PageItem {
+  Section(
+      {@required String id,
+      @required String title,
+      @required IconData image,
+      @required this.description,
+      @required this.qas})
+      : super(id: id, title: title, image: image);
+
+  final String description;
+  final List<QuestionAnswer> qas;
+
+  Map toDict() {
+    Map map = super.toDict();
+    map["description"] = description;
+    map["qas"] = this.qas.map((qa) => qa.toDict());
+    return map;
+  }
 }
 
 class Model {
-  static Future<List<Chapter>> _chapters;
-  static Future<List<Chapter>> get chapters {
-    if (_chapters == null) {
-      Model model = Model._();
-      _chapters = model._loadText();
-    }
-    return _chapters;
+  static Model _instance = Model._();
+
+  Future<Chapter> _home;
+  Future<Chapter> get home => _home;
+  AssetsAudioPlayer get _assetsAudioPlayer =>
+      AssetsAudioPlayer.withId("convida");
+
+  Model._() {
+    _assetsAudioPlayer.audioSessionId.listen((event) => print("asdfasdf"));
+    _assetsAudioPlayer.onReadyToPlay
+        .listen((audio) => print("ready to play $audio"));
+    _assetsAudioPlayer.audioSessionId.listen((sessionId) {
+      print("audioSessionId : $sessionId");
+    });
+    _assetsAudioPlayer.playlistAudioFinished.listen((data) {
+      print("playlistAudioFinished : $data");
+    });
+    _assetsAudioPlayer.onErrorDo = (error) {
+      print(error.error.message);
+      error.player.stop();
+    };
+    AssetsAudioPlayer.addNotificationOpenAction((notification) {
+      return false;
+    });
+    _home = _loadText().then((home) {
+      return home;
+      print("loading audio");
+      // List<Audio> audios = home.Sections.map<Audio>((Section) {
+      //   String path = "assets/assets/${Section.id}.mp3";
+
+      //   print("loading $path");
+      //   return Audio(
+      //     path,
+      //     metas: Metas(
+      //       id: Section.id,
+      //       title: Section.description,
+      //       artist: "COnVIDa",
+      //     ),
+      //   );
+      // }).toList();
+      // return _assetsAudioPlayer.open(Playlist(audios: audios)).then((_) {
+      //   print("model fully initialied, nbSections: ${home.Sections.length}");
+      //   return home;
+      // });
+    });
+  }
+  void _onError(ErrorHandler err) {
+    print(err);
   }
 
-  Model._();
+  factory Model.instance() {
+    return _instance;
+  }
 
-  Section _getSection(String text) {
+  Future<void> playAudioForSection(String sectionId) async {
+    print("will play audio for $sectionId");
+    // _Sections.then((cs) {
+    //   int index = cs.indexWhere((Section) => Section.id == SectionId);
+    //   if (index != -1) {
+    //     print("will play audio at index $index");
+    //     String asset = "assets/$SectionId.mp3";
+    //     rootBundle.load(asset).then((bytes) {
+    //       print("audioFile $asset is ${bytes.lengthInBytes} long");
+    //     });
+
+    //     _assetsAudioPlayer
+    //         .playlistPlayAtIndex(index)
+    //         .then((_) => _assetsAudioPlayer.play());
+    //   }
+    // });
+  }
+
+  void stopAudio() {
+    _assetsAudioPlayer.pause();
+  }
+
+  QuestionAnswer _getQuestionAnswer(String text) {
     int titleEnd = text.indexOf("\n");
     String title = text.substring(0, titleEnd).trim();
     String fullText = text.substring(titleEnd, text.length).trim();
-    return Section(title: title, fullText: fullText);
+    return QuestionAnswer(title: title, fullText: fullText);
   }
 
-  Chapter _getChapter(String title, String fullText, String image, String id) {
+  Section _getSection(
+      String title, String fullText, String image, String id, int level) {
+    print("_getSection: $title");
     fullText = fullText.trim();
     String description;
-    if (!fullText.startsWith('#')) {
-      int descriptionLength = fullText.indexOf("##");
+    if (!fullText.startsWith('¿')) {
+      int descriptionLength = fullText.indexOf("¿");
       if (descriptionLength == -1) {
         description = fullText;
         fullText = "";
@@ -68,61 +183,83 @@ class Model {
       }
     }
 
-    List<Section> sections = fullText
-        .split(new RegExp(r"^\#\# ", multiLine: true))
-        .map<Section>((section) {
+    List<QuestionAnswer> sections = fullText
+        .split(new RegExp(r"^¿", multiLine: true))
+        .map<QuestionAnswer>((section) {
           if (section.isEmpty) {
             return null;
           }
-          return _getSection(section);
+          return _getQuestionAnswer(section);
         })
-        .where((chapter) => chapter != null)
+        .where((section) => section != null)
         .toList();
 
-    return Chapter(
+    Section section = Section(
         id: id,
         title: title,
         description: description,
         image: getIconUsingPrefix(name: image),
-        sections: sections);
+        qas: sections);
+
+    return section;
   }
 
-  Chapter _parseChapter(String text) {
-    int titleEnd = text.indexOf("\n");
-    String title = text.substring(0, titleEnd).trim();
-    String fullText = text.substring(titleEnd, text.length).trim();
+  PageItem _parsePage(String text, int level) {
+    int headerEnd = text.indexOf("\n");
+    String header = text.substring(0, headerEnd).trim();
+    String fullText = text.substring(headerEnd, text.length).trim();
     RegExp exp = new RegExp(r"^\[(.*)\:(.*)\]\s*(.*)");
-    RegExpMatch match = exp.firstMatch(title);
+    RegExpMatch match = exp.firstMatch(header);
 
-    return _getChapter(
-      match.group(3),
-      fullText,
-      match.group(2),
-      match.group(1),
-    );
+    String title = match.group(3);
+    String image = match.group(2);
+    String id = match.group(1);
+
+    int childLevel = level + 1;
+    String childRegex = "^" + "#" * childLevel + " ";
+
+    print("_parsePage $title $level '$childRegex'");
+    if (fullText.contains(new RegExp(childRegex, multiLine: true))) {
+      return _getChapter(title, fullText, image, id, childLevel);
+    } else {
+      return _getSection(title, fullText, image, id, level);
+    }
   }
 
-  List<Chapter> _parseChapters(String text) {
-    return text
-        .split(new RegExp(r"^\# ", multiLine: true))
-        .map<Chapter>((chapter) {
-          if (chapter.isEmpty) {
+  Chapter _getChapter(
+      String title, String fullText, String image, String id, int level) {
+    String regex = "^" + "\\#" * level + " ";
+    print("_getChapter " + title);
+    List<PageItem> pages = fullText
+        .split(new RegExp(regex, multiLine: true))
+        .map<PageItem>((text) {
+          if (text.isEmpty) {
             return null;
           }
-          return _parseChapter(chapter);
+          PageItem child = _parsePage(text, level);
+          if (child == null) {
+            print("CHILD IS NULL");
+          }
+          return child;
         })
-        .where((chapter) => chapter != null)
+        .where((page) => page != null)
         .toList();
+    return Chapter(
+        id: id,
+        title: title,
+        image: getIconUsingPrefix(name: image),
+        pages: pages);
   }
 
-  Future<List<Chapter>> _loadText() async {
+  Future<Chapter> _loadText() async {
     print("loading text");
     String locale = Intl.shortLocale(Intl.defaultLocale);
 
     return rootBundle.load("assets/txt-$locale.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
-      List<Chapter> pages = _parseChapters(newText);
-      return pages;
+      Chapter chapter =
+          _getChapter("convida", newText, "convida", "convida", 1);
+      return chapter;
     });
   }
 }

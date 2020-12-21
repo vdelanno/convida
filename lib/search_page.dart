@@ -50,45 +50,58 @@ class SearchPage extends StatelessWidget {
   }
 
   List<Widget> searchResult(
-      BuildContext context, List<Chapter> chapters, String input) {
+      BuildContext context, List<Section> sections, String input) {
     input = input.toLowerCase();
     List<SearchMatch> allMatches = [];
-    chapters.forEach((chapter) {
-      if (chapter.description != null) {
+    sections.forEach((section) {
+      if (section.description != null) {
         int nbMatches = input
-            .allMatches([chapter.title, chapter.description]
+            .allMatches([section.title, section.description]
                 .join(" |||| ")
                 .toLowerCase())
             .length;
         if (nbMatches > 0) {
           allMatches.add(SearchMatch(
               nbMatches,
-              getResultCard(context, chapter.title, null, chapter.description,
-                  input, chapter.image)));
+              getResultCard(context, section.title, null, section.description,
+                  input, section.image)));
         }
-        chapter.sections.forEach((section) {
-          int nbMatches = input
-              .allMatches([section.title, section.fullText, chapter.title]
-                  .join(" |||| ")
-                  .toLowerCase())
-              .length;
-          if (nbMatches > 0) {
-            allMatches.add(SearchMatch(
-                nbMatches,
-                getResultCard(context, section.title, chapter.title,
-                    section.fullText, input, Icons.question_answer)));
-          }
-        });
       }
+      section.qas.forEach((qa) {
+        int nbMatches = input
+            .allMatches([section.title, qa.fullText, qa.title]
+                .join(" |||| ")
+                .toLowerCase())
+            .length;
+        if (nbMatches > 0) {
+          allMatches.add(SearchMatch(
+              nbMatches,
+              getResultCard(context, qa.title, section.title, qa.fullText,
+                  input, Icons.question_answer)));
+        }
+      });
     });
 
     allMatches.sort((a, b) => a.nbMatches.compareTo(b.nbMatches));
     return allMatches.map((m) => m.widget).toList();
   }
 
+  List<Section> getSections(Chapter chapter) {
+    List<Section> sections = [];
+    chapter.pages.forEach((page) {
+      if (page is Chapter) {
+        sections.addAll(getSections(page));
+      } else if (page is Section) {
+        sections.add(page);
+      }
+    });
+    return sections;
+  }
+
   @override
   Widget build(BuildContext context) {
-    return TextLoadLayout(builder: (context, chapters) {
+    return TextLoadLayout(builder: (context, home) {
+      List<Section> sections = getSections(home);
       final TextEditingController textController = TextEditingController();
       return Scaffold(
           appBar: AppBar(
@@ -116,7 +129,7 @@ class SearchPage extends StatelessWidget {
                     return Container();
                   }
                   return ListView(
-                    children: searchResult(context, chapters, input),
+                    children: searchResult(context, sections, input),
                   );
                 },
               ),

@@ -5,7 +5,7 @@ import 'loading_page.dart';
 import 'model.dart';
 
 typedef AsyncWidgetBuilder<T> = Widget Function(
-    BuildContext context, List<Chapter> chapters);
+    BuildContext context, Chapter chapter);
 
 class TextLoadLayout extends StatelessWidget {
   TextLoadLayout({@required this.builder});
@@ -13,15 +13,17 @@ class TextLoadLayout extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return FutureBuilder(
-        future: Model.chapters,
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.done) {
-            return builder(context, snapshot.data);
-          }
-          return LoadingPage(
-            title: SitLocalizations.of(context).title,
-          );
-        });
+    return Container(
+      child: FutureBuilder(
+          future: Model.instance().home,
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.done) {
+              return builder(context, snapshot.data);
+            }
+            return LoadingPage(
+              title: SitLocalizations.of(context).title,
+            );
+          }),
+    );
   }
 }
