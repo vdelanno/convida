@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:intl/intl.dart';
@@ -87,76 +86,14 @@ class Model {
 
   Future<Chapter> _home;
   Future<Chapter> get home => _home;
-  AssetsAudioPlayer get _assetsAudioPlayer =>
-      AssetsAudioPlayer.withId("convida");
-
   Model._() {
-    _assetsAudioPlayer.audioSessionId.listen((event) => print("asdfasdf"));
-    _assetsAudioPlayer.onReadyToPlay
-        .listen((audio) => print("ready to play $audio"));
-    _assetsAudioPlayer.audioSessionId.listen((sessionId) {
-      print("audioSessionId : $sessionId");
-    });
-    _assetsAudioPlayer.playlistAudioFinished.listen((data) {
-      print("playlistAudioFinished : $data");
-    });
-    _assetsAudioPlayer.onErrorDo = (error) {
-      print(error.error.message);
-      error.player.stop();
-    };
-    AssetsAudioPlayer.addNotificationOpenAction((notification) {
-      return false;
-    });
     _home = _loadText().then((home) {
       return home;
-      print("loading audio");
-      // List<Audio> audios = home.Sections.map<Audio>((Section) {
-      //   String path = "assets/assets/${Section.id}.mp3";
-
-      //   print("loading $path");
-      //   return Audio(
-      //     path,
-      //     metas: Metas(
-      //       id: Section.id,
-      //       title: Section.description,
-      //       artist: "COnVIDa",
-      //     ),
-      //   );
-      // }).toList();
-      // return _assetsAudioPlayer.open(Playlist(audios: audios)).then((_) {
-      //   print("model fully initialied, nbSections: ${home.Sections.length}");
-      //   return home;
-      // });
     });
-  }
-  void _onError(ErrorHandler err) {
-    print(err);
   }
 
   factory Model.instance() {
     return _instance;
-  }
-
-  Future<void> playAudioForSection(String sectionId) async {
-    print("will play audio for $sectionId");
-    // _Sections.then((cs) {
-    //   int index = cs.indexWhere((Section) => Section.id == SectionId);
-    //   if (index != -1) {
-    //     print("will play audio at index $index");
-    //     String asset = "assets/$SectionId.mp3";
-    //     rootBundle.load(asset).then((bytes) {
-    //       print("audioFile $asset is ${bytes.lengthInBytes} long");
-    //     });
-
-    //     _assetsAudioPlayer
-    //         .playlistPlayAtIndex(index)
-    //         .then((_) => _assetsAudioPlayer.play());
-    //   }
-    // });
-  }
-
-  void stopAudio() {
-    _assetsAudioPlayer.pause();
   }
 
   QuestionAnswer _getQuestionAnswer(String text) {

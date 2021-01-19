@@ -28,25 +28,6 @@ class App extends StatefulWidget {
 
 typedef LanguageCallback = void Function(String);
 
-// 1.	Aclarando dudas (Clarifying doubts)
-//    help / question mark
-// 2.	Transmisión (Transmission)3
-//    sharing
-// 3.	Prevención (Prevention)
-//    shield
-// 4.	Molestias (Síntomas) (Symptoms)
-//    sick guy
-// 5.	Personas especiales (Special people)
-//    accessibility_new
-// 6.	Cuando hay un enfermo en casa (When there is someone sick at home)
-//    home
-// 7.	Señales de alarma (Emergency warning signs)
-//    medical_services / ambulance
-// 8.	Exámenes (Tests)
-//    vial
-// 9.	Tratamiento (Treatment)
-//    healing
-
 class _AppState extends State<App> {
   String _locale = 'es';
   onChangeLanguage(String language) {

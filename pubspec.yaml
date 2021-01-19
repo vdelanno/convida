@@ -37,7 +37,6 @@ dependencies:
   intl_translation: ^0.17.10
   url_launcher : ^5.7.8
   font_awesome_flutter: ^8.11.0
-  assets_audio_player : ^2.0.13
 
 dependency_overrides:
    intl: ^0.17.0-nullsafety.2  
@@ -64,9 +63,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/audios/
     - assets/
-    # - assets/audios/symptoms.mp3
     # - assets/logo.png
     # - assets/about.md
     # - assets/txt.md

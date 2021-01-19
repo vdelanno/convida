@@ -1,6 +1,6 @@
 # [origin:virus] ORIGEN (CAUSA)
 ¿Qué es la COVID-19?
-Es una enfermedad nueva causada por el virus SARS-CoV-2. COVID-19 quiere decir “enfermedad del coronavirus 2019”.
+Es una enfermedad nueva causada por el virus SARS-CoV-2. COVID-19 quiere decir “enfermedad del coronavirus 2019” por sus siglas en inglés (COronaVIrus Disease 2019).
 
 ¿Cuál es el origen del virus de la COVID-19?
 Varios científicos indican que el virus de la COVID-19 tiene origen animal, probablemente el murciélago.
@@ -9,7 +9,7 @@ Varios científicos indican que el virus de la COVID-19 tiene origen animal, pro
 No. En el caso de que el virus de la COVID-19 hubiera sido creado en un laboratorio, sus genes fueran secuencias (partes) conocidas, lo cual no es así.
 
 ¿Qué quiere decir que el virus de la COVID-19 ha mutado? 
-Todos los virus cambian o mutan originando nuevas “variantes”, unos más y otros menos. El virus de la COVID-19 ha cambiado poco, no se ha visto que estos cambios influyen en el diagnóstico o tratamiento.
+Todos los virus cambian o mutan originando nuevas “variantes”, unos más y otros menos. Estas mutaciones podrían cambiar la transmisibilidad y severidad de la enfermedad. El virus de la COVID-19 está cambiando muy lentamente, a comparación de otros virus como el de VIH o influenza.
 
 # [transmission:share] TRANSMISIÓN (CONTAGIO) 
 ¿Cómo se transmite?
@@ -58,9 +58,9 @@ Cuarentena: Una persona que estuvo en contacto con un enfermo COVID-19 debe de q
 Aislamiento: Si una persona está enferma de COVID-19 (con o sin pruebas de laboratorio positivo), debe de quedarse en casa 10 días como mínimo desde que empezaron las molestias, y hasta después de 3 días sin fiebre o sentirse mejor.
 
 ¿Cuáles son los síntomas COVID-19?
-Los síntomas varían de persona a persona, los más comunes son:
-Fiebre (temperatura mayor de 38°C) o escalofríos.
-Tener en cuenta que las personas mayores no hacen fiebre.
+Los síntomas más comunes son:
+- Fiebre (temperatura mayor de 38°C) o escalofríos.
+- Tener en cuenta que las personas mayores no hacen fiebre.
 - tos
 - dificultad para respirar (sensación de falta de aire)
 - dolor de cuerpo o muscular 
@@ -92,9 +92,7 @@ Debe de ir inmediatamente al hospital por emergencias si presenta
 Si. Se han dado casos en que personas asintomáticas pueden tener neumonía.
 
 ¿Una persona que tuvo COVID-19 puede continuar con molestias?
-Algunas personas que tuvieron COVID-19 pueden continuar teniendo molestias como fatiga o cansancio, dificultad para respirar, dolor de pecho palpitaciones, pérdida del gusto o del olfato, adormecimiento en brazos y piernas por meses. 
-Me recuperé de la COVID-19 y ahora no puedo hacer lo que hacía antes … 
-Si las molestias persisten haciendo que su actividad física sea limitada o menor, debe de consultar a su médico (a), ya que es probable que necesite rehabilitación.
+Algunas personas que tuvieron COVID-19 pueden continuar con molestias como fatiga o cansancio, dificultad para respirar, dolor de pecho, palpitaciones, pérdida del gusto o del olfato, adormecimiento en brazos y piernas por meses. 1,2 Si las molestias persisten, consulte a su médico(a).
 
 # [conditions:accessibility_new] PERSONAS ESPECIALES
 
@@ -130,6 +128,10 @@ No. La cesárea solo debe de ser indicada cuando sea médicamente necesario.
 Si la mamá tiene COVID-19, ¿pueden dar de amamantar/lactar a su bebé?
 Si. Las madres con COVID-19 deben de usar mascarilla y lavarse las manos antes de dar de lactar a su bebé. No se ha encontrado el virus de COVID-19 en la leche materna.
 
+¿Si la mamá tiene COVID-19, ¿puede dar de amamantar/lactar a su bebé?
+Sí. Una mamá que tiene COVID-19 debe de usar mascarilla y lavarse las manos antes de dar de lactar a su bebé. No se ha encontrado el virus de COVID-19 en la leche materna
+
+
 ## [children:child] Niños 
 La cantidad de hospitalizaciones e ingresos al área de cuidados intensivos (UCI) es menor en niños que en adultos. Al parecer, la COVID-19 sea menos severa en niños.
 Los niños menores de 2 años no deben de usar mascarilla.
@@ -142,22 +144,22 @@ Es una forma de complicación de la COVID-19 en niños y adolescentes. Se presen
 
 ## [cancer:sick] Cáncer
 
-¿Una persona con cáncer tiene mayor riesgo de la COVID-19 grave?
+¿Una persona con cáncer tiene mayor riesgo de desarrollar la COVID-19 grave?
 Es probable que las personas con cáncer que están en tratamiento enfermen gravemente de COVID-19.
 
-¿Una persona que se recuperó de cáncer tiene mayor riesgo de la COVID-19 severo?
+¿Una persona que se recuperó de cáncer tiene mayor riesgo de enfermar gravemente de la COVID-19?
 No está claro si es que las personas que tuvieron cáncer tengan mayor riesgo de enfermar gravemente de COVID-19.
 
-¿Los niños con cáncer tienen menor riesgo que los adultos con cáncer?
+¿Los niños con cáncer tienen menor riesgo que los adultos de enfermar gravemente de COVID-19?
 Se cree que los niños o niñas con cáncer enfermen de COVID-19 de forma más leve  que los adultos con cáncer.
 
 ¿Qué pruebas se deben usar en una persona que tiene cáncer?
-Se recomienda el uso de pruebas moleculares para las personas con cáncer con síntomas COVID-19.
+Se recomienda el uso de pruebas moleculares para las personas con cáncer que tienen síntomas COVID-19.
 
 ## [cancer:sick] VIH
 
 ¿Cuáles son los síntomas de la COVID-19 en personas con VIH?
-Los síntomas de la COVID-19 en las personas con VIH que cumpla con su tratamiento antirretroviral (TARGA) son similares que en las personas que no tienen VIH.
+Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamiento antirretroviral (TARGA) son similares que en las personas que no tienen VIH.
 
 ¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de COVID-19?
 Hasta la fecha, no se ha demostrado mayor riesgo de contraer o enfermar de la COVID-19 en las personas con VIH.
@@ -172,10 +174,10 @@ Se cree que el resultado del tratamiento contra la tuberculosis de una persona q
 
 ¿La tuberculosis y la COVID-19 se transmiten de la misma manera?
 La tuberculosis y la COVID-19 se transmiten cuando una persona enferma está de cerca de otra persona sana. La transmisión del bacilo de la tuberculosis es variante.
-Cuando una persona con tuberculosis tose, estornuda, canta o grita bota bacilos de la tuberculosis que quedan suspendidos en el aire por muchas horas, una persona se puede infectar si respira estos bacilos. La cantidad de estos bacilos disminuye con la luz solar y  ventilación.
+Cuando una persona con tuberculosis tose, estornuda, canta o grita bota bacilos de la tuberculosis que pueden estar en el aire por muchas horas, una persona se puede infectar si respira estos bacilos. La cantidad de estos bacilos disminuye con la luz solar y  ventilación natural.
 
 ¿El tratamiento para la tuberculosis es diferente si la persona con tuberculosis también tiene COVID-19?
-No es diferente, en la mayoría de los casos. El tratamiento preventivo y el tratamiento de la enfermedad de la tuberculosis no debe de ser interrumpidos. Si 2 personas que dejan su tratamiento contra la tuberculosis, 1 podría morir.
+No es diferente, en la mayoría de los casos. El tratamiento preventivo y el tratamiento de la enfermedad de la tuberculosis no deben de ser interrumpidos. De 2 personas que dejan su tratamiento TB, 1 podría morir.
 
 ## [detection:diagnoses] PRUEBAS DE DIAGNÓSTICO (DETECCIÓN)
 
@@ -191,19 +193,19 @@ En la mayoría de las personas con COVID-19, a los 5 días de haberse contagiado
 En la mayoría de las personas con COVID-19, las pruebas serológicas resultan positivas después de 21 días o más de que los síntomas aparecieron.
 
 ¿Qué es una prueba rápida?
-Es un tipo de prueba molecular, a veces su resultado no es exacto.
+Es un tipo de prueba molecular; como su mismo nombre lo indica sus resultados son rápidos, pero algunas veces no es exacto.
 
 ¿Cómo saber si una persona tiene COVID-19?
-Se debe de usar una prueba molecular.
+Para saber si una persona tiene COVID-19 se recomienda usar una prueba molecular.
 
 ¿Cómo se puede saber si una persona tuvo COVID-19?
-Se recomienda realizar la prueba serológica (anticuerpos) junto con la prueba molecular (NAAT).
+Para saber si una persona tuvo COVID-19 se recomienda usar una prueba serológica (anticuerpos) junto con una prueba molecular (para estar seguros de que el virus de la COVID-19 ya no está en el cuerpo).
 
 ¿Las pruebas serológicas pueden indicar si una persona debe de retornar al trabajo?
 No se recomienda. Las pruebas serológicas no deben de definir si las personas deben de retornar al trabajo, escuela, o cualquier otro sitio donde se agrupen personas.
 
 ¿Una persona que tuvo COVID-19 se puede volver a infectar (reinfección)?
-No se sabe. Ni si las defensas (anticuerpos) producidas por la persona que enfermó de COVID-19 van a ser de por vida ni si la protegerá de una segunda infección (reinfección).
+A pesar de que son raros, han habido casos de reinfección de COVID-19. Es probable que las defensas (anticuerpos) producidas por la persona que enfermó de la COVID-19 no duren para siempre o que no puedan protegerla de una segunda infección (reinfección).
 
 ¿Los escáneres térmicos pueden detectar el virus de la COVID-19?
 No. Los escáneres térmicos son para identificar a las personas que tienen fiebre, hay muchas enfermedades que pueden causar fiebre.
@@ -212,16 +214,15 @@ No. Los escáneres térmicos son para identificar a las personas que tienen fieb
 No. Son las pruebas de laboratorio las que pueden determinar si una persona tiene COVID-19. Los ejercicios de respiración no confirman o descartan ninguna enfermedad.
 
 ¿Poder sentir el olor y sabor del vino o vinagre, descarta que una persona tenga COVID-19?
-No. Tomar bebidas alcohólicas en exceso es dañino para la salud.
+No. Hay otras enfermedades que pueden causar la pérdida del olfato o gusto. Tomar bebidas alcohólicas en exceso es dañino para la salud.
 
 # [treatment:healing] TRATAMIENTO (CURA) 
 
-¿Cuál es el tratamiento para la COVID-19?
 Así como los síntomas de la COVID-19 varían de persona a persona, el tratamiento también varía. Los casos graves necesitan oxígeno y otros medicamentos de acuerdo a cómo evolucione la enfermedad.1–3 El tratamiento oportuno puede evitar posibles complicaciones y hasta la muerte.
 
-¿Una persona que ha estado con tratamiento previo y tiene COVID-19, ¿debe de suspender/dejar su tratamiento?
-No. La persona que tiene COVID-19 y previamente ha estado recibiendo tratamiento con anticoagulantes, antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides en pastillas o inhaladores (dexametasona, prednisona), AINES (ibuprofeno, naproxeno, aspirina) debe de continuar con su tratamiento.1
-Esta persona debe de acudir a su médico(a) para ser examinado, ya que la enfermedad para la cual está recibiendo tratamiento puede incrementar su riesgo de desarrollar la COVID-19 severa.
+¿Una persona que ha estado con tratamiento previo y tiene COVID-19, debe de suspender o dejar su tratamiento?
+No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina) antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides en pastillas o inhaladores (dexametasona, prednisona), AINES (ibuprofeno, naproxeno) debe de continuar con su tratamiento tenga o no COVID-19.
+Esta persona debe de acudir a su médico(a), ya que su enfermedad previa para la cual está recibiendo tratamiento puede incrementar su riesgo de desarrollar la COVID-19 severa.
 
 ¿Se puede usar Remdesivir como tratamiento en todos los pacientes con COVID-19?
 No. En los Estados Unidos, se aprobó el uso de Remdesivir para los pacientes hospitalizados que necesitan oxígeno.1 Sin embargo, la Organización Mundial de la Salud recomienda esperar a tener mayor evidencia de su efectividad.
@@ -232,11 +233,14 @@ No. La Dexametasona (anti-inflamatorio e inmunosupresor) solo se recomienda en p
 ¿La Hidroxicloroquina o Cloroquina pueden curar o prevenir la COVID-19?
 Hasta la fecha no se ha demostrado. El uso inadecuado de estos medicamentos puede ocasionar graves efectos adversos.
 
+¿La Ivermectina puede prevenir o curar la COVID-19?
+Hasta la fecha no se ha demostrado si la Ivermectina prevenga o cure la COVID-19.
+
 ¿Los antibióticos pueden prevenir o curar la COVID-19?
 No. Los antibióticos no funcionan contra los virus. Algunas personas que enferman de la COVID-19 pueden complicarse y desarrollar una infección bacteriana; en estos casos, son los médicos(as) quienes pueden indicar el uso de antibióticos.
 
 ¿Por qué no hay que tomar antibióticos para prevenir o tratar COVID-19?
-Los antibióticos son para las bacterias. Si se tomamos antibióticos frecuentemente sin necesitarlo (por automedicación) hacemos que las bacterias se hagan resistentes a estas pastillas/ampollas, y en el futuro, puedan ser resistentes a todos los antibióticos. Sólo los médicos o médicas pueden determinar cuándo son necesarios los antibióticos.
+Los antibióticos son para las bacterias. Si tomamos antibióticos frecuentemente sin que sea necesario (por automedicación) hacemos que las bacterias se hagan resistentes a estas medicamentos, y en el futuro, puedan ser resistentes a todos los antibióticos. Sólo los médicos o médicas pueden determinar cuándo son necesarios los antibióticos.
 
 ¿Las vitaminas C y D y el Zinc pueden prevenir o curar la COVID-19?
 No se ha demostrado que las vitaminas C y D y el Zinc (que ayudan al buen funcionamiento de las defensas del cuerpo) puedan curar o prevenir la COVID-19.
@@ -245,27 +249,26 @@ No se ha demostrado que las vitaminas C y D y el Zinc (que ayudan al buen funcio
 No se ha probado. No se sabe si el uso de plasma convaleciente COVID-19 (sangre de los pacientes que enfermaron y se recuperaron de la COVID-19) o inmunoglobulinas (anticuerpos) del virus de COVID-19 pueden usarse como tratamiento.
 
 ¿El dióxido de cloro (ClO2) puede curar o prevenir la COVID-19?
-No. El dióxido de cloro es un gas que se usa en las plantas de tratamiento de agua. Ingerirlo puede ocasionar graves efectos al cuerpo, incluso la muerte.
+No. El dióxido de cloro es un gas que se usa en las plantas de tratamiento de agua. Tomar ClO2 puede ocasionar graves consecuencias, incluso la muerte.
 
 # [prevention:block] PREVENCIÓN 
 
 ## [drugs:pills] medicamento
-No se recomiendo el uso de ningún medicamento para prevenir la COVID-19.
 Usemos o no usemos mascarilla (tapaboca/cubreboca), debemos de seguir las siguientes recomendaciones:
-•	Evitemos estar en lugares con mucha gente.
-•	Lavarnos las manos con agua y jabón por 20 segundos como mínimo. Podemos usar alcohol gel si las manos no se ven sucias.
-•	Mantener 2 metros de distancia de los demás. Así evitaremos contagiarnos o transmitir el virus en el caso estemos enfermos. 
-•	Si tosemos o estornudamos;
-o	cubrirnos nariz y boca con el codo, papel toalla o papel higiénico,
-o	botar el papel sucio, y 
-o	lavarnos las manos 
-•	No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
-•	Abrir las ventanas para que los ambientes (cuartos) estén ventilados.
-Si tenemos que ir a lugares con mucha gente y no es posible mantener una distancia de 2 metros de las demás personas, tenemos que usar una mascarilla (tapaboca/cubreboca) adecuadamente.
-Podemos usar un protector facial con la mascarilla. No usar solo el protector facial24
-Importante: Niños menores de 2 años no deben de usar mascarilla13,15,24
+- Evitemos estar en lugares con mucha gente.
+- Lavarnos las manos con agua y jabón por 20 segundos como mínimo. Podemos usar alcohol gel si las manos no se ven sucias.
+- Mantener 2 metros de distancia de los demás. Así evitaremos contagiarnos o transmitir el virus en el caso estemos enfermos. 
+- Si tosemos o estornudamos, debemos de cubrir nuestra boca y nariz con papel toalla o papel higiénico, botar el papel sucio a la basura, y por último, - lavarnos las manos. 
+- No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
+- Abrir las ventanas para que la casa u oficina estén ventilados.
 
-## [masks:headSideMask] Uso de mascarilla (tapaboca/cubreboca)
+¿Existe algún medicamento para prevenir la COVID-19?
+Hasta la fecha no hay medicamento que pueda prevenir la COVID-19.
+
+¿Cuándo usar mascarilla?
+Debemos de usar una mascarilla (tapaboca o cubreboca) adecuadamente si tenemos que estar en lugares donde hay mucha gente y no es posible mantener una distancia de 2 metros de los demás.
+
+## [masks:headSideMask] Uso de mascarilla (tapaboca o cubreboca)
 
 ¿Qué debemos de hacer para usar adecuadamente una mascarilla (tapaboca/cubreboca)?8
 - Lavarnos las manos antes de colocarnos la mascarilla.
@@ -274,28 +277,28 @@ Importante: Niños menores de 2 años no deben de usar mascarilla13,15,24
 - Para retirar la mascarilla, desatemos o desajustemos la mascarilla por detrás sin tocas la parte externa.
 - Lavarnos las manos después de retirar la mascarilla o tocar la mascarilla.
 - Si la mascarilla se humedece, cambiémosla por una mascarilla nueva y seca.
-- Debemos de cambiar de mascarilla todos los días.
+- Debemos de cambiar de mascarilla todos los días, como mínimo.
 - No reutilicemos las mascarillas desechables, cambiémosla por una nueva después de cada uso.
 
 ¿Qué podría pasar si no usamos bien una mascarilla (tapaboca)?
 - Podríamos contaminarnos si tocamos la mascarilla y después nos tocamos los ojos, sin antes lavarnos las manos.
 - Nos podríamos contaminar si no cambiamos de mascarilla cuando estén sucias o húmedas.
-- Dependiendo del tipo de mascarilla, podríamos tener dificultades para respirar. Es importante elegir una mascarilla con la que podamos respirar bien.
-- Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. ¡Elijamos una mascarilla que no nos moleste!
-- Podría dificultar comunicarnos, mucho más en el caso de personas sordomudas. Para evitar este problema, ¡hay mascarillas transparentes!
-- Es probable que nos sintamos seguros y dejemos de cumplir las medidas preventivas más importante, que son: lavado de manos, distanciamiento y cubrir boca/nariz al toser o estornudar.
-- Incremento de basura. ¡Usando mascarillas de tela podemos evitar esto!
+- Podríamos tener dificultades para respirar si no elegimos la mascarilla adecuada. Es importante elegir una mascarilla con la que podamos respirar bien.
+- Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos moleste.
+- Podría dificultar comunicarnos, mucho más en el caso de personas sordomudas. Esto se podría evitar usando mascarillas con partes transparentes.
+- Es probable que tengamos una sensación de falsa seguridad y dejemos de cumplir las medidas preventivas más importante, que son: lavado de manos, - distanciamiento y cubrir boca-nariz al toser o estornudar.
+- Incremento de basura. Esto se puede evitar usando mascarillas de tela.
 
-¿Qué beneficios hay si usamos mascarilla (tapaboca/cubreboca) adecuadamente?
+¿Qué beneficios hay si usamos una mascarilla (tapaboca o cubreboca) adecuadamente?
 - Reducimos el riesgo de transmitir el virus si estamos enfermos o infectarnos del virus si estamos cerca de una persona con COVID-19.
 - Disminuimos la estigmatización (discriminación) a las personas que normalmente deben usar mascarilla por otras enfermedades, como Tuberculosis.
 - Sentir que podemos contribuir de alguna manera en detener la propagación del virus de la COVID-19.
 - Recordar que también tenemos que cumplir con las demás medidas de prevención como lavado de manos, distanciamiento y cubrirnos al toser/estornudar. 
-- Podríamos tener una fuente de ingreso extra si hacemos mascarillas de tela. Utilizar mascarillas reusables (de tela) es más barato y disminuye la cantidad de basura que se produciría si utilizamos las mascarillas desechables (quirúrgicas o médicas).
+- Podríamos tener una fuente de ingreso extra si hacemos mascarillas reusables y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que se produciría si utilizamos las mascarillas descartables.
 
-¿Cuáles son las recomendaciones para la elaboración y uso de una mascarilla (tapaboca/cubreboca) de tela?
-- La tela debe de poder retener gotas pequeñas. Además, debe de ser fácil respirar a través de la tela.
-- No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente porque la tela se estirará. 
+¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla (tapaboca o cubreboca) de tela?
+- La tela debe de poder retener gotas pequeñas. Además, se debe de respirar fácilmente a través de la tela.
+- No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría
 - De preferencia, usar telas que puedan soportar altas temperaturas (60°C o más)
 - Una mascarilla debe de tener como mínimo 3 capas de tela; 
 - la capa interna que está en contacto con la boca y nariz puede ser de algodón, o una tela que tenga combinaciones con algodón (que pueda absorber líquido),
@@ -305,6 +308,12 @@ Importante: Niños menores de 2 años no deben de usar mascarilla13,15,24
 - No lavar la mascarilla junto con la demás ropa.
 - Verificar en la etiqueta de la mascarilla la temperatura máxima a la que puede ser lavada. El tapaboca de polipropileno puede aguantar hasta 140°C.
 - Si no hay agua caliente, lavar la mascarilla con jabón o detergente y luego hervir la mascarilla por 1 minuto.
+
+¿Podemos usar solo un protector facial?
+No. El protector facial siempre tiene que ser usado con una mascarilla o tapaboca.
+
+¿Los niños deben de usar mascarilla?
+Niños menores de 2 años no deben de usar mascarilla.
 
 ¿El uso adecuado de una mascarilla quirúrgica o médica por un tiempo prolongado causa intoxicación por CO2 o deficiencia de oxígeno?
 No. Si bien el uso de mascarilla quirúrgica por un tiempo prolongado puede llegar a ser bastante molesto, esto no ocasiona intoxicación por CO2 ni deficiencia de oxígeno. Cuando usemos una mascarilla quirúrgica debemos de asegurarnos de que nos quede bien y podamos respirar de manera normal.
@@ -320,11 +329,10 @@ No. Si se desea desinfectar, primero se debe de limpiar la superficie con agua y
 No se recomienda aplicar desinfectantes con spray o fumigación en un ambiente cerrado (como casas, oficinas, puestos de salud), puede afectar la salud de las personas.
 
 ¿Fumigar las calles previene la COVID-19?
-No. Los desinfectantes dejan de funcionar con la suciedad, por otro lado, la fumigación con desinfectantes no cubre todas las superficies para eliminar el virus.
-No se debe fumigar lugares abiertos (como calles, veredas, mercados) para eliminar el virus de la COVID-19.
+No. Fumigar lugares abiertos (como calles, veredas, mercados) no mata el virus de la COVID-19. Los desinfectantes dejan de funcionar con la suciedad, por otro lado, la fumigación con desinfectantes no cubre todas las superficies para eliminar el virus.
 
-¿Fumigar o pulverizar a las personas previene la COVID-19?
-No. Fumigar o pulverizar a las personas no reduciría el riesgo de transmisión del virus de la COVID-19. Estas sustancias pueden causar broncoespasmo (se cierra el pecho), vómitos, e irritación en piel y ojos.
+¿Fumigar o pulverizar a las personas con desinfectantes previene la COVID-19?
+No. Fumigar o pulverizar a las personas no reduce el riesgo de transmisión del virus de la COVID-19. Por otro lado, estas sustancias pueden causar dificultad para respirar, vómitos, e irritación en piel y ojos.
 
 ¿Introducir lejía a las personas previene la COVID-19?
 No. El uso de la lejía y otros desinfectantes son únicamente para desinfectar objetos como sillas, pasamanos de escaleras, pisos, paredes, manijas de puertas.
@@ -338,7 +346,7 @@ Hasta la fecha, no se ha demostrado.
 ¿Las vaporizaciones de eucalipto previenen la COVID-19?
 No se ha probado que el eucalipto pueda matar virus o bacterias.
 
-¿Los climas fríos y con nieve matan el virus de COVID-19?
+¿Los climas fríos y con nieve matan el virus de la COVID-19?
 No. La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C sin importar ni el clima ni la temperatura externa.
 
 ¿Los climas calurosos matan el virus de la COVID-19?
@@ -367,19 +375,19 @@ No. El ajo y el kion (jengibre) son alimentos saludables que le dan un sabor esp
 
 ## [vaccine:syringe] Vacunas
 
-En África, por cada muerte COVID-19 de una persona que se contagió cuando llevó a su niño(a) a vacunarse, se previenen (por lo menos) 80 muertes de niños que fueron vacunados.
-Las vacunas son esenciales para proteger la salud y el bienestar de la comunidad, contribuyendo al desarrollo y economía del país.
+Las vacunas son esenciales para proteger la salud y el bienestar de las personas, contribuyendo al desarrollo y economía del país.
+En África, se previenen como mínimo 80 muertes de niños debido a que fueron vacunados (por otras enfermedades diferentes a la de COVID-19), mientras que de las personas que llevaron a los  niños a vacunar al centro de salud, solo una se contagió y murió de COVID-19.
 
 ¿Cómo funcionan las vacunas? 
 Las vacunas entrenan a nuestro cuerpo cómo reconocer y defenderse del virus o bacteria, disminuyendo el riesgo de que la enfermedad se produzca.
 
 ¿Hay alguna vacuna para prevenir la COVID-19? 
-Todavía no. Hay muchas vacunas en estudio, que es un largo proceso. Cuando se compruebe que una vacuna es efectiva y segura, tanto el estado como la organización mundial de la salud (OMS) harán las regulaciones necesarias para que todos tengamos acceso a la vacuna contra el virus de la COVID-19.
+Si. Hay 3 vacunas que han sido autorizadas para su uso de emergencia en diferentes países.
 
-¿Cuándo estará la vacuna del virus de la COVID-19? 
-Todavía no se sabe. El contar con una vacuna que funcione y que a la vez no dañe al ser humano, toma tiempo. Todos buscamos una vacuna segura y efectiva.
+¿La vacuna puede detener la pandemia?
+La vacuna es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, debemos continuar con las demás medidas como lavado de manos, distanciamiento físico, cubrir boca y nariz al toser o estornudar, y uso adecuado de mascarilla.
 
-¿Qué tipos de vacunas para el virus de la COVID-19 se están probando?
+¿Qué tipos de vacunas para el virus de la COVID-19 se están probando y cómo funcionan?
 - Vacunas de virus inactivados o atenuados: se usan virus de la COVID-19 inactivados o atenuados, haciendo que nuestro cuerpo produzca defensas sin que se enferme.
 - Vacunas basadas en proteínas: se usan partes del virus (proteínas) de la COVID-19 que no causan daño pero que hace que nuestro cuerpo reconozca estas partes como extrañas, y aprenda cómo defenderse de futuras infecciones.
 - Vacunas de ARN y DNA: se usan genes del virus que producen partes (proteínas) del virus de la COVID-19, nuestro cuerpo destruye estos genes y aprende cómo defenderse.
@@ -392,13 +400,16 @@ Todavía no se sabe, se necesitan más estudios para poder saber por cuanto tiem
 Cuando las vacunas terminen los estudios que comprueben que sirven y que son seguras, la Organización Mundial de la Salud y los ministerios de salud evaluaran la seguridad y efectividad de estas vacunas. Este proceso es bastante riguroso y se viene haciendo con todas las vacunas que usamos actualmente.
 
 ¿Quiénes recibirían primero la vacuna del virus de la COVID-19?
-Por ahora, solo adultos hombre y mujeres (no embarazadas) han participado en los estudios de las vacunas. Es probable que no se vacunen a los niños primero.
+Los trabajadores de salud y, dependiendo de cada país, las personas en riesgo de infectarse o de enfermar gravemente de la COVID-19. Los niños y mujeres embarazadas no recibirán la vacuna por ahora.
+
+¿Qué efectos adversos podría ocasionar la vacuna COVID-19?
+Dolor e hinchazón del brazo donde fue vacunado, fiebre, escalofríos, cansancio, dolor de cabeza. Estas molestias indican que nuestro cuerpo está generando defensas.
 
 ¿Las vacunas contra el virus de la COVID-19 son un “programa de exterminio masivo”? 
-No. Son varias las vacunas que siguen y seguirán en estudio hasta que se compruebe que son seguras y efectivas en prevenir la COVID-19. Únicamente las vacunas que concluyan exitosamente este riguroso proceso de investigación serán incluidas en el esquema de vacunación.
+No. No existe ningún programa de exterminio masivo. Diferentes organizaciones están trabajando para mantener a la población lo más saludable posible. Lo más importante es que las vacunas sean seguras, esto se ha comprobado y se viene haciendo con todas las vacunas.
 
-¿Las vacunas contra el virus de la COVID-19 pueden producir esterilidad?
-No. Se está trabajando arduamente en el desarrollo de vacunas seguras para la población.
+¿Las vacunas contra el virus de la COVID-19 pueden producir infertilidad?
+No. Hay mucha información falsa sobre las vacunas que genera desconfianza y miedo en la población, haciendo que las personas no quieran vacunarse. Esto causa un gran daño a la medida preventiva más efectiva, que es la vacunación.
 
 ¿Las vacunas contra la neumonía previenen o protegen contra el virus de la COVID-19? 
 No. Las vacunas contra la neumonía como la vacuna del neumococo y la del Haemophilus influenzae tipo B (Hib), no protegen contra el virus de COVID-19. El virus de COVID-19 necesita su propia vacuna. Sin embargo, se recomienda su aplicación para evitar otras formas de neumonía.
@@ -413,27 +424,27 @@ El beneficio de la vacuna contra la difteria es prevenir la difteria, y evitar q
 
 ¿Qué debemos de hacer si tenemos los síntomas (molestias) de la COVID-19?3,8,36
 - Quedarnos en casa. Solo debemos de salir para ir al médico u hospital.
-- Busquemos atención médica llamando a nuestro médico o médica tan pronto como los síntomas (molestias) aparezcan. 
-- Descansemos. ¡Tener un buen estado de ánimo es importante!
+- Busquemos atención médica llamando a nuestro médico o médica tan pronto como las molestias comiencen. 
+- Descansemos. Tener un buen estado de ánimo es importante.
 - Tomemos agua o cualquier otro líquido para estar hidratados.
 - Permanezcamos solos en un cuarto aparte, con las ventanas abiertas. 
 - Utilicemos un baño separado, si es posible.
-- Mantengamos abiertas las ventanas para que la casa esté ventilada.
-- Evitemos compartir áreas comunes (sala, cocina, comedor), y cuando lo hagamos, que sea el menor tiempo posible.
-- Sigamos las medidas de lavado de manos, mantener una distancia de 2 metros de los demás y cubrir nariz/boca al toser o estornudar.
-- Usemos una mascarilla quirúrgica el mayor tiempo posible, cambiar de mascarilla todos los días. Si no podemos usar la mascarilla, debemos de cubrir nariz y boca con un pañuelo, papel toalla o codo al estornudar o toser, y luego lavarnos las manos.
-- Evitemos contaminar objetos (cosas) y superficies con saliva, esputo o secreciones respiratorias (moco), así reduciremos la probabilidad de transmisión del virus.
+- Mantengamos abiertas las ventanas para que la casa esté ventilada. Más aire fresco, menos virus.
+- Evitemos compartir áreas comunes como la sala, cocina, comedor, y cuando lo hagamos, que sea el menor tiempo posible.
+- Sigamos las medidas de lavado de manos, mantener una distancia de 2 metros de los demás y cubrir boca-nariz al toser o estornudar.
+- Usemos una mascarilla quirúrgica el mayor tiempo posible, cambiar de mascarilla todos los días. Si no podemos usar la mascarilla, debemos de cubrir - nariz y boca con un pañuelo, papel toalla o codo al estornudar, toser o reír , y luego lavarnos las manos.
+- Evitemos contaminar objetos y superficies con saliva o secreciones respiratorias (moco o esputo), así reduciremos la probabilidad de transmisión del - virus.
 - Limpiemos y desinfectemos las cosas y superficies que tocamos con frecuencia.
 - Evitemos estar cerca de animales o mascotas.
 
-¿Qué debemos de hacer si hay un enfermo COVID-19 en casa, sospechoso o confirmado?
-- Elegir a una persona que cuide del enfermo, de preferencia esta persona no debe de estar ni embarazada y ni en riesgo de enfermar gravemente de COVID-19. 
-- Si cuidamos de un enfermo COVID-19 nos podemos contagiar y transmitir el virus a los demás. Es importante que cumplamos con todas las medidas de prevención.
-- Lavarnos las manos con agua y jabón, si las manos no se ven sucias podemos usar alcohol gel, antes y después de tocar a la persona enferma. 
+¿Qué debemos de hacer si hay un enfermo COVID-19 en casa, con prueba diagnóstica o no?
+- Elegir a una persona que cuide del enfermo, de preferencia esta persona no debe de estar ni embarazada y ni en riesgo de enfermar gravemente de la - COVID-19. 
+- Si cuidamos de un enfermo COVID-19, nos podemos contagiar y transmitir el virus a los demás. Es importante que cumplamos con todas las medidas de - prevención como son lavado de manos, distanciamiento físico, cubrir boca y nariz al toser o estornudar, usar mascarilla.
+- Lavarnos las manos con agua y jabón antes y después de tocar a la persona enferma. Si las manos no se ven sucias podemos usar alcohol gel. 
 - Mantengamos 2 metros de distancia de la persona enferma.
-- No colocarnos enfrente de la persona enferma (cara a cara).
+- No colocarnos enfrente (cara a cara) de la persona enferma.
 - Usemos mascarilla cuando estemos en el dormitorio de la persona enferma.
-- Eliminar todo lo que esté contaminado con secreciones de la persona enferma (como papel higiénico o toalla), luego lavarnos las manos con agua y jabón.
+- Eliminemos todo lo que esté contaminado con secreciones de la persona enferma como papel higiénico o toalla, y luego lavarnos las manos con agua y jabón.
 - Abramos las ventanas para ventilar la casa.
 - Limpiemos y desinfectemos las cosas que utiliza o toca la persona enferma.
 

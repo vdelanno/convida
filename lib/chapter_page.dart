@@ -1,6 +1,5 @@
 import 'dart:math';
 
-import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:convida/section_page.dart';
 import 'package:convida/search_page.dart';
 import 'package:convida/sit_localizations.dart';

@@ -6,7 +6,7 @@ import 'package:convida/l10n/messages_en.dart';
 
 final kSupportedLocales = [
   'es', // English, no country code
-  // 'en'
+  'en'
 ];
 
 class SitLocalizations {

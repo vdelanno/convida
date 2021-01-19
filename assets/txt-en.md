@@ -1,273 +1,424 @@
-# [share] TRANSMISIÓN inenglish
+# [origin:virus] ORIGINS 
+¿What is COVID-19?
+It is a new disease caused by SARS-CoV-2. COVID-19 means “COronaVIrus Disease 2019”.
+
+¿Which is the origin of COVID-19?
+Many researchers are agreed that the virus of COVID-19 has an animal origin, most likely bats.
+
+¿Was the virus of COVID-19 made in a laboratory?
+No. If the virus of COVID-19 would be created in a laboratory, its genes were known sequences (parts), what it is not the case.
+
+¿What means that the virus of COVID-19 has mutated?
+All viruses change or mutate developing new “variants”, some viruses more and others less. These mutations could change the transmissibility and severity of the disease. The virus of COVID-19 changes rather slowly than influenza virus or HIV.6
+
+# [transmission:share] TRANSMISSION 
+Mainly, the virus of COVID-19 is transmitted through little drops expelled when a sick person breathes, speaks, sings, sneezes or coughs. These drops could be spread around 6 feet (2 meters) and get caught through eyes, nose, mouth of others close to the sick person.
+
+¿Could the virus of COVID-19 be spread by touching contaminated things?
+Rarely. When a person touches contaminated objects (tables or door handles used by a sick person) and then touches their eyes, nose and mouth without washing their hands previously.
+
+¿Could asymptomatic people transmit the virus of COVID-19?
+Yes, symptomatic and asymptomatic people could transmit the virus of COVID-19. It is likely that transmission of the virus by asymptomatic people is the reason for most cases in the world.
+
+¿Does getting infected of the virus mean that I will have the virus in my body forever?
+No. Most of the people infected by the virus of COVID-19 recover and get off the virus.9 Some people could have sequelae, but it does not mean that they have the virus in their bodies.
+
+¿Could shoes spread the virus of COVID-19?
+The chance that the virus could be spread by shoes is really unlikely. Shoes could be left at the entrance of houses where there are kids playing or crawling on the floor.
+
+¿Could houseflies transmit the virus of COVID-19?
+No. Up to now, there isn’t any evidence showing that houseflies could spread the virus of COVID-19.
+
+¿May 5G mobile networks transmit the virus of COVID-19?
+No. Viruses cannot travel through radio waves or mobile networks. Viruses need a cell to stay alive. Places where there isn’t any 5G mobile network, have COVID-19 cases.
+
+¿Could the virus of COVID-19 be transmitted by mosquito bites?
+No. Up to now, there isn’t any research showing that mosquito bites could spread the virus of COVID-19.
+
+¿May blood products transmit the virus of COVID-19?
+To date, there isn’t any evidence suggesting that the virus of COVID-19 could be transmitted through blood products.
+
+¿Can the virus of COVID-19 be spread in places with hot and wet weather?
+Yes. The virus of COVID-19 could be transmitted in any place, whatever it is sunny or cold. Countries with hot weather have COVID-19 cases. 9 
+
+¿May the virus of COVID-19 be spread through water?
+No. The virus of COVID-19 cannot be spread through water whether we are in the sea or swimming pool. Keep at least 1 meter apart from others and wear a mask outside the water.9
+
+# [symptons:sick] SYMPTOMS 
+Our body could react in different ways to the virus of COVID-19, since lack of symptoms (asymptomatic) to severe cases damaging lungs, heart, kidneys, liver, blood vessels and even nervous system.
+
+¿When symptoms begin?
+COVID-19 symptoms could begin up to 14 days after a person got infected with the virus.
+
+¿When a person should do quarantine or isolation? 
+Quarantine: If a person was in close contact with someone with COVID-19, they should stay at home for 14 days. Whatever their laboratory results are, positive or negative.
+Isolation: If a person has COVID-19, they should stay at home for at least 10 days since the beginning of symptoms and up to 3 days after symptoms have improved or without fever.
+
+¿Which are COVID-19 symptoms?
+The most known symptoms are:1
+- Fever (body temperature higher than 38°C) or chills. Most of elderly people do not develop fever.
+- cough
+- breathing difficulty (feeling lack of air)
+- body or muscle aches
+- headache
+- sickness
+- nasal congestion and runny nose
+- loss of smell
+- loss of taste
+- sore throat
+- stomachache (abdominal pain)
+- lack of appetite
+- nausea and vomiting
+- tiredness or fatigue
+- delusions (in elderly people)
+
+¿When I have to run to the hospital?
+You have to go to the emergency service of the hospital immediately if you have
+- Fever for more than 2 days.
+- Breathing difficulty.
+- Chest ache or oppression
+- Awakeness difficulty
+- Blue lips or face (cyanosis)
+- Oxygen saturation less than 95%. A person with COVID-19 may not aware when their saturation is going down.
 
-La transmisión del virus de COVID-19 es principalmente mediante las pequeñas gotas respiratorias y, en menor proporción, mediante contacto con superficies y objetos contaminados. Las gotas respiratorias se generan cuando una persona respira (bota aire de los pulmones), habla, canta, estornuda o tose. Estas gotas respiratorias se esparcen hasta 2 metros de distancia e ingresan por los ojos, nariz y boca de las personas que estén cerca.
+¿Could asymptomatic people get sick after all?
+Yes. There have been asymptomatic people who develop pneumonia.
 
-Las personas infectadas con molestias (sintomáticas) o sin molestias (asintomáticas) pueden transmitir el virus de COVID-19. Es probable que la transmisión de COVID-19 por parte de los asintomáticos sea la razón por la gran cantidad de casos en la comunidad.
+¿Could someone who had COVID-19 continue having symptoms?
+Yes. Some people who had COVID-19 can continue having symptoms as fatigue or tiredness, breathing difficulty, chest ache, palpitations, mental problems, loss of smell or taste, numbness of arms and legs for months.1,2 If symptoms persist, go to the doctor.1
 
-La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan el virus de sus cuerpos. Infectarse del virus de COVID-19 no quiere decir que lo tendrá de por vida.
+# [conditions:accessibility_new] PEOPLE WITH SPECIAL CONDITION
+## [risky_people:accessibility_new] people at risk
+People on bigger risk to develop severe COVID-19 have the following conditions:
+- Older than 65 
+- Arterial hypertension
+- Cardiovascular diseases (stroke) 
+- Diabetes
+- Chronic lung diseases (asthma, chronic bronchitis)
+- Chronic liver diseases
+- Immunosuppressive treatment (cancer or transplant rejection treatment)
+- Kidney diseases (renal insufficiency)
+- Obesity
+- Blood disorders (sickle cell disease)
+- Does the virus of COVID-19 infect more elderly or young people more? 
+- Anyone of any age can be infected by the virus of COVD-19.
 
-## Mediante los zapatos se puede esparcir/propagar el virus de COVID-19?
+## [pregnant:pregnant_woman] Pregnant women
+Pregnant women could develop mild COVID-19 which can be managed with medical care at home or severe COVID-19 which need hospitalization.
 
-La probabilidad de que el virus se propague con los zapatos es muy baja/poca. Como prevención se podría dejar los zapatos en la entrada de la casa, particularmente donde vivan niños que gatean y juegan en el piso, evitando el contacto con la suciedad que se impregna en la suela de los zapatos. 
+¿Do pregnant women are more at risk of developing severe COVID-19?
+Pregnant women who are older or overweight, have hypertension, diabetes or other disease may be at higher risk of developing severe COVID-19.
 
-## Las moscas domésticas NO transmiten COVID-19
+¿Could a pregnant woman transmit the COVID-19 virus to her baby?
+To date it is unknown. There has not been found the virus of COVID-19 in the fluid surrounding the baby in the womb.
 
-Hasta la fecha, no se ha demostrado que el virus de COVID-19 se transmita mediante las moscas domésticas. El virus de COVID-19 se transmite mayormente mediante las pequeñas gotas que produce una persona infectada cuando tose, estornuda, habla o canta. A la vez, usted se puede infectar si toca una superficie contaminada y luego toca sus ojos, nariz o boca sin que se haya lavado las manos antes. 
+¿Should delivery of a pregnant woman who had COVID-19 be brought forward?
+No. A pregnant woman who recovered from COVID-19 has the same delivery indication if she wouldn’t have had COVID-19.
 
-## Las redes/antenas de los teléfonos celulares 5G NO propagan el virus de COVID-19
+¿Should the delivery of a pregnant woman with COVID-19 be by cesarean section?
+No. The delivery by cesarean section should only be indicated if it is medically needed (for the mother or baby benefit).
 
-Los virus no pueden viajar ni en ondas de radio ni en redes de los teléfonos celulares. En lugares que no tienen redes de celulares 5G hay casos de COVID-19. La transmisión del virus COVID-19 es mediante las pequeñas gotas que una persona infectada produce al toser, estornudar o hablar.
+¿Could a mother with COVID-19 breastfeed to her baby?
+Yes. If a mother has COVID-19 she should wash her hands carefully and wear a mask before breastfeeding. To date, the virus of COVID-19 has not been found in breastmilk.
 
-## El virus de COVID-19 NO se trasmite mediante la picadura de mosquitos.
+## [children:child] Children
+The amount of hospitalizations and admissions to the intensive care unit is lower in children than in adults. Apparently, COVID-19 could be less severe in children.
+IMPORTANT: Children younger than 2 do not need not wear a mask.
 
-Hasta la fecha no se ha demostrado de que los mosquitos puedan transmitir el virus de COVID-19. El virus de COVID-19 se transmite mediante las pequeñas gotas que se generan cuando una persona infectada tose, estornuda, canta o habla, o mediante las secreciones de la nariz (moco). 
+¿Which child is at risk to develop severe COVID-19?
+It is likely that children who are immunocompromised (with low defenses) or with chronic respiratory diseases (asthma) or cardiovascular diseases could be at higher risk to develop severe COVID-19.
 
-## Cuarentena: Cuándo debo de hacer cuarentena y quedarme en casa
+¿What is multisystem inflammatory syndrome (MIS-C)?
+It is a complication of COVID-19 in children and teenagers. They have fever for 3 days, systemic inflammation, impaired other organs such as heart, kidney, skin, blood, digestive system and nervous system. There have been many cases but fortunately few deaths.
 
-Si está enfermo(a) con o sin diagnóstico de COVID-19 debe de quedarse en casa como mínimo 10 días desde que empezaron las molestias, y al menos hasta después de 3 días sin molestias.
+## [cancer:sick] Cancer
+¿Does a person with cancer have higher risk of developing severe COVID-19?
+It is likely that people with cancer who are on treatment may develop severe COVID-19.
 
-Si tiene COVID-19 y no siente molestias, debe de quedarse en casa hasta 10 días después de que su prueba/examen de laboratorio dio positivo.
+¿Does someone who recovered from cancer are at higher risk to develop severe COVID-19?
+It is not clear whatever people who had cancer are at higher risk of becoming ill seriously of COVID-19.
 
-Sea asintomático o sintomático, estar alejado de las personas en riesgo de enfermar gravemente, como personas mayores.
+¿Do children with cancer are at lower risk than adults to develop severe COVID-19?
+It appears that children with cancer develop a milder COVD-19 than adults with cancer.
 
-# [symptoms] MOLESTIAS (SÍNTOMAS)
+¿Which tests should be used if a person has cancer?
+It is recommended to use molecular tests if a person with cancer develop COVID-19 symptoms.
 
-COVID-19 se presenta de diferentes maneras, asintomática (sin molestias) o como  una neumonía severa, pudiendo ocasionar la muerte. La mayoría de las personas que enferman de COVID-19 tienen síntomas leves o moderados, recuperándose con cuidados médicos (de acuerdo a cómo la enfermedad se vaya presentando en cada paciente). Si tiene tos, fiebre y dificultad para respirar llame a su médico(a) o acuda al centro de salud. Si tiene fiebre y vive en una zona de paludismo (malaria) o dengue busque atención médica lo antes posible.
+## [cancer:sick] HIV
+¿Which symptoms a person with HIV could develop if they have COVID-19?
+A person living with HIV on regularly antiretroviral treatment can develop similar COVID-19 symptoms than a person without HIV.
 
-Generalmente cuando una persona se infecta con el virus de COVID-19 puede comenzar con las molestias después de 5 o 6 días, aunque este periodo varía entre 1 a 12 días. 
+¿Do people with HIV be on higher risk to develop severe COVID-19?
+To date, there is no evidence suggesting that people living with HIV are at higher risk to be infected or develop severe COVID-19.
 
-## Los escáneres térmicos no pueden detectar/identificar el virus de COVID-19
+## [cancer:sick] Tuberculosis (TB)
+¿How the fight against tuberculosis has been affected by the pandemic?
+Of 4 people who normally had to be diagnosed with tuberculosis, due to the pandemic, only 3 were diagnosed. This person without Tuberculosis diagnosis is not on treatment and is spreading the bacillus of Tuberculosis right now without knowing it.
 
-Los escáneres térmicos no pueden identificar a las personas infectadas con el virus de COVID-19. Los escáneres térmicos son para detectar/identificar a las personas que tienen fiebre (cuando tienen una temperatura superior a la temperatura corporal normal), hay muchas enfermedades que pueden causar fiebre. 
+¿Does a person with tuberculosis is on a higher risk to get ill seriously of COVID-19?
+It seems that Tuberculosis treatment outcome of a person who also has COVID-19 would not be good, especially if they stop their Tuberculosis treatment.
 
-## El poder aguantar la respiración por 10 segundos o más sin toser o sentir molestias, NO quiere decir que usted no tenga COVID-19 o alguna otra enfermedad pulmonar
+¿Does the transmission of tuberculosis and COVID-19 happen in the same way?
+Tuberculosis and COVID-19 are spread when someone ill is in close contact to a healthy person.
+When someone with Tuberculosis coughs, sneezes, sings or yells expels bacilli of tuberculosis that could be in the air for many hours. A healthy person could get tuberculosis infection if breathe these bacilli. The amount of bacilli decrease with sunlight and natural ventilation.
 
-La única manera de confirmar la enfermedad del coronavirus (COVID-19) es mediante las pruebas de laboratorio. Los ejercicios de respiración no confirman o descartan ninguna enfermedad. 
+¿Does a person with tuberculosis have a different TB treatment if they get infected with the virus of COVID-19?
+Most of tuberculosis treatments are not different with or without COVID-19. Preventive (prophylaxis) treatment and tuberculosis disease treatment do not have to be stopped. Of 2 people who stop TB treatment, 1 could die.
 
-## Molestias generales:
-Las molestias o síntomas COVID-19 pueden comenzar como una gripe. Estas molestias pueden ser:
-*   fiebre
-*   tos
-*   cansancio (fatiga)
-*   falta de apetito
-*   dificultad para respirar
-*   dolor muscular
-*   dolor de garganta
-*   congestión nasal
-*   dolor de cabeza
-*   diarrea
-*   nauseas
-*   vómitos
-*   pérdida del sentido del olfato (no distingue olores)
-*   pérdida del gusto (no distingue sabores)
+# [detection:diagnoses] TESTS
+There are 2 types:
+- Molecular tests (identify the virus of COVID-19) 
+- Serological tests (identify the antibodies generated by the body when get infected by the virus of COVID-19)
 
-## Molestias en las personas mayores (adulto mayor):
-Las personas mayores e inmunodeprimidas (con defensas bajas) pueden tener molestias diferentes, como:
-*   estado de alerta reducido (adormitado)
-*   movilidad reducida (no desea caminar como lo hacía antes de enfermar)
-*   diarrea
-*   pérdida de apetito/hambre
-*   delirio
-*   ausencia de fiebre (las personas mayores casi siempre no hacen fiebre)
+¿When molecular tests could get positive?
+In most COVID-19 cases, 5 days after a person has been infected.
 
-## Señales de alarma
-Las señales de alarma indican la necesidad de atención médica lo antes posible. Estas señales pueden ser:
-*   Dificultad para respirar
-*   Desorientación o confusión
-*   Fiebre (temperatura axilar mayor de 38°C) persistente por más de 2 días
-*   Dolor en el pecho
-*   Coloración azulada de labios (cianosis)
-*   Saturación de oxígeno menor a 95% (la saturación de oxígeno se mide con un pulsioxímetro, se parece a un dedal). La persona con COVID puede no sentir molestias mientras su saturación de oxígeno disminuye.
+¿When serological tests could get positive?
+Most of people with COVID-19 has positive serological tests 21 days or more after the onset of symptoms.
 
-# [prevention] PREVENCIÓN
+¿What is a rapid test?
+A rapid test is a molecular test type; it is fast but sometimes its result is not accurate.
 
-Use o no mascarilla debe de cumplir con las siguientes medidas:
-*   Evitar ir a lugares con muchas personas.
-*   Mantener una distancia física de 2 metros de los demás, tanto para protegernos del virus como para evitar la transmisión del virus COVID-19 en el caso estemos enfermos.
-*   Lavado de manos con agua y jabón durante 20 segundos por lo menos, o con alcohol gel si las manos no se ven sucias.
-*   Cubrir nariz y boca al estornudar o toser con el codo, papel toalla o papel higiénico, botar el papel sucio inmediatamente, y, por último, lavarse las manos (conocido como higiene respiratoria o etiqueta de la tos).
-*   No tocarse ojos, nariz y boca.
-*   Mantener las ventanas abiertas para la adecuada ventilación de los ambientes.
+¿How to know if someone has COVID-19?
+To know if someone has COVID-19 it is recommended to use a molecular test.
 
-## Las vacunas contra la neumonía previenen o protegen contra el virus de la COVID-19
+¿How to know if someone had COVID-19?
+To know if someone has COVID-19 it is recommended to use a serological test and also a molecular test (to make sure that the virus of COVID-19 is no longer in the body).
 
-NO. Las vacunas contra la neumonía como la vacuna del neumococo y la del Haemophilus influenzae tipo B (Hib), no protegen contra el virus de COVID-19. El virus de COVID-19 necesita su propia vacuna, para lo cual, varias investigaciones con el apoyo de la Organización Mundial de la Salud están trabajando para la creación de una vacuna contra el coronavirus. 
+¿Could serological tests determine if someone can go back to their work?	
+It is not recommended. Serological tests shouldn’t determine if a person could back to work, college, school or any other place where people group.
 
-Si bien estas vacunas (neumococo y Hib) no protegen contra el virus de COVID-19, SE RECOMIENDA su aplicación para evitar otras posibles causas de neumonía.
+¿Could someone who had COVID-19 get infected again (reinfection)?
+There have been some COVID-19 cases of reinfection although they are rare. Antibodies generated by our body may not last forever or may not protect our body of a second infection (reinfection).
 
-## Las fumigaciones ayudan a prevenir la enfermedad del coronavirus (COVID-19)
+¿Could thermal scanners detect the virus of COVID-19?
+No. Thermal scanners detect if someone has fever, no the COVID-19 virus. There are many diseases which could produce fever.
 
-No se recomienda la aplicación de desinfectantes mediante spray o fumigación en un **ambiente cerrado** (como casas, oficinas, puestos de salud), ya que puede dañar la salud de las personas. Si se desea desinfectar, se debe de limpiar la superficie con agua y detergente para quitar la suciedad primero, y después aplicar el desinfectante con un trapo o tela.
+¿Does being able to hold the breath for 10 seconds or more without coughing or feeling discomfort, rule out COVID-19?
+No. Breath exercises cannot diagnose any disease. Only laboratory tests can determine if someone has COVID-19 or no.
 
-No se debe fumigar **lugares abiertos (como calles, veredas, mercados)** para eliminar el virus de COVID-19 u otro bicho. Las calles y veredas no son una ruta de infección del virus. Los desinfectantes dejan de funcionar con la suciedad, y no es fácil eliminar toda la suciedad de estos lugares abiertos. Y en el caso que se llegaran a limpiar estos lugares, la fumigación con desinfectantes no cubre todas las superficies por el tiempo adecuado para eliminar el virus.
+¿Does being able to smell and taste wine or vinegar rule out COVID-19?
+No. There are other diseases which could cause loos of taste and smell. Drinking alcoholic beverages in excess is harmful.
 
-No se debe rociar o pulverizar a las personas con desinfectantes, esto no disminuye la propagación del virus. El rociar desinfectantes a una persona es dañino para su salud tanto física (causa irritación de piel y ojos, broncoespasmo (se cierra el pecho), náuseas, vómitos) como psicológica. 
+# [treatment:healing] TREATMENT
+As COVID-19 symptoms could be different from person to person, the treatment also is different. Severe COVID-19 needs oxygen and other drugs depending on the disease course. The right and early treatment can avoid complications and even death.
 
-## Rociarse o introducirse lejía u otro desinfectante en su cuerpo NO protege de COVID-19, es peligroso
+¿If someone on treatment for another disease have COVID-19, should they stop their previous treatment?
+No. A person who previously is taking anticoagulant (warfarin), antiplatelet (aspirin), antihypertensive (captopril, enalapril, losartan), statins (atorvastatin, fluvastatin, lovastatin), corticosteroid (dexamethasone, prednisone), NSAIDs (ibuprofen, naproxen, diclofenac, celecoxib) drugs should continue their treatment, whatever has or has not COVID-19.
+This person must go to their doctor because their previous disease could be a risk factor to develop a severe COVID-19.
 
-Nunca rocíe o introduzca lejía o cualquier otro desinfectante en su cuerpo, estas sustancias son tóxicas si son ingeridas y causan irritación en piel y ojos. El uso de la lejía y otros desinfectantes son únicamente para desinfectar superficies (como muebles, pasamanos de escaleras, pisos, paredes, manijas de puertas). No dejar estas sustancias al alcance de los niños. 
+¿Could Remdesivir be used as general COVID-19 treatment?
+No. In the USA, Remdesivir is approved as COVID-19 treatment for hospitalized patients who need oxygen.1 But, WHO recommends wait for more evidence of its effectiveness.
 
-## Tomar alcohol, metanol, etanol o lejía NO previene o cura COVID-19, es peligroso.
+¿Could Dexamethasone be used as general COVID-19 treatment?
+No. Dexamethasone is only recommended for hospitalized COVID-19 patients who need oxygen.
 
-Tomar alcohol no protege de COVID-19. El consumo excesivo de alcohol aumenta el riesgo de algunas enfermedades. 
+¿Can Hydroxychloroquine or Chloroquine cure or prevent COVID-19?	
+To date, there isn’t evidence suggesting the Hydroxychloroquine or Chloroquine cure or prevent COVID-19. Unnecessary use of these drugs could produce serious adverse effects.
 
-El metanol, el etanol (alcohol para desinfectar), y la lejía son tóxicos; el beber estas sustancias lo pueden llevar a la muerte. Tanto el metanol, etanol como la lejía se usan para desinfectar superficies/objetos, pero nunca se deben de ingerir. Estas sustancias no matan el virus de COVID-19 dentro de su cuerpo, por el contrario, dañan su cuerpo. 
+¿Can Ivermectin cure or prevent COVID-19?
+To date, there isn’t evidence to support that Ivemectin prevent or cure COVID-19.
 
-## Las lámparas ultra-violeta (UV) no deben de usarse para desinfectar manos u otra parte del cuerpo.
+¿Can antibiotics prevent or cure COVID-19?
+No. Antibiotics do not work against virus. Some people with COVID-19 could get a bacterial infection as complication and antibiotics are indicated by doctors.
 
-La radiación UV puede irritar y dañar la piel y ojos. Lavarse las manos con agua y jabón o aplicándose en las manos alcohol gel son las medidas más efectivas para eliminar el virus. 
+¿Why taking antibiotics is not convenient to prevent or cure COVID-19?
+Antibiotics are against bacteria. If we take antibiotics unnecessarily, bacteria could become resistant to these drugs and in the near future antibiotics can no longer kill bacteria. Only doctors could determine if antibiotics are needed or not.
 
-## Los secamanos eléctricos matan el virus de COVID-19
+¿Can vitamin C, vitamin D and Zinc prevent or cure COVID-19?
+To date, there isn’t evidence. Vitamin C, vitamin D and Zinc are supplements which help the immune system to work well, they do not cure or prevent COVID-19.
 
-No. Los secamanos eléctricos NO matan el virus de COVID-19. Para protegerse del coronavirus, primero debe de lavarse las manos con agua y jabón, y después secarse con una toalla, papel toalla o secamanos.
+¿Can the blood of people who recovered from COVID-19 be used as COVID-19 treatment?
+To date, there isn’t evidence. It is unknown if blood or antibodies of people who have had COVID-19 and then recovered could treat COVID-19 in other people.
 
-## Tomar un baño de tina con agua caliente NO previene la enfermedad del coronavirus (COVID-19)
+¿Can Chlorine Dioxide (ClO2) prevent or cure COVID-19?
+No. Chlorine dioxide is a gas used in water treatment plants. Drinking ClO2 can cause serious consequences, even death.
 
-Tomar un baño de tina con agua caliente no previene COVID-19. La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C sin importar ni el clima ni la temperatura externa. Por otro lado, bañarse con agua muy caliente puede ocasionar quemaduras. 
+# [prevention:block] PREVENTION 
+## [drugs:pills] Preventive measures
+Wearing or not wearing mask (face cover), we should:
+- Avoid being in crowded places.
+- Handwashing with soap and water for at least 20 seconds. We could use hand sanitizer if our hands do not look dirty.
+- Keep 6 feet (2 meters) apart from others. Doing so we prevent get infected or infect other if we are sick.
+- If we cough or sneeze, we must cover our nose and mouth with a tissue or our elbow, throw the dirty tissue to the rubbish and then wash our hands.
+- Do not touch eyes, nose or mouth without wash our hands before.
+- Keep windows opened and avoid stuffy places.
 
-## Exponerse al sol o a altas temperaturas (mayor a 25°C) NO mata el coronavirus. El virus de COVID-19 se puede transmitir en lugares con climas calientes y húmedos.
+¿Is there any drug to prevent COVID-19?
+To date, there isn’t any drug which can prevent COVID-19.
 
-Usted puede contraer la enfermedad del coronavirus sin importar que tan soleado o caluroso sea el sitio donde vive. Países con climas calurosos han reportado casos de COVID-19. Para protegerse de COVID-19, lave sus manos frecuentemente, evite tocar ojos, nariz y boca, y mantenga una distancia de 2 metros de los demás.
+¿When to wear a mask?
+We should wear a mask properly if we have to be in a crowded place and cannot keep a distance of 6 feet (2 meters) from others.8,23
 
-## Los climas fríos y con nieve NO matan el virus de COVID-19
+## [masks:headSideMask] Masks (face cover)
+¿What steps we must follow to wear a mask (face cover) properly? 
+- Wash our hands before putting on the mask.
+- Make sure of covering mouth and nose with the mask, adjust it to the nasal bone, and fast it in order to decrease spaces between the mask and the face.
+- Avoid touching the mask while we are wearing it.
+- To remove the mask, unfasten or untie the mask from behind without touching it. 
+- Wash our hands after removing or touching the mask.
+- If the mask gets wet or dirty, let’s change it for a new and dry mask.
+- We should change of mask at least every day.
+- Never reuse a disposable mask, we have to change it for a new one after each wearing.
 
-Los climas fríos no matan ni el virus de COVID-19 ni otros virus (bichos). La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C sin importar ni el clima ni la temperatura externa. La forma más efectiva de prevenir COVID-19 es lavarse las manos frecuentemente con agua y jabón o aplicarse alcohol gel si las manos no se están visiblemente sucias.
+¿What could happen if I do not wear a mask (face cover) properly?
+- We could contaminate us if we touch the mask and then touch our eyes, nose and mouth without wash our hands before.
+- We could contaminate us if we do not change the mask when it gets dirty or wet.
+- We could have breathing difficulty if we did not choose the suitable mask. It is important to choose a mask that fits us and through we can breathe - comfortably.
+- If we wear a mask for a long period, it could cause skin irritation. Let’s choose a mask that doesn’t bother us.
+- Could make communication difficult, especially for deaf-mute people. To avoid this problem, there are masks with a transparent portion.
+- We may have a sense of false security and do not continue practicing the most important preventive measures, such as handwashing, physical distance and - covering nose/mouth when coughing/sneezing.
+- Rubbish increasing. We could avoid it wearing a cloth mask.
 
+¿What benefits there are if we wear a mask (face cover) properly?
+- We reduce the transmission risk, avoiding getting infected or spreading the virus if we are sick. 
+- Decrease stigmatization (discrimination) of people who regularly have to wear a mask due to other diseases, like Tuberculosis.
+- Have a feeling that we can help in some way to stop the spreading of the COVID-19 virus.
+- Make us remember that we should follow the other preventive measures, such as handwashing, physical distance and covering mouth/face when coughing/- sneezing.
+- We could have an extra income if we make reusable masks and sell them. Wearing cloth masks are cheaper and reduce the amount of rubbish generated by disposable masks.
 
-# [special_conditions] CONDICIONES ESPECIALES
+¿What are the recommendations for the manufacture and washing of a fabric/cloth mask?
+- The fabric should retain small drops. Also, it should be easy to breathe through the cloth.
+- Do not use elastic cloth to make the mask, as it cannot be washed with hot water as the fabric will stretch.
+- Use fabric that can resist high temperatures (60°C or more).
+- A cloth mask should have at least 3 layers: the inner layer that is in contact with the mouth and nose could be of cotton or a cotton blend cloth (can - absorb fluid), the middle layer could be polypropylene or cotton, and the outer layer could be polypropylene, polyester, or a blend of both (cannot - absorb fluid)
+- A fabric mask should be washed frequently, without scrubbing too much.
+- Do not wash cloth masks with other clothes.
+- Check on the mask label what is the higher temperature it could be washed. A mask made of polyester could resist up to 140°C.
+- If there isn’t hot water, wash fabric masks with soap or detergent and then boil them for 1 minute.
+¿Could we wear just a face shield?
+No. The face shield should always be wearing with a mask or face cover.
 
-_El virus de COVID-19 afecta más a las personas mayores?, o a los jóvenes también_
+?Should children wear a mask?
+Children younger than 2 don't need to  wear a mask.
 
-Todas las personas de cualquier edad pueden infectarse del virus de COVID-19. Las personas mayores y quienes previamente padecen de una enfermedad o dolencia (como asma, diabetes, enfermedad del corazón) tienen mayor probabilidad de enfermar gravemente de COVID-19. La Organización Mundial de la Salud (OMS) recomienda a las personas de todas las edades tomar medidas para protegerse del virus, como lavarse las manos con agua y jabón frecuentemente y practicar higiene respiratoria (cubrirse nariz y boca al estornudar o toser con papel higiénico, papel toalla o con el codo). 
+¿Can wearing a mask for a long time cause carbon dioxide (CO2) intoxication or oxygen deficiency?
+No. Wearing a mask for a long period could be annoyed, but it does not cause carbon dioxide intoxication either oxygen deficiency. Let’s choose a comfortable mask which enabled us to breathe easily through it.
 
-	
+¿Should a mask be wearing while doing exercise?
+No. Someone who is doing exercise shouldn’t wear a mask as breathing is uncomfortable. Also, the mask gets wet with sweating making breathe even more difficult and making microbes grow in the mask.9 The main measure while doing exercise is to keep 2 or at least 1 meter apart from others.
 
-## Personas en riesgo
-Las personas que están en mayor riesgo de enfermar gravemente de COVID-19 son las que tiene las siguientes características:
-*   Edad mayor o igual a 65 años
-*   Hipertensión arterial
-*   Enfermedad cardiovascular
-*   Diabetes
-*   Enfermedad crónica respiratoria
-*   Cáncer
-*   Enfermedad renal
-*   Obesidad
-*   Asma
+## [rumors:users] Rumors about prevention
+There are hearsays about COVID-19 prevention that could be very harmful if we practice them.
 
-## Gestantes con COVID-19
-En las pacientes gestantes como en las no gestantes, las manifestaciones de la enfermedad del coronavirus varían desde molestias leves que se manejan con cuidados médicos en casa, a cuadros severos que requieren manejo hospitalario.
+¿Does fumigating houses or offices prevent COVID-19?
+No. Fumigate a closed place such as house, office, health center is not recommended because it can harm people health. To disinfect a place, it should be cleaned with water and detergent to take out the dirt first, and then, apply a disinfectant with a cloth enabling the disinfectant to cover all surfaces.
 
-El diagnóstico COVID-19 en una gestante no es una indicación para adelantar el parto
+¿Does fumigating streets prevent COVID-19?
+No. Fumigate open places such as streets or markets do not kill the virus of COVID-19. Disinfectants do not work with dirt. Moreover, when fumigate, disinfectants do not cover all surfaces to remove the virus.
 
-Las madres con diagnóstico o sospecha de COVID-19 deben de usar mascarilla y lavarse las manos antes de dar de lactar/amamantar. No se ha encontrado el virus de COVID-19 en la leche materna.
+¿Does fumigating or spraying people with disinfectants prevent COVID-19?
+No. Fumigate or spray people with any disinfectant do not decrease the risk of COVID-19 virus transmission. These substances can cause breathing difficulty, vomits and skin/eyes irritation.
 
-## Niños con COVID-19
-Se cree que la enfermedad sea menos severa en los niños que en los adultos, sin embargo, en algunos casos de niños con COVID-19 han necesitado ingresar a la unidad de cuidados intensivos (UCI). 
+¿Does introducing bleach into someone prevent COVID-19?
+No. Introducing bleach into the body can be dangerous and even deadly. Bleach or other disinfectant has to be used only to disinfect objects or surfaces like chairs, handles, stair handrail floors, walls.
 
-Niños severamente inmunocomprometidos y con enfermedad cardiopulmonar podrían estar en mayor riesgo de enfermar gravemente de COVID-19. Es probable que los niños con obesidad, diabetes e hipertensión podrían también estar en riesgo, aunque todavía esta relación no está clara.
+¿Does drinking alcohol, methanol, ethanol or bleach prevent or cure COVID-19?
+No. Methanol, ethanol (medical alcohol to disinfect) and bleach are harmful if they are drunk, causing even death. These substance are only to disinfect objects or surfaces, but they never be drunk.
 
-Se ha visto en algunos niños han desarrollado el síndrome de inflamación multisistémica. Este síndrome fue descrito por primera vez en el Reino Unido (Inglaterra), niños con infección del virus de COVID-19 actual o reciente y previamente sanos presentaron inflamación severa y manifestaciones similares a la enfermedad de Kawasaki. En Nueva York se han identificado cientos de casos con pocas muertes de niños con síndrome de inflamación multisistémica (MIS-C). Este síndrome se presenta con fiebre persistente, inflamación sistémica, y compromiso de varios órganos (como el corazón, riñón, piel, sangre, sistema gastrointestinal y sistema nervioso).
+¿Does vaporizing eucalyptus prevent COVID-19?
+There isn’t evidence that eucalyptus can kill any virus or bacteria.
 
-# [home] CUANDO HAY UN ENFERMO COVID-19 EN CASA
+¿Does cold weather kill the COVID-19 virus?
+No. Cold weather with snowing doesn’t kill the COVID-19 virus. Body temperature is around 36.5°C and 37°C whatever the environment temperature is.
 
-## Recomendaciones para las personas con molestias (síntomas) COVID-19
-*   Aislarse en un dormitorio aparte, y de ser posible, utilizar un baño separado.
-*   Buscar atención médica llamando a su médico o médica tan pronto como las molestias aparezcan, los síntomas o molestias pueden comenzar de forma leve/suave. 
-*   Evitar compartir áreas comunes (sala, cocina, comedor) o si lo hace que sea el menor tiempo posible.
-*   Cumplir con las medidas de lavado de manos, higiene respiratoria (etiqueta de la tos) y mantener una distancia física de 2 metros de los demás. 
-*   Usar una mascarilla quirúrgica el mayor tiempo posible, debe de cambiar de mascarilla todos los días. Las personas que no puedan tolerar la mascarilla deben de cubrirse nariz y boca con un pañuelo, papel toalla o codo al estornudar o toser, y luego lavarse las manos (higiene respiratoria o etiqueta de la tos).
-*   Seguir las instrucciones del adecuado uso de la mascarilla o tapaboca.
-*   Evitar contaminar objetos y superficies con saliva, esputo (_pollo_) o secreciones respiratorias (moco), disminuyendo la probabilidad de transmisión del virus.
-*   Abrir ventanas y puertas para ventilar la casa.
-*   Limpiar y desinfectar los objetos y superficies que toca frecuentemente.
-*   Beber líquidos/agua para mantenerse hidratado.
-*   Descansar.
-*   Quédese en casa. No ir al trabajo, reuniones o eventos.
-*   Evitar estar cerca de animales/mascotas.
+¿Does hot weather kill the COVID-19 virus?
+No. Hot weather doesn’t kill any virus. COVID-19 transmission can increase in cold weathers because people spend more time indoors with closed windows.
 
-## Recomendaciones para la persona que cuide del enfermo COVID-19 (con prueba de laboratorio positiva o no)
-*   Designar a una persona que cuide del enfermo, de preferencia esta persona no debe de estar ni embarazada y ni en riesgo de enfermar gravemente de COVID-19.
-*   Lavarse las manos con agua y jabón o si las manos no se ven sucias usar alcohol gel antes y después de tocar a la persona enferma o los objetos que toca. 
-*   Mantener una distancia de 2 metros de la persona enferma.
-*   No se coloque enfrente de la persona enferma (cara a cara).
-*   Usar una mascarilla cuando ingrese al dormitorio de la persona enferma.
-*   Eliminar todo material contaminado con secreciones de la persona enferma (como papel higiénico/toalla), luego lavarse las manos con agua y jabón.
-*   Abrir ventanas y puertas para ventilar los ambientes de la casa.
-*   Limpiar y desinfectar los objetos que utiliza o toca la persona enferma.
-*   La persona que cuida de un enfermo COVID-19 se puede contagiar y propagar el virus a los demás, por lo que esta persona debe de cumplir con todas las medidas de prevención.
+¿Can UV lamps disinfect hands or other body parts?
+No. Ultraviolet lamp cannot disinfect any part of our body. UV rays can cause skin and eyes irritation.
 
-## Qué desinfectantes contra el virus de COVID-19 se pueden usar
-*   Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección)
-*   Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o al 0.5% para lugares con residuos de sangre o secreciones corporales.
-*   Peróxido de hidrógeno >0.5% (agua oxigenada). 
+¿Can hand dryers kill the COVID-19 virus?
+No. Hand dryers cannot kill the coronavirus. We should wash our hands with water and soap first before dry them (using a cloth/paper towel or a warm air dryer).
 
-Estas sustancias deben de estar en la superficie durante 1 minuto como mínimo para desinfectarla, o según las instrucciones del fabricante.
+¿Does taking a hot bath prevent COVID-19?
+No. Bathing with very hot water can cause burns. Body temperature is around 36.5°C and 37°C whatever environmental temperature is.
 
-## Uso de mascarilla o tapaboca6
-Los niños menores de 2 años no deben de usar mascarilla/tapaboca.
+¿Does eating hot pepper or spicy food prevent or cure COVID-19?
+No. Chili or hot pepper can empower meals taste, but they don’t prevent or cure COVID-19.
 
-## Uso adecuado de mascarillas o tapabocas
-Los pasos a seguir para un adecuado uso de mascarillas o tapabocas son:
-*   Lavarse las manos antes de colocarse la mascarilla.
-*   Asegurarse que la mascarilla cubra **boca y nariz**, ajustar al tabique nasal (hueso de la nariz que está entre los ojos), y sujétela minimizando los espacios entre la cara y la mascarilla.
-*   Evitar tocar la mascarilla mientas la tenga puesta.
-*   Para retirar la mascarilla no toque la parte externa, desate (desajuste) la mascarilla por detrás.
-*   Después de retirar la mascarilla o después de tocar la mascarilla, lavarse las manos con agua y jabón, puede aplicarse alcohol gel si es que sus manos no están visiblemente sucias.
-*   Cambiar la mascarilla si se humedece por una mascarilla nueva y seca.
-*   Cambiar la mascarilla después de cada uso, al menos todos los días. 
-*   No reutilizar las mascarillas desechables.
+¿Does exposing to the sun or temperatures higher than 25°C prevent COVID-19?
+No. Exposing to the sun doesn’t prevent COVID-19.
 
-## Una persona puede usar mascarilla cuando hace ejercicios
+¿Does rinsing mouth or nose with saline prevent COVID-19?
+No. Rinsing mouth or nose with saline could improve cold symptoms, but it doesn’t prevent or kill the COVID-19 virus.
 
-No. Una persona cuando hace ejercicios NO debe de usar mascarilla ya que impide respirar confortablemente. La mascarilla se humedece con el sudor dificultando la respiración, pudiendo crecer microorganismos (bichos) en el tapaboca mojado. La principal medida a tener en cuenta al momento de hacer ejercicios es mantener una distancia de 2 metros de los demás. 
+¿Does eating ginger or garlic prevent COVID-19?
+No. Ginger and garlic can empower our meals, but there isn’t evidence that they could prevent COVID-19.
 
-## El uso adecuado de mascarillas quirúrgicas o médicas por un tiempo prolongado, NO ocasionan intoxicación por CO2 ni deficiencia de oxígeno.
+## [vaccine:syringe] Vaccines
+Vaccines are essential to protect the health and economy of people, helping to the development and economy of the country.
+In Africa, for every COVID-19 death of a person who was infected when they brought their child to be vaccinated, (at least) 80 deaths of children who were vaccinated are prevented.
 
-Si bien el uso de mascarillas quirúrgicas por un tiempo prolongado puede llegar a ser bastante molesto, esto no ocasiona intoxicación por CO2 ni deficiencia de oxígeno. Cuando use una mascarilla quirúrgica asegúrese de que le quede bien y le permita respirar de manera normal. No vuelva a usar una mascarilla desechable, si la mascarilla se humedece, cámbiela por una nueva. (Las mascarillas médicas o quirúrgicas son planas o plisadas que se sujetan a la cabeza u orejas por medio de tiras.)
+¿How do vaccines work?
+Vaccines train our body how to recognize and defend itself against viruses and bacteria, reducing the risk of the disease occurring.
 
-## Beneficios/ventajas del uso de mascarillas
-*   Disminuye el riesgo de exposición con las personas infectadas asintomáticas o antes de que presente síntomas.
-*   Disminuye la estigmatización o discriminación de las personas que regularmente deben de usar mascarilla, sean porque están infectados del virus COVID-19 o cualquier otro virus/bacteria/bicho o personas que cuidan de un enfermo.
-*   Hacer sentir a las personas que pueden contribuir de alguna manera en parar la propagación del virus.
-*   Hacer recordar a las personas que también deben de cumplir con las demás medidas de prevención como lavado de manos, distancia física e higiene respiratoria / etiqueta de tos. 
-*   Fabricar sus propias mascarillas podría ser una fuente de ingreso para la población. El uso de estas mascarillas reusables disminuye los costos y la basura que se generaría si se usaran las mascarillas desechables a largo plazo.
+¿Is there any vaccine to prevent COVID-19?
+Yes. There are 3 vaccines with emergency approvals in different countries.
 
-## Recomendaciones para la manufacturación/elaboración y uso de mascarillas de tela
-*   La tela debe de poder capturar gotas pequeñas y partículas, y que a la vez sea fácil de respirar a través de esta.
-*   No usar telas elásticas para la fabricación de mascarillas, debido a que no se podrán lavar con agua caliente y que la tela se estirará cuando se use. 
-*   De preferencia, usar telas que puedan soportar altas temperaturas (60°C o más)
-*   Una mascarilla debe de tener como MÍNIMO 3 capas de tela; 
-    1. la capa interna que está en contacto con la boca y nariz puede ser de algodón o una tela que tenga combinaciones con algodón (material que absorba líquido o hidrofílico),
-    2. la capa intermedia puede ser de polipropileno o de algodón,
-    3. y la capa externa expuesta al medio ambiente puede ser de polipropileno, poliéster, o combinación de ambas (material que no absorba líquido o hidrofóbico)
-*   Las mascarillas deben de lavarse frecuentemente y de manera delicada (no refregar demasiado). **No lavar los tapaboca junto con la demás ropa**.
-*   Verificar en la etiqueta de la mascarilla la temperatura máxima a la que puede ser lavada. Las mascarillas hechas de polipropileno pueden aguantar altas temperaturas, hasta 140°C.
-*   Si es que no se puede contar con agua caliente, lavar la mascarilla con jabón o detergente y luego hervir la mascarilla por 1 minuto.
+¿Can COVID-19 vaccine stop the pandemic?
+COVID-19 vaccine is one of the biggest measures to stop the pandemic. However, we should continue following the other measures such as handwashing, physical distance, cover mouth/nose when coughing/sneezing, and wearing a mask properly.
 
-# [hospital] PRUEBAS/EXÁMENES DE LABORATORIO
-La prueba rápida es positiva después de 21 días del comienzo de los síntomas/molestias. No se sabe si las defensas producidas por la persona infectada van a ser de por vida y si la protegerá de una segunda infección (reinfección). El resultado de la prueba rápida debe de ser leído por un médico o médica, ellos son los que le indicarán el siguiente paso a seguir.
+¿What types of COVID-19 vaccines are in trials and how they work?
+Inactivated vaccines: it is used inactivated or weakened COVID-19 viruses, they make our body to produce antibodies without getting sick.
+Protein-based vaccines: it is used parts of the COVID-19 virus (proteins) that don’t cause the illness but make our body recognize them as foreign and learn how to defend itself of future infections.
+RNA and DNA vaccines: it is used genes of the virus that produce parts (proteins) of COVID-19 virus, our body destroys them and learns how to defend itself against the virus.
+Viral vector vaccines: it is used other weakened viruses and added genes of COVID-19 virus, in our body it is produced part of the virus (protein) that is recognized as foreign and then is removed.
 
-Las pruebas rápidas (serológicas) no deben de definir si las personas retornan al trabajo, escuela, o cualquier otro sitio donde se conglomeren o agrupen personas.
+¿Does the protection of the COVID-19 vaccine is forever?
+It is unknown, more researches are needed to clarify how long the protection of the COVID-19 vaccines would be.
 
-Solo las pruebas moleculares o de antígenos pueden diagnosticar la infección aguda de SARS-CoV-2, que es cuando la persona puede transmitir el virus.
+¿How to know if COVID-19 vaccines are safe?
+There are many researches have been doing to check the effectivity and safety of COVID-19 vaccines. Based on the outcomes of these studies, different countries have approved the emergency use of these vaccines. This process is very rigorous and has been doing with all vaccines we use nowadays.
 
-# [treatment] TRATAMIENTO 
-Hasta la fecha no hay una medicina (pastilla, ampolla) para prevenir o tratar el virus de COVID-19. Los infectados con el virus deben de recibir atención médica apropiada lo más temprano posible. Hay varios medicamentos que se están probando en estudios con pacientes hospitalizados y hasta la fecha no se ha demostrado su efectividad (si curan o no la enfermedad del coronavirus).
+¿What adverse effects could cause COVID-19 vaccine?
+Pain and swelling of the shot arm, fever, chills, tiredness, headache. These are suggesting that our body is producing defenses.
 
-Las personas con COVID-19 pueden desarrollar la enfermedad de forma leve a moderada en la mayoría de los casos. La detección temprano de las molestias y el tratamiento oportuno de las personas con COVID-19 puede evitar futuras complicaciones y posible muerte.
+¿Are COVID-19 vaccines part of a “program for mass extermination”?
+No. There isn’t any program for mass extermination. Different organizations are working to keep the population as healthy as possible. The most important aim of vaccines is to be safe, it has been checking in many researches.
 
-El tratamiento de COVID-19 es de acuerdo a como la enfermedad se vaya presentado. Si siente alguna molestia comuníquese vía telefónica con su médico o médica de confianza para que lo oriente paso a paso durante toda su enfermedad.
+¿Could COVID-19 vaccines produce infertility?
+No. There is too many fake news about vaccines that cause fear and distrust to people, so they don’t want to get vaccinated. It is quite harmful to the most effective preventive measure, vaccination.
 
-## Los antibióticos son para las enfermedades bacterianas. La enfermedad del coronavirus (COVID-19) es causada por un virus, NO por una bacteria
-El virus de COVID-19 pertenece a la familia de virus Coronaviridae. Los antibióticos no funcionan contra los virus. Algunas personas que enferman de COVID-19 pueden complicarse y desarrollar una infección bacteriana; en estos casos, son los médicos quienes pueden indicar el uso de antibióticos. No hay medicamento (pastilla o ampolla) que cure el virus de COVID-19.  Si tiene síntomas, llame a su médico(a) para que sea atendido, aconsejado y guiado durante todo el proceso de la enfermedad. 
+¿Do pneumonia vaccines prevent or protect against COVID-19?
+No. Pneumonia vaccines as pneumococcal and Haemophilus influenzae type B (Hib) do not protect against COVID-19 virus. COVID-19 virus needs its own vaccine. However, it is recommended to get these vaccines to prevent other causes of pneumonia.
 
-## Hay alguna medicina específica para prevenir o tratar el virus de COVID-19
-No está probado que la Hidroxicloroquina o algún otro medicamento pueda curar o prevenir COVID-19. El uso inadecuado de la Hidroxicloroquina puede ocasionar serios efectos secundarios e incluso la muerte. La Organización Mundial de la Salud está trabajando en la creación de medicamentos efectivos para curar la enfermedad del coronavirus. 
+¿Does Influenza vaccine prevent COVID-19?
+No. The Influenza virus is a different virus than the COVID-19 virus, despite their symptoms are quite similar.1 However, it is recommended that people who recovered from COVID-19 get vaccinated against Influenza.
 
-## La sangre de las personas que tuvieron COVID-19 y se recuperaron, puede usarse como tratamiento COVID-19
+¿What is the benefit of diphtheria vaccination?
+The benefit of diphtheria vaccination is to prevent diphtheria, and, prevent another disease from hitting us. Due to the pandemic, many children and adults who should have got vaccinated didn’t so there are vaccines available to be used.
 
-No se ha probado si el uso de plasma convaleciente COVID-19 (de los pacientes que ya se han recuperado de la COVID-19) o inmunoglobulinas del virus de COVID-19 puede tratar la enfermedad del coronavius.
+# WHEN THERE IS SOMEONE SICK AT HOME
+¿What we should do if we have COVID-19 symptoms?
+- Stay at home. We should only get out to go to the doctor or hospital.
+- Seek for medical care calling a doctor as soon as symptoms begin.
+- Do rest and not stress. Having good mental health is important.
+- Drink water to keep hydrated.
+- Stay in a separate room, with opened windows.
+- Use an independent bathroom, if it is possible.
+- Keep windows opened enabling fresh air in the house. More fresh air, less viruses.
+- Avoid sharing common areas like the living room, dining room, kitchen, and when we do it should be the lesser time possible.
+- Practice preventive measures such as handwashing, physical distance and covering nose/mouth when coughing/sneezing.
+- Wear a medic mask most of the time, change a mask every day. If wearing a mask is impossible, cover mouth/nose with a tissue when sneezing/coughing or - speaking/laughing and then through the dirty tissue to the rubbish.
+- Avoid contaminating things or surfaces with saliva or respiratory secretions (mucus or sputum), it reduces the risk of virus transmission.
+- Clean and disinfect things and surfaces we touched frequently.
+- Avoid being close to animals or pets.
 
+¿What we should do if there is someone with COVID-19 at home, with diagnostic test or not?
+- Choose a person to care for the sick one, if it is possible, this person should not be pregnant or at higher risk of developing severe COVID-19.
+- If we care for a sick person, we could get infected and transmit the COVID-19 virus to others. It is extremely important to practice all the preventive - measures such as handwashing, physical distance, covering mouth/nose when coughing/sneezing and wear a mask.
+- Wash hands with soap and water before and after touch the sick person. If our hands don’t look dirty we could use hand sanitizer. 
+- Stay 6 feet (2 meters) apart from the sick person.
+- Do not be face to face to the sick person.
+- Wear a mask when being in the bedroom of the sick person.
+- Remove all things contaminated with secretions of the sick person like tissues, and then practice handwashing with soap and water.
+- Keep windows opened.
+- Clean and disinfect things that the sick person uses or touches.
 
-## Si está tomando tratamiento para una dolencia/enfermedad aparte de COVID-19
-Las personas con COVID-19 que previamente han estado recibiendo tratamiento con _anticoagulantes, antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina,_ fluvastatina, lovastatina), corticoides en pastillas o inhaladores, AINES (ibuprofeno, naproxeno, aspirina) deben de continuar con su tratamiento.
+¿What disinfectants we could use against COVID-19?
+- Ethanol at 70- 90% (medical alcohol used before a shot)
+- Chlorine based products (like bleach) at 0.1% for general disinfection and at 0.5% for places with blood and body secretions. 
+- Hydrogen peroxide >0.5% (oxygenated water).
+- These substances should cover the surface for at least 1 minute to be disinfected (or depending on the maker indications).
+

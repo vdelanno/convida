@@ -1,4 +1,3 @@
-import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'icons_helper.dart';
@@ -72,48 +71,6 @@ class SectionPage extends StatelessWidget {
             Container(width: 10),
             Text(section.title)
           ]),
-          // actions: [
-          //   ValueListenableBuilder(
-          //     valueListenable: isPlaying,
-          //     builder: (context, value, child) {
-          //       if (!value) {
-          //         Model.instance().stopAudio();
-          //         return FlatButton(
-          //           child: Icon(
-          //               getIconUsingPrefix(name: "assistiveListeningSystems")),
-          //           onPressed: () => isPlaying.value = true,
-          //         );
-          //       }
-          //       print("audio for assets/audios/${section.id}.mp3");
-          //       Model.instance().playAudioForSection(section.id);
-
-          //       return FlatButton(
-          //         child: Icon(Icons.pause),
-          //         onPressed: () => isPlaying.value = false,
-          //       );
-          //       AudioWidget.assets(
-          //         path: "assets/audios/${section.id}.mp3",
-          //         child: FlatButton(
-          //           child: Icon(Icons.pause),
-          //           onPressed: () => isPlaying.value = false,
-          //         ),
-          //         volume: 100,
-          //         play: true,
-          //         onReadyToPlay: (duration) {
-          //           print("onReadyToPlay");
-          //         },
-          //         onFinished: () => isPlaying.value = false,
-          //         onPositionChanged: (current, duration) {
-          //           print("onPositionChanged");
-          //         },
-          //       );
-          //     },
-          //   )
-          //   //   ElevatedButton(
-          //   //       onPressed: () {
-          //   //       },
-          //   //       child: Icon(Icons.play_arrow))
-          // ],
         ),
         body: Container(
             color: Theme.of(context).highlightColor,
