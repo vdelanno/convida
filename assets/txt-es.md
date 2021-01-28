@@ -1,4 +1,4 @@
-# [origin:virus] ORIGEN (CAUSA)
+# [origin:virus] ORIGEN
 ¿Qué es la COVID-19?
 Es una enfermedad nueva causada por el virus SARS-CoV-2. COVID-19 quiere decir “enfermedad del coronavirus 2019” por sus siglas en inglés (COronaVIrus Disease 2019).
 
@@ -11,7 +11,7 @@ No. En el caso de que el virus de la COVID-19 hubiera sido creado en un laborato
 ¿Qué quiere decir que el virus de la COVID-19 ha mutado? 
 Todos los virus cambian o mutan originando nuevas “variantes”, unos más y otros menos. Estas mutaciones podrían cambiar la transmisibilidad y severidad de la enfermedad. El virus de la COVID-19 está cambiando muy lentamente, a comparación de otros virus como el de VIH o influenza.
 
-# [transmission:share] TRANSMISIÓN (CONTAGIO) 
+# [transmission:share] TRANSMISIÓN 
 ¿Cómo se transmite?
 Principalmente, el virus de la COVID-19 se transmite mediante las gotas pequeñas que una persona enferma bota cuando respira, habla, canta, estornuda o tose. Estas gotas pueden llegar hasta dos metros de distancia, ingresando por los ojos, la nariz y la boca de las personas que estén cerca.
 
@@ -46,7 +46,7 @@ Si. El virus de la COVID-19 se puede transmitir en cualquier lugar, sea soleado 
 No.  El virus de la COVID-19 no se transmite a través del agua mientras nadamos (piscina o mar). Permanezcamos por lo menos a 1 metro de distancia de los demás, y utilicemos una mascarilla cuando no estemos en el agua.
 
 
-# [symptons:sick] SÍNTOMAS (MOLESTIAS)
+# [symptons:sick] SÍNTOMAS 
 Nuestro cuerpo responde de diferentes formas al virus de la COVID-19, puede no sentir molestias (asintomático) hasta enfermar gravemente, complicándose con los pulmones, , corazón, riñones, hígado, vasos sanguíneos y sistema nervioso.
 
 ¿Cuándo comienzan los síntomas?
@@ -97,8 +97,6 @@ Algunas personas que tuvieron COVID-19 pueden continuar con molestias como fatig
 # [conditions:accessibility_new] PERSONAS ESPECIALES
 
 ## [risky_people:accessibility_new] Personas en Riesgo 
-¿El virus de COVID-19 afecta más a las personas mayores o a los jóvenes también?
-Todas las personas de cualquier edad pueden infectarse del virus de COVID-19. Las personas mayores y quienes previamente padecen de una enfermedad o dolencia tienen mayor riesgo de enfermar gravemente de la COVID-19.
 Las personas con mayor probabilidad de enfermar gravemente de la COVID-19 tienen:
 - Edad mayor o igual a 65 años
 - Hipertensión arterial 
@@ -111,7 +109,11 @@ Las personas con mayor probabilidad de enfermar gravemente de la COVID-19 tienen
 - Obesidad
 - Enfermedad de la sangre (Enfermedad falciforme)
 
-## [pregnant:pregnant_woman] Gestantes (Embarazadas) 
+¿El virus de COVID-19 afecta más a las personas mayores o a los jóvenes también?
+Todas las personas de cualquier edad pueden infectarse del virus de COVID-19. Las personas mayores y quienes previamente padecen de una enfermedad o dolencia tienen mayor riesgo de enfermar gravemente de la COVID-19.
+
+
+## [pregnant:pregnant_woman] Gestantes 
 En las mujeres embarazadas la enfermedad del coronavirus puede variar desde molestias leves que se manejan con cuidados médicos en casa, a cuadros graves que necesitan hospitalización.
 
 ¿Las mujeres embarazadas tienen mayor riesgo de enfermar de la COVID-19?
@@ -164,7 +166,7 @@ Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamie
 ¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de COVID-19?
 Hasta la fecha, no se ha demostrado mayor riesgo de contraer o enfermar de la COVID-19 en las personas con VIH.
 
-## [cancer:sick] Tuberculosis (TB/TBC)
+## [cancer:sick] Tuberculosis (TB)
 
 ¿Cómo ha afectado la pandemia a la lucha contra la tuberculosis?
 De 4 personas que normalmente eran diagnosticadas de tuberculosis, solo se diagnosticaron 3. Esa persona que no fue diagnostica no recibe tratamiento, esta persona sin tratamiento puede continuar transmitiendo la tuberculosis sin que lo sepa.
@@ -179,7 +181,7 @@ Cuando una persona con tuberculosis tose, estornuda, canta o grita bota bacilos 
 ¿El tratamiento para la tuberculosis es diferente si la persona con tuberculosis también tiene COVID-19?
 No es diferente, en la mayoría de los casos. El tratamiento preventivo y el tratamiento de la enfermedad de la tuberculosis no deben de ser interrumpidos. De 2 personas que dejan su tratamiento TB, 1 podría morir.
 
-## [detection:diagnoses] PRUEBAS DE DIAGNÓSTICO (DETECCIÓN)
+# [detection:diagnoses] DIAGNÓSTICO 
 
 ¿Qué pruebas para COVID-19 hay?
 Pueden ser de dos tipos:
@@ -216,7 +218,7 @@ No. Son las pruebas de laboratorio las que pueden determinar si una persona tien
 ¿Poder sentir el olor y sabor del vino o vinagre, descarta que una persona tenga COVID-19?
 No. Hay otras enfermedades que pueden causar la pérdida del olfato o gusto. Tomar bebidas alcohólicas en exceso es dañino para la salud.
 
-# [treatment:healing] TRATAMIENTO (CURA) 
+# [treatment:healing] TRATAMIENTO 
 
 Así como los síntomas de la COVID-19 varían de persona a persona, el tratamiento también varía. Los casos graves necesitan oxígeno y otros medicamentos de acuerdo a cómo evolucione la enfermedad.1–3 El tratamiento oportuno puede evitar posibles complicaciones y hasta la muerte.
 
@@ -253,7 +255,7 @@ No. El dióxido de cloro es un gas que se usa en las plantas de tratamiento de a
 
 # [prevention:block] PREVENCIÓN 
 
-## [drugs:pills] medicamento
+## [drugs:pills] Medidas Preventivas
 Usemos o no usemos mascarilla (tapaboca/cubreboca), debemos de seguir las siguientes recomendaciones:
 - Evitemos estar en lugares con mucha gente.
 - Lavarnos las manos con agua y jabón por 20 segundos como mínimo. Podemos usar alcohol gel si las manos no se ven sucias.
@@ -270,7 +272,7 @@ Debemos de usar una mascarilla (tapaboca o cubreboca) adecuadamente si tenemos q
 
 ## [masks:headSideMask] Uso de mascarilla (tapaboca o cubreboca)
 
-¿Qué debemos de hacer para usar adecuadamente una mascarilla (tapaboca/cubreboca)?8
+¿Qué debemos de hacer para usar adecuadamente una mascarilla (tapaboca/cubreboca)?
 - Lavarnos las manos antes de colocarnos la mascarilla.
 - Asegurarnos que la mascarilla cubra boca y nariz, ajustar al tabique nasal (hueso de la nariz), y sujetarla disminuyendo los espacios entre la cara y la mascarilla.
 - Evitemos tocar la mascarilla mientas la tengamos puesta.
@@ -322,10 +324,11 @@ No. Si bien el uso de mascarilla quirúrgica por un tiempo prolongado puede lleg
 No. Una persona cuando hace ejercicios no debe usar mascarilla ya que impide respirar cómodamente. Además, la mascarilla se moja con el sudor, dificultando la respiración y ocasionando que crezcan microbios.
 La principal medida a tener en cuenta cuando hagamos ejercicios es mantener una distancia de 2 metros de los demás, o por lo menos 1 metro.
 
-## [rumors:users] Rumores sobre cómo prevenir
+## [rumors:users] Rumores 
+Hay rumores o información falsa sobre la COVID-19 que pueden ser muy peligrosos.
 
 ¿Fumigar la casa u oficina previene la COVID-19? 
-No. Si se desea desinfectar, primero se debe de limpiar la superficie con agua y detergente para quitar la suciedad, y después aplicar el desinfectante con un trapo o tela para que el desinfectante pueda cubrir toda la superficie.25
+No. Si se desea desinfectar, primero se debe de limpiar la superficie con agua y detergente para quitar la suciedad, y después aplicar el desinfectante con un trapo o tela para que el desinfectante pueda cubrir toda la superficie.
 No se recomienda aplicar desinfectantes con spray o fumigación en un ambiente cerrado (como casas, oficinas, puestos de salud), puede afectar la salud de las personas.
 
 ¿Fumigar las calles previene la COVID-19?
