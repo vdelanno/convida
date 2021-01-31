@@ -389,7 +389,7 @@ No. The Influenza virus is a different virus than the COVID-19 virus, despite th
 ¿What is the benefit of diphtheria vaccination?
 The benefit of diphtheria vaccination is to prevent diphtheria, and, prevent another disease from hitting us. Due to the pandemic, many children and adults who should have got vaccinated didn’t so there are vaccines available to be used.
 
-# WHEN THERE IS SOMEONE SICK AT HOME
+# [home:home] WHEN THERE IS SOMEONE SICK AT HOME
 ¿What we should do if we have COVID-19 symptoms?
 - Stay at home. We should only get out to go to the doctor or hospital.
 - Seek for medical care calling a doctor as soon as symptoms begin.

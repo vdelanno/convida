@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'icons_helper.dart';
 import 'model.dart';
 import 'text_load_layout.dart';
+import 'about_page.dart';
 
 class SectionPage extends StatelessWidget {
   SectionPage({Key key, this.section}) : super(key: key);
@@ -71,6 +71,15 @@ class SectionPage extends StatelessWidget {
             Container(width: 10),
             Text(section.title)
           ]),
+          actions: <Widget>[
+            IconButton(
+              icon: const Icon(Icons.settings),
+              tooltip: 'About',
+              onPressed: () {
+                Navigator.pushNamed(context, AboutPage.route);
+              },
+            ),
+          ],
         ),
         body: Container(
             color: Theme.of(context).highlightColor,

@@ -1,5 +1,5 @@
 
-## BIBLIOGRAFÍA
+## BIBLIOGRAFY
 
 1. 	National Institutes of Health. Coronavirus Disease (COVID-19) Treatment Guidelines.; 2020. https://www.covid19treatmentguidelines.nih.gov/. Accessed November 23, 2020.
 2. 	World Helath Organization. Coronavirus disease (COVID-19). https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19. Published 2020. Accessed November 30, 2020.

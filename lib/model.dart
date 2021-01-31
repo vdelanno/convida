@@ -1,7 +1,9 @@
 import 'dart:convert';
 
+import 'package:convida/sit_localizations.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:intl/intl.dart';
 
 import 'icons_helper.dart';
@@ -35,7 +37,6 @@ class PageItem {
   final IconData image;
 
   Map toDict() {
-    print("page item todict $id $title");
     return {
       "id": this.id,
       "title": this.title,
@@ -53,9 +54,7 @@ class Chapter extends PageItem {
   final List<PageItem> pages;
 
   Map toDict() {
-    print("chapter todict ${pages.length}");
     Map map = super.toDict();
-    print("chapter todict $map");
     map["pages"] = pages.map((page) => page.toDict()).toList();
     return map;
   }
@@ -86,6 +85,21 @@ class Model {
 
   Future<Chapter> _home;
   Future<Chapter> get home => _home;
+  static String _textLocale;
+  static String get textLocale {
+    return _textLocale;
+  }
+
+  static set textLocale(String locale) {
+    if (locale != _textLocale) {
+      SharedPreferences.getInstance().then((prefs) {
+        prefs.setString("language", locale);
+      });
+      _textLocale = locale;
+      _instance = Model._();
+    }
+  }
+
   Model._() {
     _home = _loadText().then((home) {
       return home;
@@ -105,7 +119,6 @@ class Model {
 
   Section _getSection(
       String title, String fullText, String image, String id, int level) {
-    print("_getSection: $title");
     fullText = fullText.trim();
     String description;
     if (!fullText.startsWith('¿')) {
@@ -155,7 +168,6 @@ class Model {
     int childLevel = level + 1;
     String childRegex = "^" + "#" * childLevel + " ";
 
-    print("_parsePage $title $level '$childRegex'");
     if (fullText.contains(new RegExp(childRegex, multiLine: true))) {
       return _getChapter(title, fullText, image, id, childLevel);
     } else {
@@ -166,7 +178,6 @@ class Model {
   Chapter _getChapter(
       String title, String fullText, String image, String id, int level) {
     String regex = "^" + "\\#" * level + " ";
-    print("_getChapter " + title);
     List<PageItem> pages = fullText
         .split(new RegExp(regex, multiLine: true))
         .map<PageItem>((text) {
@@ -190,13 +201,35 @@ class Model {
 
   Future<Chapter> _loadText() async {
     print("loading text");
-    String locale = Intl.shortLocale(Intl.defaultLocale);
+    Future<String> localeGetter = Future.value(_textLocale);
+    if (_textLocale == null) {
+      localeGetter = SharedPreferences.getInstance().then((prefs) {
+        try {
+          _textLocale = prefs.getString("language");
+        } catch (e) {
+          String locale = Intl.shortLocale(Intl.defaultLocale);
+          if (kSupportedLocales.contains(locale)) {
+            locale = "en";
+          }
+          _textLocale = locale;
+        }
 
-    return rootBundle.load("assets/txt-$locale.md").then((bytes) {
+        return _textLocale;
+      });
+    }
+
+    return localeGetter
+        .then((language) => rootBundle.load("assets/txt-$language.md"))
+        .then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
-      Chapter chapter =
-          _getChapter("convida", newText, "convida", "convida", 1);
-      return chapter;
+      try {
+        Chapter chapter =
+            _getChapter("convida", newText, "convida", "convida", 1);
+        return chapter;
+      } catch (e) {
+        print("failed to load text: $e");
+        return null;
+      }
     });
   }
 }
