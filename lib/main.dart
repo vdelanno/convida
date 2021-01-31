@@ -30,7 +30,8 @@ typedef LanguageCallback = void Function(String);
 
 class _AppState extends State<App> {
   String _locale;
-  onChangeLanguage(String language) {
+  onChangeLanguage() {
+    String language = Model.textLocale.value;
     print("setting locale to $language");
     if (_locale != language) {
       setState(() {
@@ -40,17 +41,30 @@ class _AppState extends State<App> {
   }
 
   @override
-  Widget build(BuildContext context) {
-    if (_locale == null) {
-      try {
-        _locale = Intl.shortLocale(Intl.defaultLocale);
-      } catch (Exception) {
-        _locale = "es";
-      }
+  initState() {
+    super.initState();
+    Model.textLocale.addListener(onChangeLanguage);
+  }
+
+  @override
+  void deactivate() {
+    Model.textLocale.removeListener(onChangeLanguage);
+    super.deactivate();
+  }
+
+  @override
+  dispose() {
+    Model.textLocale.removeListener(onChangeLanguage);
+    super.dispose();
+  }
+
+  MaterialApp _buildApp(BuildContext context) {
+    String locale = _locale;
+    if (locale == null) {
+      locale = Model.DEFAULT_LOCALE;
     }
-    Model.textLocale = _locale;
     return new MaterialApp(
-      locale: Locale(_locale),
+      locale: Locale(locale),
       localizationsDelegates: [
         SitLocalizationsDelegate(),
         GlobalMaterialLocalizations.delegate,
@@ -63,8 +77,7 @@ class _AppState extends State<App> {
       initialRoute: '/',
       routes: {
         // '/': (context) => ConvidaPage(pageId: "convida"),
-        AboutPage.route: (context) =>
-            AboutPage(languageChangeCallback: onChangeLanguage),
+        AboutPage.route: (context) => AboutPage(),
         SearchPage.route: (context) => SearchPage(),
       },
       onGenerateRoute: (settings) {
@@ -81,5 +94,23 @@ class _AppState extends State<App> {
       },
       supportedLocales: kSupportedLocales.map((l) => Locale(l)),
     );
+  }
+
+  MaterialApp _buildLoading(BuildContext context) {
+    return new MaterialApp(
+      initialRoute: '/',
+      onGenerateRoute: (settings) {
+        return MaterialPageRoute(
+            settings: RouteSettings(name: settings.name),
+            builder: (context) {
+              return LoadingPage();
+            });
+      },
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return _buildApp(context);
   }
 }

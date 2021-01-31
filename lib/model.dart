@@ -85,23 +85,56 @@ class Model {
 
   Future<Chapter> _home;
   Future<Chapter> get home => _home;
-  static String _textLocale;
-  static String get textLocale {
-    return _textLocale;
+  static final String DEFAULT_LOCALE = "en";
+  static ValueNotifier<String> textLocale = ValueNotifier<String>(null);
+  static Future<String> _loadTextLocale() {
+    return SharedPreferences.getInstance().then((prefs) {
+      String locale;
+      try {
+        print("getTextLocale loading");
+        locale = prefs.getString("language");
+        print("getTextLocale loaded $locale");
+      } catch (e) {
+        print("could not load language: $e");
+
+        locale = Intl.shortLocale(Intl.defaultLocale);
+      }
+
+      if (!kSupportedLocales.contains(locale)) {
+        locale = DEFAULT_LOCALE;
+      }
+
+      print("getTextLocale loading $locale");
+
+      textLocale.value = locale;
+
+      return locale;
+    });
   }
 
-  static set textLocale(String locale) {
-    if (locale != _textLocale) {
-      SharedPreferences.getInstance().then((prefs) {
+  static void _updateTextLocale() {
+    String locale = textLocale.value;
+    SharedPreferences.getInstance().then((prefs) {
+      try {
+        print("saving language: $locale");
         prefs.setString("language", locale);
-      });
-      _textLocale = locale;
-      _instance = Model._();
-    }
+      } catch (e) {
+        print("could not save language: $e");
+      }
+    }).then((dynamic) {
+      print("saved language: $locale");
+    });
+    _instance = Model._();
   }
 
   Model._() {
-    _home = _loadText().then((home) {
+    Future<String> locale = Future.value(textLocale.value);
+    if (textLocale.value == null) {
+      print("Model constructor");
+      locale = _loadTextLocale();
+      textLocale.addListener(() => Model._updateTextLocale());
+    }
+    _home = locale.then((le) => _loadText()).then((home) {
       return home;
     });
   }
@@ -201,26 +234,14 @@ class Model {
 
   Future<Chapter> _loadText() async {
     print("loading text");
-    Future<String> localeGetter = Future.value(_textLocale);
-    if (_textLocale == null) {
-      localeGetter = SharedPreferences.getInstance().then((prefs) {
-        try {
-          _textLocale = prefs.getString("language");
-        } catch (e) {
-          String locale = Intl.shortLocale(Intl.defaultLocale);
-          if (kSupportedLocales.contains(locale)) {
-            locale = "en";
-          }
-          _textLocale = locale;
-        }
-
-        return _textLocale;
-      });
+    if (Model.textLocale.value == null) {
+      return Future.value(Chapter(
+          id: "convida",
+          image: getIconUsingPrefix(name: "cached"),
+          pages: [],
+          title: "loading"));
     }
-
-    return localeGetter
-        .then((language) => rootBundle.load("assets/txt-$language.md"))
-        .then((bytes) {
+    return rootBundle.load("assets/txt-${textLocale.value}.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
       try {
         Chapter chapter =

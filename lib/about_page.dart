@@ -9,9 +9,7 @@ typedef void LanguageChangeCallback(String newLanguage);
 
 class AboutPage extends StatelessWidget {
   static const String route = '/about';
-  AboutPage({Key key, this.languageChangeCallback}) : super(key: key);
-
-  final LanguageChangeCallback languageChangeCallback;
+  AboutPage({Key key}) : super(key: key);
 
   Future<String> loadText() async {
     print("loading text");
@@ -46,17 +44,26 @@ class AboutPage extends StatelessWidget {
   }
 
   Widget languageSelector(BuildContext context) {
-    return DropdownButton(
-      value: Model.textLocale,
-      items: [
-        DropdownMenuItem(value: "es", child: Text("Español")),
-        DropdownMenuItem(value: "en", child: Text("English")),
-      ],
-      onChanged: (String newValue) {
-        print("changed to $newValue");
-        languageChangeCallback(newValue);
-      },
-    );
+    return ValueListenableBuilder(
+        valueListenable: Model.textLocale,
+        builder: (context, language, child) {
+          if (language != null) {
+            return DropdownButton(
+                value: language as String,
+                items: [
+                  DropdownMenuItem(value: "es", child: Text("Español")),
+                  DropdownMenuItem(value: "en", child: Text("English")),
+                ],
+                onChanged: (String newValue) {
+                  print("changed to $newValue");
+                  Model.textLocale.value = newValue;
+                });
+          }
+          return DropdownButton(items: [
+            DropdownMenuItem(value: "es", child: Text("Español")),
+            DropdownMenuItem(value: "en", child: Text("English")),
+          ]);
+        });
   }
 
   @override

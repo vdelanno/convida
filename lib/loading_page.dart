@@ -1,4 +1,3 @@
-import 'package:convida/sit_localizations.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +11,7 @@ class LoadingPage extends StatelessWidget {
             // Here we take the value from the MyHomePage object that was created by
             // the App.build method, and use it to set our appbar title.
             title: Row(children: [
-          Text(title),
+          Text("COnVIDa"),
         ])),
         body: Container(
           color: Theme.of(context).highlightColor,
@@ -22,7 +21,6 @@ class LoadingPage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               CircularProgressIndicator(),
-              Text(SitLocalizations.of(context).loadingText)
             ],
           )),
         ));
