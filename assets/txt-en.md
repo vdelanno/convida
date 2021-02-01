@@ -1,64 +1,64 @@
-# [origin:virus] ORIGINS 
+# [origin:virus] ORIGIN 
 ¿What is COVID-19?
 It is a new disease caused by SARS-CoV-2. COVID-19 means “COronaVIrus Disease 2019”.
 
 ¿Which is the origin of COVID-19?
-Many researchers are agreed that the virus of COVID-19 has an animal origin, most likely bats.
+Many researchers are agree that the virus of COVID-19 has an animal origin, most likely bats.
 
 ¿Was the virus of COVID-19 made in a laboratory?
-No. If the virus of COVID-19 would be created in a laboratory, its genes were known sequences (parts), what it is not the case.
+No. If the virus of COVID-19 would be created in a laboratory, its genes would have known sequences (parts). This is not the case.
 
-¿What means that the virus of COVID-19 has mutated?
-All viruses change or mutate developing new “variants”, some viruses more and others less. These mutations could change the transmissibility and severity of the disease. The virus of COVID-19 changes rather slowly than influenza virus or HIV.6
+¿What does the mutation of COVID-19 mean?
+All viruses change or mutate developing new “variants”, some more so than others. These mutations could change the transmissibility and severity of the disease. The COVID-19 virus changes rather slowly compared to influenza virus or HIV.
 
 # [transmission:share] TRANSMISSION 
-Mainly, the virus of COVID-19 is transmitted through little drops expelled when a sick person breathes, speaks, sings, sneezes or coughs. These drops could be spread around 6 feet (2 meters) and get caught through eyes, nose, mouth of others close to the sick person.
+Mainly, COVID-19 is transmitted through little drops expelled when an infected person breathes, speaks, sings, sneezes or coughs. These drops could be spread around 6 feet (2 meters) and get caught through the eyes, nose, and or mouth of others close to the infected person.
 
-¿Could the virus of COVID-19 be spread by touching contaminated things?
-Rarely. When a person touches contaminated objects (tables or door handles used by a sick person) and then touches their eyes, nose and mouth without washing their hands previously.
+¿Could COVID-19 be spread by touching contaminated things?
+Rarely. When a person touches contaminated objects (tables or door handles used by a sick person) and then touches their eyes, nose and mouth without washing their hands previously is when a person may become infected.
 
-¿Could asymptomatic people transmit the virus of COVID-19?
-Yes, symptomatic and asymptomatic people could transmit the virus of COVID-19. It is likely that transmission of the virus by asymptomatic people is the reason for most cases in the world.
+¿Could asymptomatic people transmit the COVID-19 virus?
+Yes, symptomatic and asymptomatic people could transmit the COVID-19 virus. It is likely that transmission of the virus by asymptomatic people is the reason for most cases in the world.
 
-¿Does getting infected of the virus mean that I will have the virus in my body forever?
-No. Most of the people infected by the virus of COVID-19 recover and get off the virus.9 Some people could have sequelae, but it does not mean that they have the virus in their bodies.
+¿Does getting infected with the COVID-19 virus mean that I will have the virus in my body forever?
+No. Most of the people infected by COVID-19 virus recover and eliminate the virus. Some people could continue having symptoms months later but it does not mean that they have the virus in their bodies.
 
-¿Could shoes spread the virus of COVID-19?
+¿Could shoes spread the COVID-19 virus?
 The chance that the virus could be spread by shoes is really unlikely. Shoes could be left at the entrance of houses where there are kids playing or crawling on the floor.
 
-¿Could houseflies transmit the virus of COVID-19?
-No. Up to now, there isn’t any evidence showing that houseflies could spread the virus of COVID-19.
+¿Could houseflies transmit the COVID-19 virus?
+No. To date, there isn’t any evidence showing that houseflies could spread the COVID-19 virus.
 
-¿May 5G mobile networks transmit the virus of COVID-19?
+¿May 5G mobile networks transmit the COVID-19 virus?
 No. Viruses cannot travel through radio waves or mobile networks. Viruses need a cell to stay alive. Places where there isn’t any 5G mobile network, have COVID-19 cases.
 
-¿Could the virus of COVID-19 be transmitted by mosquito bites?
-No. Up to now, there isn’t any research showing that mosquito bites could spread the virus of COVID-19.
+¿Could the COVID-19 virus be transmitted by mosquito bites?
+No. To date, there isn’t any research showing that mosquito bites could spread the COVID-19 virus.
 
-¿May blood products transmit the virus of COVID-19?
-To date, there isn’t any evidence suggesting that the virus of COVID-19 could be transmitted through blood products.
+¿May blood products transmit the COVID-19 virus?
+To date, there isn’t any evidence suggesting that the COVID-19 virus could be transmitted through blood products.
 
-¿Can the virus of COVID-19 be spread in places with hot and wet weather?
-Yes. The virus of COVID-19 could be transmitted in any place, whatever it is sunny or cold. Countries with hot weather have COVID-19 cases. 9 
+¿Can the COVID-19 virus be spread in places with hot and wet weather?
+Yes. The COVID-19 virus could be transmitted in any place, whatever it is sunny or cold. Countries with hot weather have COVID-19 cases. 
 
-¿May the virus of COVID-19 be spread through water?
-No. The virus of COVID-19 cannot be spread through water whether we are in the sea or swimming pool. Keep at least 1 meter apart from others and wear a mask outside the water.9
+¿May the COVID-19 virus be spread through water?
+No. The COVID-19 virus cannot be spread through water whether we are in the sea or swimming pool. Keep at least 1 meter apart from others and wear a mask outside the water.
 
 # [symptons:sick] SYMPTOMS 
-Our body could react in different ways to the virus of COVID-19, since lack of symptoms (asymptomatic) to severe cases damaging lungs, heart, kidneys, liver, blood vessels and even nervous system.
+Our body could react in different ways to the COVID-19 virus. Reactions can vary from having no symptoms (asymptomatic) to  severe cases where the lungs, heart, kidneys, liver, blood vessels and even nervous system can be damaged.
 
 ¿When symptoms begin?
-COVID-19 symptoms could begin up to 14 days after a person got infected with the virus.
+COVID-19 symptoms could begin up to 14 days after a person is infected with the virus.
 
-¿When a person should do quarantine or isolation? 
-Quarantine: If a person was in close contact with someone with COVID-19, they should stay at home for 14 days. Whatever their laboratory results are, positive or negative.
-Isolation: If a person has COVID-19, they should stay at home for at least 10 days since the beginning of symptoms and up to 3 days after symptoms have improved or without fever.
+¿When should people quarantine or self isolate? 
+Quarantine: If a person was in close contact with someone with COVID-19, they should stay at home for 14 days regardless if their laboratory results are, positive or negative.
+Isolation: If a person has COVID-19, they should stay at home for at least 10 days from the onset of symptoms and up to 3 days after symptoms have improved or without a fever.
 
 ¿Which are COVID-19 symptoms?
-The most known symptoms are:1
+The most known symptoms are:
 - Fever (body temperature higher than 38°C) or chills. Most of elderly people do not develop fever.
 - cough
-- breathing difficulty (feeling lack of air)
+- breathing difficulty (feeling a lack of air)
 - body or muscle aches
 - headache
 - sickness
@@ -72,8 +72,8 @@ The most known symptoms are:1
 - tiredness or fatigue
 - delusions (in elderly people)
 
-¿When I have to run to the hospital?
-You have to go to the emergency service of the hospital immediately if you have
+¿When should I go to the hospital?
+Go to the hospital's emergency service immediately if you have:
 - Fever for more than 2 days.
 - Breathing difficulty.
 - Chest ache or oppression
@@ -85,11 +85,11 @@ You have to go to the emergency service of the hospital immediately if you have
 Yes. There have been asymptomatic people who develop pneumonia.
 
 ¿Could someone who had COVID-19 continue having symptoms?
-Yes. Some people who had COVID-19 can continue having symptoms as fatigue or tiredness, breathing difficulty, chest ache, palpitations, mental problems, loss of smell or taste, numbness of arms and legs for months.1,2 If symptoms persist, go to the doctor.1
+Yes. Some people who had COVID-19 can continue having symptoms as fatigue or tiredness, breathing difficulty, chest ache, palpitations, mental problems, loss of smell or taste, numbness of arms and legs for months. If symptoms persist, go to the doctor.
 
-# [conditions:accessibility_new] PEOPLE WITH SPECIAL CONDITION
-## [risky_people:accessibility_new] people at risk
-People on bigger risk to develop severe COVID-19 have the following conditions:
+# [conditions:accessibility_new] PEOPLE WITH SPECIAL CONDITIONS
+## [risky_people:accessibility_new] People at risk
+People at higher risks to developing severe COVID-19 symptoms have the following conditions:
 - Older than 65 
 - Arterial hypertension
 - Cardiovascular diseases (stroke) 
@@ -100,42 +100,43 @@ People on bigger risk to develop severe COVID-19 have the following conditions:
 - Kidney diseases (renal insufficiency)
 - Obesity
 - Blood disorders (sickle cell disease)
-- Does the virus of COVID-19 infect more elderly or young people more? 
-- Anyone of any age can be infected by the virus of COVD-19.
+
+¿Does the COVID-19 virus infect more elderly or young people? 
+Anyone of any age can be infected by the COVD-19 virus.
 
 ## [pregnant:pregnant_woman] Pregnant women
-Pregnant women could develop mild COVID-19 which can be managed with medical care at home or severe COVID-19 which need hospitalization.
+Pregnant women can develop mild COVID-19 symptoms, which can be managed with medical care at home. However, pregnant women experiencing severe COVID-19 symptoms will need hospitalization.
 
-¿Do pregnant women are more at risk of developing severe COVID-19?
-Pregnant women who are older or overweight, have hypertension, diabetes or other disease may be at higher risk of developing severe COVID-19.
+¿Are pregnant women are more at risk of developing severe COVID-19?
+Pregnant women who are older or are overweight, or have hypertension, diabetes or other diseases may be at higher risk of developing severe COVID-19.
 
 ¿Could a pregnant woman transmit the COVID-19 virus to her baby?
-To date it is unknown. There has not been found the virus of COVID-19 in the fluid surrounding the baby in the womb.
+To date it is unknown. Nothing has been found to indicate that the COVID-19 virus can reside in the fluid surrounding the baby in the womb.
 
-¿Should delivery of a pregnant woman who had COVID-19 be brought forward?
-No. A pregnant woman who recovered from COVID-19 has the same delivery indication if she wouldn’t have had COVID-19.
+¿Should delivery of a pregnant woman who had COVID-19 be induced earlier?
+No. A pregnant woman who recovered from COVID-19 has the same delivery schedule as someone who did not have COVID-19.
 
 ¿Should the delivery of a pregnant woman with COVID-19 be by cesarean section?
 No. The delivery by cesarean section should only be indicated if it is medically needed (for the mother or baby benefit).
 
-¿Could a mother with COVID-19 breastfeed to her baby?
-Yes. If a mother has COVID-19 she should wash her hands carefully and wear a mask before breastfeeding. To date, the virus of COVID-19 has not been found in breastmilk.
+¿Could a mother with COVID-19 breastfeed her baby?
+Yes. If a mother has COVID-19 she should wash her hands carefully and wear a mask before breastfeeding. To date, the COVID-19 virus has not been found in breastmilk.
 
 ## [children:child] Children
 The amount of hospitalizations and admissions to the intensive care unit is lower in children than in adults. Apparently, COVID-19 could be less severe in children.
-IMPORTANT: Children younger than 2 do not need not wear a mask.
+IMPORTANT: Children younger than 2 should not wear a mask.
 
-¿Which child is at risk to develop severe COVID-19?
-It is likely that children who are immunocompromised (with low defenses) or with chronic respiratory diseases (asthma) or cardiovascular diseases could be at higher risk to develop severe COVID-19.
+¿Which child is at risk of developing severe COVID-19?
+It is likely that children who are immunocompromised (with low defenses) or with chronic respiratory diseases such as asthma or cardiovascular diseases could be at higher risk of developing severe COVID-19.
 
 ¿What is multisystem inflammatory syndrome (MIS-C)?
-It is a complication of COVID-19 in children and teenagers. They have fever for 3 days, systemic inflammation, impaired other organs such as heart, kidney, skin, blood, digestive system and nervous system. There have been many cases but fortunately few deaths.
+It is a complication of COVID-19 in children and teenagers. They have fever for 3 days, systemic inflammation and impaired organs such as heart, kidney, skin, blood, digestive system and nervous system. There have been many cases but fortunately few deaths.
 
 ## [cancer:sick] Cancer
 ¿Does a person with cancer have higher risk of developing severe COVID-19?
 It is likely that people with cancer who are on treatment may develop severe COVID-19.
 
-¿Does someone who recovered from cancer are at higher risk to develop severe COVID-19?
+¿Is someone who recovered from cancer are at higher risk to develop severe COVID-19?
 It is not clear whatever people who had cancer are at higher risk of becoming ill seriously of COVID-19.
 
 ¿Do children with cancer are at lower risk than adults to develop severe COVID-19?
@@ -421,4 +422,3 @@ The benefit of diphtheria vaccination is to prevent diphtheria, and, prevent ano
 - Chlorine based products (like bleach) at 0.1% for general disinfection and at 0.5% for places with blood and body secretions. 
 - Hydrogen peroxide >0.5% (oxygenated water).
 - These substances should cover the surface for at least 1 minute to be disinfected (or depending on the maker indications).
-
