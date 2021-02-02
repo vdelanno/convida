@@ -145,14 +145,14 @@ It appears that children with cancer develop a milder COVD-19 than adults with c
 ¿Which tests should be used if a person has cancer?
 It is recommended to use molecular tests if a person with cancer develop COVID-19 symptoms.
 
-## [cancer:sick] HIV
+## [hiv:sick] HIV
 ¿Which symptoms a person with HIV could develop if they have COVID-19?
 A person living with HIV on regularly antiretroviral treatment can develop similar COVID-19 symptoms than a person without HIV.
 
 ¿Do people with HIV be on higher risk to develop severe COVID-19?
 To date, there is no evidence suggesting that people living with HIV are at higher risk to be infected or develop severe COVID-19.
 
-## [cancer:sick] Tuberculosis (TB)
+## [tuberculosis:sick] Tuberculosis (TB)
 ¿How the fight against tuberculosis has been affected by the pandemic?
 Of 4 people who normally had to be diagnosed with tuberculosis, due to the pandemic, only 3 were diagnosed. This person without Tuberculosis diagnosis is not on treatment and is spreading the bacillus of Tuberculosis right now without knowing it.
 
