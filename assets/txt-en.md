@@ -104,7 +104,7 @@ People at higher risks to developing severe COVID-19 symptoms have the following
 ¿Does the COVID-19 virus infect more elderly or young people? 
 Anyone of any age can be infected by the COVD-19 virus.
 
-When is COVID-19 most contagious?
+¿When is COVID-19 most contagious?
 When there are many people, especially in closed places and or places with poor ventilation.
 
 ## [pregnant:pregnant_woman] Pregnant women
@@ -190,13 +190,13 @@ In most COVID-19 cases, rapid antigen tests can read positive 1 to 3 days before
 ¿When can serological tests read positive?
 Most of people with COVID-19 has positive serological tests 21 days or more after the onset of symptoms.
 
-What samples are needed for molecular tests?
+¿What samples are needed for molecular tests?
 Molecular tests mainly use the nose and throat (upper and/or lower respiratory) samples. Sometimes faecal samples are used.
 
-What samples are needed for antigen tests?
+¿What samples are needed for antigen tests?
 Rapid antigen tests use nose and throat samples.
   
-What samples is needed for serologic tests?
+¿What samples is needed for serologic tests?
 Serologic or antibodies tests use blood samples.
 
 ¿Could serological tests determine if someone can go back to their work?	
@@ -211,7 +211,7 @@ No. Thermal scanners detect if someone has fever, no the COVID-19 virus. There a
 ¿Does the ability to hold one's breath for 10 seconds or more without coughing or feeling discomfort, rule out COVID-19?
 No. Breath exercises cannot diagnose any disease. Only laboratory tests can determine if someone has COVID-19 or not.
 
-Could pulse oximeter detect the virus of COVID-19?
+¿Could pulse oximeter detect the virus of COVID-19?
 No. The pulse oximeter detects oxygen saturation being the percentage of oxygen in blood (hemoglobin), normal values are between 95 to 100% for a healthy person. Even though COVID-19 could lower our oxygen levels, only laboratory tests can detect the virus of COVID-19.
 
 ¿Does being able to smell and taste wine or vinegar rule out COVID-19?
@@ -266,8 +266,8 @@ To date, there isn’t any drug which can prevent COVID-19.
 
 ¿When to wear a mask?
 We should wear a mask properly if:
-•	We are out of the home where we cannot keep a distance of 6 feet or 2 meters from others (public transport, markets, streets).
-•	We are at home with someone else who does not come from the same household. We should keep 6 feet away from the visitor as well.
+-	We are out of the home where we cannot keep a distance of 6 feet or 2 meters from others (public transport, markets, streets).
+-	We are at home with someone else who does not come from the same household. We should keep 6 feet away from the visitor as well.
 
 ## [masks:headSideMask] Masks (face cover)
 ¿What steps we must follow to wear a mask (face cover) properly? 
