@@ -154,7 +154,7 @@ Se cree que los niños o niñas con cáncer enfermen de COVID-19 de forma más l
 ¿Qué pruebas se deben usar en una persona que tiene cáncer?
 Se recomienda el uso de pruebas moleculares para las personas con cáncer que tienen síntomas COVID-19.
 
-## [cancer:sick] VIH
+## [hiv:sick] VIH
 
 ¿Cuáles son los síntomas de la COVID-19 en personas con VIH?
 Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamiento antirretroviral (TARGA) son similares que en las personas que no tienen VIH.
@@ -162,7 +162,7 @@ Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamie
 ¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de la COVID-19?
 Hasta la fecha, no se ha demostrado mayor riesgo de contraer o desarrollar COVID-19 severa en las personas con VIH.
 
-## [cancer:sick] Tuberculosis (TB)
+## [tuberculosis:sick] Tuberculosis (TB)
 
 ¿Cómo ha afectado la pandemia a la lucha contra la tuberculosis?
 De 4 personas que normalmente eran diagnosticadas de tuberculosis, solo se diagnosticaron 3. Esa persona sin diagnóstico no recibe tratamiento y está transmitiendo la tuberculosis sin que lo sepa.
