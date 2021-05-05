@@ -63,8 +63,9 @@ class _AppState extends State<App> {
     if (locale == null) {
       locale = Model.DEFAULT_LOCALE;
     }
+    print("locale: $locale translated to ${kSupportedLocales[locale]}");
     return new MaterialApp(
-      locale: Locale(locale),
+      locale: Locale(kSupportedLocales[locale]),
       localizationsDelegates: [
         SitLocalizationsDelegate(),
         GlobalMaterialLocalizations.delegate,
@@ -92,7 +93,8 @@ class _AppState extends State<App> {
               return ConvidaPage(pageId: pageId);
             });
       },
-      supportedLocales: kSupportedLocales.map((l) => Locale(l)),
+      supportedLocales:
+          kSupportedLocales.values.toSet().toList().map((l) => Locale(l)),
     );
   }
 

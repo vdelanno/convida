@@ -3,11 +3,13 @@ import 'package:intl/intl.dart';
 import 'package:convida/l10n/messages_all.dart';
 import 'package:convida/l10n/messages_es.dart';
 import 'package:convida/l10n/messages_en.dart';
+import 'package:convida/l10n/messages_qu.dart';
 
-final kSupportedLocales = [
-  'es', // English, no country code
-  'en'
-];
+final kSupportedLocales = {
+  'es': 'es', // English, no country code
+  'en': 'en',
+  'qu': 'en'
+};
 
 class SitLocalizations {
   /// Initialize localization systems and messages
@@ -61,7 +63,7 @@ class SitLocalizationsDelegate extends LocalizationsDelegate<SitLocalizations> {
   const SitLocalizationsDelegate();
   @override
   bool isSupported(Locale locale) =>
-      kSupportedLocales.contains(locale.languageCode);
+      kSupportedLocales.containsKey(locale.languageCode);
   @override
   Future<SitLocalizations> load(Locale locale) => SitLocalizations.load(locale);
   @override

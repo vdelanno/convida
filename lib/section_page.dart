@@ -1,12 +1,26 @@
+import 'dart:typed_data';
+
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:flutter_sound/flutter_sound.dart';
 import 'model.dart';
 import 'text_load_layout.dart';
 import 'about_page.dart';
 
 class SectionPage extends StatelessWidget {
-  SectionPage({Key key, this.section}) : super(key: key);
+  SectionPage({Key key, this.section})
+      : _audioData = rootBundle.load("assets/${section.id}.mp3").then((value) {
+          return value.buffer.asUint8List();
+        }).catchError((_) {
+          return null;
+        }),
+        super(key: key) {
+    _mPlayer.openAudioSession();
+  }
   final Section section;
+  final FlutterSoundPlayer _mPlayer = FlutterSoundPlayer();
+  final Future<Uint8List> _audioData;
 
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
@@ -24,6 +38,23 @@ class SectionPage extends StatelessWidget {
       child: ExpansionTile(
           backgroundColor: Theme.of(context).accentColor,
           leading: Icon(Icons.question_answer_rounded),
+          trailing: FutureBuilder(
+            future: _audioData,
+            builder: (context, snapshot) {
+              if (snapshot.hasData) {
+                return GestureDetector(
+                    child: Icon(Icons.play_arrow),
+                    onTap: () {
+                      _mPlayer.startPlayer(
+                          fromDataBuffer: snapshot.data, codec: Codec.mp3);
+                    });
+              }
+              return Container(
+                width: 0,
+                height: 0,
+              );
+            },
+          ),
           title: Container(
               child: Text(
             qa.title,
@@ -63,7 +94,7 @@ class SectionPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextLoadLayout(builder: (context, sections) {
-      String sectionId = ModalRoute.of(context).settings.name;
+      // String sectionId = ModalRoute.of(context).settings.name;
       return Scaffold(
         appBar: AppBar(
           title: Row(children: [

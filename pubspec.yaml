@@ -38,7 +38,8 @@ dependencies:
   url_launcher : ^5.7.8
   font_awesome_flutter: ^8.11.0
   shared_preferences: ^0.5.12
-
+  flutter_sound: ^7.7.0
+  
 dependency_overrides:
    intl: ^0.17.0-nullsafety.2  
 

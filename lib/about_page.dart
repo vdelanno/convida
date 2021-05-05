@@ -47,22 +47,21 @@ class AboutPage extends StatelessWidget {
     return ValueListenableBuilder(
         valueListenable: Model.textLocale,
         builder: (context, language, child) {
+          List<DropdownMenuItem<String>> dropDownItems = [
+            DropdownMenuItem(value: "es", child: Text("Español")),
+            DropdownMenuItem(value: "qu", child: Text("Quechua")),
+            DropdownMenuItem(value: "en", child: Text("English")),
+          ];
           if (language != null) {
             return DropdownButton(
                 value: language as String,
-                items: [
-                  DropdownMenuItem(value: "es", child: Text("Español")),
-                  DropdownMenuItem(value: "en", child: Text("English")),
-                ],
+                items: dropDownItems,
                 onChanged: (String newValue) {
                   print("changed to $newValue");
                   Model.textLocale.value = newValue;
                 });
           }
-          return DropdownButton(items: [
-            DropdownMenuItem(value: "es", child: Text("Español")),
-            DropdownMenuItem(value: "en", child: Text("English")),
-          ]);
+          return DropdownButton(items: dropDownItems);
         });
   }
 

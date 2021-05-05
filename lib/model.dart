@@ -100,7 +100,7 @@ class Model {
         locale = Intl.shortLocale(Intl.defaultLocale);
       }
 
-      if (!kSupportedLocales.contains(locale)) {
+      if (!kSupportedLocales.containsKey(locale)) {
         locale = DEFAULT_LOCALE;
       }
 
