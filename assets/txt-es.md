@@ -178,14 +178,14 @@ No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar qu
 
 ¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla (tapaboca o cubreboca) de tela?8
 -	La mascarilla de tela debe de cumplir con la función de: 
-  o	filtración (que pueda retener pequeñas gotas), 
-  o	transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
-  o	ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
+- filtración (que pueda retener pequeñas gotas), 
+- transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
+- ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
 -	No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría. 
 -	Una mascarilla de tela debe de tener como mínimo 3 capas: 
-  o	1) la capa interna que está en contacto con la boca y nariz debe de poder absorber fluido como el algodón, o una tela que tenga combinaciones con algodón, 
-  o	2) la capa intermedia no debe de absorber fluido, y así poder retener gotas pequeñas como el hilado de polipropileno, poliéster y poliaramida, y 
-  o	3) la capa externa expuesta al medio ambiente tampoco debe de absorber fluido, previniendo la acumulación de agua como el hilado de polipropileno, poliéster o sus combinaciones.
+    - la capa interna que está en contacto con la boca y nariz debe de poder absorber fluido como el algodón, o una tela que tenga combinaciones con algodón, 
+    - la capa intermedia no debe de absorber fluido, y así poder retener gotas pequeñas como el hilado de polipropileno, poliéster y poliaramida, y 
+    - la capa externa expuesta al medio ambiente tampoco debe de absorber fluido, previniendo la acumulación de agua como el hilado de polipropileno, poliéster o sus combinaciones.
 -	No se recomiendan las válvulas de exhalación ya que el aire que exhalamos o botamos no se filtra debido a estas válvulas.
 -	La mascarilla de tela debe de lavarse al menos una vez al día.
 -	No lavar la mascarilla de tela junto con la demás ropa.
