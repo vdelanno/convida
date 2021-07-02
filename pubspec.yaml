@@ -29,24 +29,24 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  flutter_markdown: #^0.5.0
+  flutter_markdown:
     git:
       url: https://github.com/vdelanno/flutter_markdown.git
-  markdown: ^3.0.0
-  intl: ^0.16.1
-  intl_translation: ^0.17.10
-  url_launcher : ^5.7.8
-  font_awesome_flutter: ^8.11.0
-  shared_preferences: ^0.5.12
-  flutter_sound: ^7.7.0
+  markdown: 3.0.0
+  intl: 0.16.1
+  intl_translation: 0.17.10
+  url_launcher : 5.7.8
+  font_awesome_flutter: 8.11.0
+  shared_preferences: 0.5.12
+  flutter_sound: 7.7.0+1
   
 dependency_overrides:
-   intl: ^0.17.0-nullsafety.2  
+   intl: 0.17.0-nullsafety.2  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: "^0.8.0"
+  flutter_launcher_icons: 0.8.0
   # flutter_markdown: #^0.5.0
   #   path: ../flutter_markdown
 # For information on the generic Dart part of this file, see the
