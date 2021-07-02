@@ -16,7 +16,7 @@ El virus de la COVID-19 está cambiando muy lentamente, a comparación de otros 
 El virus de la COVID-19 se transmite mediante las gotas pequeñísimas que una persona enferma bota cuando respira, habla, canta, estornuda o tose. Estas gotas invisibles pueden alcanzar dos metros de distancia, ingresando por los ojos, la nariz y la boca de las personas que estén cerca.
 
 ¿El virus de la COVID-19 se puede transmitir al tocar cosas?
-Sí. ES probable que una persona pueda contagiarse si toca superficies o cosas contaminadas (mesas, manijas de la puerta o pasamanos que una persona enferma haya tocada o estornudado/tosido encima) y luego se toca los ojos, la nariz o la boca sin antes haberse lavado las manos.
+Sí. Es probable que una persona pueda contagiarse si toca superficies o cosas contaminadas (mesas, manijas de la puerta o pasamanos que una persona enferma haya tocada o estornudado/tosido encima) y luego se toca los ojos, la nariz o la boca sin antes haberse lavado las manos.
 
 ¿Dónde se transmite el virus de la COVID-19 más fácilmente?
 La transmisión del virus de la COVID-19 se da con mayor facilidad donde hay personas juntas, quienes no mantienen 2 metros de distancia por tiempo prolongado. En sitios cerrados y con poca ventilación el contagio es muy alto.
@@ -28,7 +28,7 @@ Si estoy infectado(a), el riesgo de transmitir el virus de la COVID-19 a otras p
 Sí. Los asintomáticos (personas infectadas con el virus de la COVID-19 que en ningún momento presentan síntomas, aparentemente sanos), presintomáticoas (personas infectadas que todavía no han presentado síntomas) y sintomáticos (personas infectadas que presentan síntomas) pueden transmitir el virus de la COVID-19.
  
 ¿Infectarse del virus de la COVID-19 quiere decir que lo tendrá de por vida?
-No. La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan el virus. Algunas podrían tener secuelas, pero eso no significa que la persona recuperada siga con el viru en su cuerpo.
+No. La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan el virus. Algunas podrían tener secuelas, pero eso no significa que la persona recuperada siga con el virus en su cuerpo.
 
 ¿Los zapatos pueden esparcir el virus?
 Es muy poco probable que el virus se pueda esparcir por medio de los zapatos. Como prevención se podría dejar los zapatos en la entrada de la casa en donde viven niños que gatean y juegan en el piso.
@@ -61,7 +61,7 @@ Las medidas preventivas disminuyen el riesgo de infección del virus de la COVID
 -	Si tosemos o estornudamos, debemos de cubrirnos nuestra boca y nariz con papel toalla o papel higiénico, botar el papel sucio a la basura y, por último, lavarnos las manos. 
 -	No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
 -	Abrir las ventanas para que la casa u oficina esté ventilada.
--	Recibir la vacuna contra la COVID-19.7
+-	Recibir la vacuna contra la COVID-19.
 
 IMPORTANTE: Niños o niñas menores de 2 años no deben usar mascarilla.
 
@@ -92,7 +92,7 @@ Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. 
 ¿Pueden las vacunas COVID-19 detener la pandemia?
 La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
 
-¿Qué tipos de vacunas para el virus de la COVID-19 se están probando y cómo funcionan?
+¿Qué tipos de vacunas para el virus de la COVID-19 hay y cómo funcionan?
 -	Vacunas de virus inactivados: se usan virus de la COVID-19 inactivados, haciendo que nuestro cuerpo produzca defensas sin que se enferme.
 -	Vacunas basadas en proteínas: se usan partes del virus (proteínas) de la COVID-19 que no causan la enfermedad pero que hace que nuestro cuerpo reconozca estas partes como extrañas, y aprenda cómo defenderse de futuras infecciones.
 -	Vacunas de ARN y ADN: se usan genes del virus de la COVID-19, estos genes dan indicaciones a nuestro cuerpo de crear una parte (proteína) única del virus que no produce la enfermedad pero que ayuda a que nuestro cuerpo reconozca al virus y se defienda de futuras infecciones. Después de crear esta proteína, nuestro cuerpo elimina estos genes.
@@ -117,10 +117,10 @@ Dolor e hinchazón del brazo donde fue vacunado, fiebre, escalofríos, cansancio
 No. La presencia de efectos adversos no significa que nuestro cuerpo está produciendo defensas. No es necesario tener efectos adversos después de la vacuna para estar protegidos.
 
 ¿Puedo ser vacunado(a) si tuve COVID-19?
-Sí. Una persona que tuvo COVID-19 puede ser vacunada. Hasta ahora no se sabe cuánto tiempo puede durar las defensas después de enfermar de la COVID-19.
+Sí. Una persona que tuvo COVID-19 puede ser vacunada. Hasta ahora no se sabe cuánto tiempo pueden durar las defensas después de enfermar de la COVID-19.
 
 ¿Cuántas dosis de la vacuna COVID-19 son necesarias?
-Dos dosis. La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces.
+Dos dosis. La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces. Sin embargo, hay vacunas igual de efectivas de una sola dosis.
 
 ¿Puedo recibir la segunda dosis de una vacuna diferente que la primera dosis?
 Todavía no se sabe. Se están haciendo estudios para saber si la segunda dosis puede ser de otro tipo de vacuna que la usada en la primera dosis.
@@ -138,12 +138,12 @@ Es muy poco probable. Una persona vacunada podría tener COVID-19, pero no enfer
 No. Las vacunas contra la neumonía como la vacuna del neumococo y la del Haemophilus influenzae tipo B (Hib), no protegen contra el virus de COVID-19. El virus de COVID-19 tiene su propia vacuna.
 
 ¿La vacuna de la Influenza previene la COVID-19?
-No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar que los síntomas sean parecidos.1 Sin embargo, se recomienda que las personas que se hayan recuperado de COVID-19 sean vacunadas de la Influenza.
+No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar que los síntomas sean parecidos. Sin embargo, se recomienda que las personas que se hayan recuperado de COVID-19 sean vacunadas de la Influenza.
 
 
-## [masks:headSideMask] Uso de mascarilla (tapaboca o cubreboca)
+## [masks:headSideMask] Uso de mascarilla, tapaboca o cubreboca
 
-¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla (tapaboca o cubreboca)?
+¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla, tapaboca o cubreboca?
 -	Lavarnos las manos antes de colocarnos la mascarilla.
 -	Asegurarnos que la mascarilla cubra boca y nariz, ajustar al hueso de la nariz, y sujetarla disminuyendo los espacios entre la cara y la mascarilla (para evitar estos espacios, no cruce las orejeras de la mascarilla)
 -	Evitemos tocar la mascarilla mientas la tengamos puesta.
@@ -158,34 +158,34 @@ No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar qu
 -	No compartir la mascarilla con otros. La mascarilla es personal.
 -	Las personas con mayor riesgo de enfermar gravemente de la COVID-19 deben usar mascarillas médicas.
 
-¿Qué pasaría si usamos una mascarilla (tapaboca o cubreboca) de forma inadecuada?
+¿Qué pasaría si usamos una mascarilla, tapaboca o cubreboca de forma inadecuada?
 -	Podríamos contaminarnos si tocamos la mascarilla y después nos tocamos los ojos, sin antes lavarnos las manos.
 -	Nos podríamos contaminar si no cambiamos de mascarilla cuando esté sucia o húmeda.
 -	Podríamos tener dificultad para respirar o dolor de cabeza si usamos una mascarilla que no nos quede bien. Es importante elegir una mascarilla con la que podamos respirar con comodidad.
 -	Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos incomode.
 -	Podría dificultar comunicarnos, mucho más en el caso de personas con problemas de audición. Debemos de hablar despacio, vocalizando lo más claro posible.
 -	Es probable que tengamos una sensación de falsa seguridad y dejemos de cumplir con las demás medidas preventivas como lavado de manos y distanciamiento físico.
--	Incremento de basura, sino eliminamos adecuadamente las mascarillas desechables. Esto se podría evitar usando mascarillas de tela.8
+-	Incremento de basura, sino eliminamos adecuadamente las mascarillas desechables. Esto se podría evitar usando mascarillas de tela.
 
-¿Qué beneficios hay si usamos una mascarilla (tapaboca o cubreboca) adecuadamente?8
+¿Qué beneficios hay si usamos una mascarilla, tapaboca o cubreboca adecuadamente?
 -	Si estamos cerca de una persona con COVID-19, con o sin síntomas, al usar mascarilla reducimos el riesgo de contagio.
 -	Si estamos enfermos, al usar mascarilla reducimos las posibilidades de transmitir el virus
 -	Disminuimos los prejuicios o discriminación a las personas que normalmente deben usar mascarilla por otras enfermedades, como la Tuberculosis.
 -	Sentir que podemos contribuir de alguna manera en detener la propagación del virus de la COVID-19.
 -	Recordar que también tenemos que cumplir con las demás medidas de prevención como lavado de manos, no tocarnos los ojos/nariz/boca, distanciamiento físico y cubrirnos al toser/estornudar. 
 -	Prevenir la transmisión de otras enfermedades como la tuberculosis e influenza.
--	Podría ser una fuente de ingreso extra si hacemos mascarillas de tela y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que generan las mascarillas descartables.8
+-	Podría ser una fuente de ingreso extra si hacemos mascarillas de tela y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que generan las mascarillas descartables.
 
-¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla (tapaboca o cubreboca) de tela?8
+¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla, tapaboca o cubreboca de tela?
 -	La mascarilla de tela debe de cumplir con la función de: 
-- filtración (que pueda retener pequeñas gotas), 
-- transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
-- ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
+  a. filtración (que pueda retener pequeñas gotas), 
+  b. transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
+  c ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
 -	No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría. 
 -	Una mascarilla de tela debe de tener como mínimo 3 capas: 
-    - la capa interna que está en contacto con la boca y nariz debe de poder absorber fluido como el algodón, o una tela que tenga combinaciones con algodón, 
-    - la capa intermedia no debe de absorber fluido, y así poder retener gotas pequeñas como el hilado de polipropileno, poliéster y poliaramida, y 
-    - la capa externa expuesta al medio ambiente tampoco debe de absorber fluido, previniendo la acumulación de agua como el hilado de polipropileno, poliéster o sus combinaciones.
+  a. La capa interna que está en contacto con la boca y nariz debe poder absorber fluidos, como el algodón o una tela que tenga combinaciones con algodón; 
+  b. La capa intermedia no debe absorber fluidos y así poder retener gotas pequeñas, como el hilado de polipropileno, poliéster y poliaramida; 
+  C. La capa externa expuesta al medio ambiente no debe absorber fluido y prevenir la acumulación de agua, como el hilado de polipropileno, poliéster o sus combinaciones.
 -	No se recomiendan las válvulas de exhalación ya que el aire que exhalamos o botamos no se filtra debido a estas válvulas.
 -	La mascarilla de tela debe de lavarse al menos una vez al día.
 -	No lavar la mascarilla de tela junto con la demás ropa.
@@ -259,7 +259,7 @@ No. El ají o el rocoto pueden mejorar el sabor de las comidas, pero no previene
 No. El ajo y el kion (jengibre) son alimentos saludables que le dan un sabor especial a las comidas, pero no se ha demostrado que pueda prevenir la COVID-19.
 
 ¿El alcohol gel produce resistencia a los antibióticos?
-No. El alcohol puede ser usado frecuentemente sin producir resistencia a bacteria o virus alguno.
+No. El alcohol gel puede ser usado frecuentemente sin producir resistencia a bacteria o virus alguno.
 
 ¿Es seguro usar alcohol gel?
 Sí. Todos podemos usar alcohol gel. Es muy poco el alcohol absorbido por la piel y el gel previene que las manos se resequen.
@@ -271,7 +271,7 @@ Sí. Las sagradas escrituras permiten usar cualquier sustancia que ayude a preve
 No. Al usar guantes uno puede transferir gérmenes de un lugar a otro y contaminarse al momento de retirarse los guantes. Es más seguro lavarse las manos con agua y jabón frecuentemente.
 
 ¿Me puedo infectar si toco o uso un dispensador de alcohol gel público?
-No. Al frotarnos las manos alcohol gel, las desinfectamos de cualquier germen que haya podido estar en la botella o dispensador de alcohol gel.
+No. Al frotarnos las manos con alcohol gel, las desinfectamos de cualquier germen que haya podido estar en la botella o dispensador de alcohol gel.
 
 ¿Son las vacunas contra el virus de la COVID-19 un “programa de exterminio masivo”? 
 No. Las vacunas no son un programa de exterminio masivo o una estrategia para implantar chips. Las vacunas son seguras, esto se ha comprobado y se viene haciendo con todas las vacunas.
@@ -290,9 +290,9 @@ Los síntomas pueden aparecer hasta después de 14 días de que una persona se c
 Sí. Es muy importante hacer cuarentena ya que así se evitan contagios y que la enfermedad siga extendiéndose.
 
 ¿Cuándo una persona debe hacer cuarentena o aislamiento?
-Cuarentena: Si una persona que estuvo en contacto con un enfermo COVID-19 o con sospecha de tenerlo, debe de quedarse durante 14 días en casa y usar una habitación aislada, si es posible. Sin importar el resultado de las pruebas de laboratorio.
+Cuarentena: Si una persona estuvo en contacto con un enfermo COVID-19 o con sospecha de tenerlo, debe de quedarse durante 14 días en casa y usar una habitación aislada, si es posible. Sea positivo o negativo el resultado de las pruebas de laboratorio.
 
-Aislamiento: Si una persona está infectada por el virus de la COVID-19 con o sin síntomas, debe de quedarse en casa por lo menos 10 días desde que empezaron las molestias y hasta 3 días después de no tener fiebre o de sentirse mejor.
+Aislamiento: Si una persona está infectada por el virus de la COVID-19 con o sin síntomas, debe de quedarse en casa por lo menos 10 días desde que empezaron las molestias y hasta 3 días después de no haber tenido fiebre o de sentirse mejor.
 
 ¿Cuáles son los síntomas COVID-19?
 Los síntomas más comunes son:
@@ -336,14 +336,14 @@ Sí. Algunas personas que tuvieron COVID-19 pueden continuar con molestias como 
 Las personas con mayor probabilidad de enfermar gravemente de la COVID-19 son las que tienen las siguientes condiciones:
 - Edad mayor o igual a 60 años
 - Hipertensión arterial 
-- Enfermedad cardiovascular (Accidente cerebrovascular o ACV)
+- Enfermedad cardiovascular (accidente cerebrovascular o ACV)
 - Diabetes
-- Enfermedad crónica respiratoria (Asma, Bronquitis crónica)
+- Enfermedad crónica respiratoria (asma, bronquitis crónica)
 - Enfermedad crónica hepática
 - Tratamiento inmunosupresor (tratamiento para cáncer o trasplante)
-- Enfermedad renal (Insuficiencia Renal)
+- Enfermedad renal (insuficiencia renal)
 - Obesidad
-- Enfermedad de la sangre (Enfermedad falciforme)
+- Enfermedad de la sangre (enfermedad falciforme)
 - Mujeres embarazadas
 - Fumadores de cigarro (cigarrillo)
 
@@ -357,7 +357,7 @@ En las mujeres embarazadas la enfermedad del coronavirus puede variar desde mole
 Sí. Especialmente las mujeres embarazadas de edad mayor, con sobrepeso, hipertensión, diabetes u otra enfermedad parecen tener mayor riesgo de desarrollar COVID-19 severo.
 
 ¿Una embarazada puede transmitir el virus de la COVID-19 a su bebé?
-No se ha encontrado el virus de la COVID-19 activo en el líquido que rodea al bebé en el vientre materno.Al parecer  esta forma de transmisión es rara, pero posible.
+No se ha encontrado el virus de la COVID-19 activo en el líquido que rodea al bebé en el vientre materno. Al parecer  esta forma de transmisión es rara, pero posible.
 
 ¿Una mujer embarazada puede ser vacunada?
 Sí. Una mujer embarazada puede y debe de ser vacunada, mucho más si está en riesgo de infectarse del virus de la COVID-19.
@@ -375,8 +375,10 @@ Sí. Una mamá que tiene COVID-19 debe de usar mascarilla y lavarse las manos an
 Sí. Una mujer que da de lactar puede ser vacunada. Las vacunas contra la COVID-19 no contienen el virus vivo, por lo que no representa riesgo para el bebé.
 
 ## [children:child] Niños 
+
 La cantidad de hospitalizaciones e ingresos al área de cuidados intensivos (UCI) es menor en niños que en adultos. Al parecer, la COVID-19 es menos severa en niños.
-Los niños menores de 2 años no deben usar mascarilla. Ellos necesitarían la ayuda permanente de un adulto para colocarse o retirarse la mascarilla, por lo que no es seguro que niños de esas edades usen mascarilla.
+
+IMPORTANTE: Los niños menores de 2 años no deben usar mascarilla. Ellos necesitarían la ayuda permanente de un adulto para colocarse o retirarse la mascarilla, por lo que no es seguro que niños de esas edades usen mascarilla.
 
 ¿Qué niño o niña está en riesgo de enfermar gravemente de la COVID-19?
 Es probable que niños o niñas menores de 1 año y con ciertas condiciones especiales (retraso en el desarrollo o síndrome genético, como el síndrome de Down), inmunocomprometidos (con sus defensas bajas), con enfermedad respiratoria crónica (asma), obesidad, diabetes o enfermedad cardiovascular podrían estar en mayor riesgo de desarrollar la COVID-19 severa.
@@ -396,7 +398,7 @@ Sí. Los niños y niñas se pueden infectar, enfermar y transmitir la COVID-19.
 Es probable que las personas con cáncer que están en tratamiento enfermen gravemente de la COVID-19.
 
 ¿Una persona que se recuperó de cáncer tiene mayor riesgo de enfermar gravemente de la COVID-19?
-No está claro si es que las personas que tuvieron cáncer tengan mayor riesgo de enfermar gravemente de COVID-19.
+No está claro si es que las personas que tuvieron cáncer tengan mayor riesgo de enfermar gravemente de la COVID-19.
 
 ¿Los niños con cáncer tienen menor riesgo que los adultos de enfermar gravemente de la COVID-19?
 Se cree que los niños o niñas con cáncer enfermen de la COVID-19 de forma más leve  que los adultos con cáncer.
@@ -405,7 +407,7 @@ Se cree que los niños o niñas con cáncer enfermen de la COVID-19 de forma má
 Se recomienda el uso de pruebas moleculares para las personas con cáncer que tienen síntomas COVID-19.
 
 ¿Una persona con cáncer puede ser vacunada contra la COVID-19?
-Sí. La persona con cáncer o quien esté recibiendo tratamiento para el cáncer puede ser vacunada. Ninguna vacuna contra el virus de la COVID-19 contiene el virus vivo, por lo que la vacunación es segura.
+Sí. La persona con cáncer o quien esté recibiendo tratamiento para el cáncer puede ser vacunada. Ninguna vacuna contra el virus de la COVID-19 contiene el virus vivo, por lo que es segura.
 
 ## [hiv:sick] VIH
 
@@ -432,7 +434,7 @@ La transmisión es parecida. La tuberculosis y la COVID-19 se transmiten cuando 
 Los bacilos de la tuberculosis pueden permanecer en el aire por muchas horas. La cantidad de estos bacilos disminuye con la luz solar y ventilación.
 
 ¿Se puede usar la misma muestra para diagnosticar Tuberculosis o COVID-19?
-Mayormente no. Las muestras para COVID-19 y Tuberculosis varían. Sin embargo,  muestras de esputo o aspirado endotraqueal o lavado broncoalveolar pueden utilizarse para diagnóstico de ambas enfermedades.
+Mayormente no. Las muestras para COVID-19 y Tuberculosis varían. Sin embargo,  muestras de esputo o aspirado endotraqueal o lavado broncoalveolar pueden utilizarse para el diagnóstico de ambas enfermedades.
 
 ¿Debería de descartarse COVID-19 y Tuberculosis a la vez?
 Si la persona estuvo expuesta tanto a la COVID-19 como a la Tuberculosis, debería de descartarse ambas enfermedades, ya que los síntomas y factores de riesgo son parecidos.
@@ -451,7 +453,7 @@ No se recomienda la vacuna de la BCG para prevenir la COVID-19.
 ¿Cuántos tipos de pruebas para COVID-19 hay?
 Pueden ser de tres tipos:
 - Pruebas moleculares: detectan al virus de la COVID-19, también conocidas como NAATs 
-- Pruebas de antígenos: detentan parte (proteínas) del virus de la COVID-19, también conocidas como pruebas rápidas.
+- Pruebas de antígenos: detectan parte (proteínas) del virus de la COVID-19, también conocidas como pruebas rápidas.
 - Pruebas serológicas: detectan las defensas (anticuerpos) que una persona produce después que se infecta del virus de la COVID-19.
 
 ¿Cómo saber si una persona tiene COVID-19?
@@ -471,7 +473,7 @@ En la mayoría de los casos de COVID-19, las pruebas de antígeno pueden resulta
 En la mayoría de las personas con COVID-19, las pruebas serológicas resultan positivas después de 21 días o más del comienzo de los síntomas.
 
 ¿Qué muestras se utilizan en las pruebas moleculares?
-Para las pruebas moleculares principalmente se utilizan muestras de las vías respiratorias altas y/o bajas (nariz, garganta). También se pueden utilizar muestras fecales (heces).
+Para las pruebas moleculares principalmente se utilizan muestras de las vías respiratorias altas (nariz, garganta) y/o bajas. También se pueden utilizar muestras fecales (heces).
 
 ¿Qué muestras se utilizan en las pruebas de antígeno?
 Las muestras para las pruebas rápida de antígeno se obtienen mediante un hisopado de la nariz y/o garganta.
@@ -479,11 +481,11 @@ Las muestras para las pruebas rápida de antígeno se obtienen mediante un hisop
 ¿Qué muestras se utilizan en las pruebas serológicas?
 Para las pruebas serológicas se utilizan muestras de sangre.
 
-¿Las pruebas serológicas pueden determinar si una persona debe de regresar al trabajo?
-No se recomienda. Las pruebas serológicas no deben de definir si las personas deben de retornar al trabajo, escuela, o cualquier otro sitio donde se agrupen personas.
+¿Las pruebas serológicas pueden determinar si una persona debe regresar al trabajo?
+No se recomienda. Las pruebas serológicas no pueden definir si una persona debe retornar al trabajo, escuela, o cualquier otro sitio donde se agrupen personas.
 
-¿Las pruebas serológicas pueden indicar si una persona debe de ser vacunada o no?
-No se recomienda. Las pruebas serológicas no pueden determinar si se debe o no se debe de vacunar a una persona.
+¿Las pruebas serológicas pueden indicar si una persona debe ser vacunada o no?
+No se recomienda. Las pruebas serológicas no pueden determinar si se debe o no se debe vacunar a una persona.
 
 ¿Las pruebas serológicas pueden determinar la inmunidad al virus de la COVID-19 en una persona vacunada?
 No se recomienda. Las pruebas serológicas no pueden determinar si una persona es inmune al virus de la COVID-19.
@@ -506,9 +508,9 @@ No. Solo los exámenes de laboratorio pueden diagnosticar o descartar COVID-19. 
 # [treatment:healing] TRATAMIENTO 
 Así como los síntomas de la COVID-19 varían de persona a persona, el tratamiento también varía. Los casos graves necesitan oxígeno y otros medicamentos de acuerdo a cómo evolucione la enfermedad. El tratamiento oportuno puede evitar posibles complicaciones y hasta la muerte.
 
-¿Una persona que ha estado con tratamiento previo y tiene COVID-19, debe de suspender o dejar su tratamiento?
-No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina) antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides (dexametasona, prednisona), AINES (ibuprofeno, naproxeno) por cualquier otra enfermedad debe de continuar con su tratamiento tenga o no COVID-19.
-Esta persona debe de acudir a su médico(a), ya que puede estar en mayor riesgo de desarrollar la COVID-19 severa.
+¿Una persona que ha estado con tratamiento previo y tiene COVID-19, debe suspender o dejar su tratamiento?
+No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina), antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides (dexametasona, prednisona), AINES (ibuprofeno, naproxeno) por cualquier otra enfermedad debe continuar con su tratamiento tenga o no COVID-19.
+Esta persona debe acudir a su médico(a), ya que puede estar en mayor riesgo de desarrollar la COVID-19 severa.
 
 ¿Se puede usar Remdesivir como tratamiento en todos los pacientes con COVID-19?
 No. En los Estados Unidos, la FDA aprobó el uso de Remdesivir para los pacientes hospitalizados que necesitan oxígeno. Sin embargo, la Organización Mundial de la Salud recomienda esperar a tener mayor evidencia de su efectividad.
@@ -523,7 +525,7 @@ Podría ser posible que el plasma convaleciente COVID-19, sangre de personas que
 No se recomienda. Estudios clínicos demuestran que la Hidroxicloroquina no previene o cura la COVID-19.
 
 ¿La Ivermectina puede prevenir o curar la COVID-19?
-Hasta la fecha no hay evidencia concluyente que demuestre si la Ivermectina pueda prevenir o curar la COVID-19.
+No hay evidencia concluyente que demuestre si la Ivermectina pueda prevenir o curar la COVID-19.
 
 ¿Los antibióticos pueden prevenir o curar la COVID-19?
 No. Los antibióticos no funcionan contra los virus. Algunas personas que enferman de la COVID-19 pueden complicarse y desarrollar neumonía u otra infección bacteriana; en estos casos, son los médicos o médicas quienes pueden indicar el uso de antibióticos.
@@ -540,7 +542,7 @@ No se ha demostrado que la vitamina C, la vitamina D o el Zinc puedan curar o pr
 
 # [home:home] CUANDO HAY UN ENFERMO EN CASA
 
-¿Qué debemos de hacer si tenemos los síntomas (molestias) de la COVID-19?
+¿Qué debemos hacer si tenemos los síntomas o molestias de la COVID-19?
 - Quedarnos en casa. Solo debemos de salir para ir al médico u hospital.
 - Busquemos atención médica llamando a nuestro médico o médica tan pronto como las molestias comiencen. 
 - Descansemos. Tener un buen estado de ánimo es importante.
@@ -550,14 +552,14 @@ No se ha demostrado que la vitamina C, la vitamina D o el Zinc puedan curar o pr
 - Mantengamos abiertas las ventanas para que la casa esté ventilada. Más aire fresco, menos virus.
 - Evitemos compartir áreas comunes como la sala, cocina, comedor, y cuando lo hagamos, que sea el menor tiempo posible.
 - Sigamos las medidas de lavado de manos, mantener una distancia de 2 metros de los demás y cubrir boca-nariz al toser o estornudar.
-- Usemos una mascarilla quirúrgica el mayor tiempo posible, cambiar de mascarilla todos los días. Si no podemos usar la mascarilla, debemos de cubrir - nariz y boca con un pañuelo, papel toalla o codo al estornudar, toser o reír , y luego lavarnos las manos.
+- Usemos una mascarilla quirúrgica el mayor tiempo posible, cambiar de mascarilla todos los días. Si no podemos usar la mascarilla, debemos de cubrir nariz y boca con un pañuelo, papel toalla o codo al estornudar, toser o reír , y luego, lavarnos las manos.
 - Evitemos contaminar objetos y superficies con saliva o secreciones respiratorias (moco o esputo), así reduciremos la probabilidad de transmisión del virus.
 - Limpiemos y desinfectemos las cosas y superficies que tocamos con frecuencia.
-- Evitemos estar cerca de animales o mascotas.
+- Evitemos estar cerca de animales o mascotas.Se han reportado pocos casos de gatos y perros que se contagiaron del virus de la  COVID-19 porque estuvieron cerca de personas con COVID-19.
 
-¿Qué debemos de hacer si hay un enfermo COVID-19 en casa?
+¿Qué debemos hacer si hay un enfermo COVID-19 en casa?
 - Elegir a una persona que cuide del enfermo, de preferencia esta persona no debe de estar ni embarazada y ni en riesgo de enfermar gravemente de la COVID-19. 
-- Si cuidamos de un enfermo COVID-19, nos podemos contagiar y transmitir el virus a los demás. Es importante que cumplamos con todas las medidas de prevención como son lavado de manos, distanciamiento físico, cubrir boca y nariz al toser o estornudar, usar mascarilla.
+- Si cuidamos de un enfermo COVID-19, nos podemos contagiar y transmitir el virus a los demás. Es importante que sigamos todas las medidas de prevención como son lavado de manos, distanciamiento físico, cubrir boca y nariz al toser o estornudar, usar mascarilla.
 - Lavarnos las manos con agua y jabón antes y después de tocar a la persona enferma. Los paños húmedos no reemplazan al lavado de manos.
 - Mantengamos 2 metros de distancia de la persona enferma.
 - No colocarnos enfrente (cara a cara) de la persona enferma.
@@ -567,7 +569,7 @@ No se ha demostrado que la vitamina C, la vitamina D o el Zinc puedan curar o pr
 - Limpiar y desinfectar las cosas que utiliza o toca la persona enferma.
 
 ¿Qué desinfectantes podemos usar contra el virus de la COVID-19?	
-- Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección)
-- Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o al 0.5% para lugares con residuos de sangre o secreciones corporales.
+- Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección).
+- Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o, al 0.5% para lugares con residuos de sangre o secreciones corporales.
 - Peróxido de hidrógeno >0.5% (agua oxigenada). 
 Estas sustancias deben de cubrir la superficie de lo que queremos desinfectar por lo menos 1 minuto, o según las instrucciones del fabricante.
