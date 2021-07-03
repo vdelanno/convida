@@ -33,7 +33,7 @@ No. La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan 
 ¿Los zapatos pueden esparcir el virus?
 Es muy poco probable que el virus se pueda esparcir por medio de los zapatos. Como prevención se podría dejar los zapatos en la entrada de la casa en donde viven niños que gatean y juegan en el piso.
 
-¿Las moscas transmiten COVID-19?	
+¿Las moscas transmiten COVID-19? 
 No. Hasta la fecha no se ha demostrado que las moscas transmitan el virus de la COVID-19.
 
 ¿Las redes o antenas de los teléfonos celulares 5G transmiten el virus de COVID-19?
@@ -55,13 +55,13 @@ No.  El virus de la COVID-19 no se puede transmitir a través del agua cuando na
 
 ## [drugs:pills] Medidas Preventivas
 Las medidas preventivas disminuyen el riesgo de infección del virus de la COVID-19. Además de usar mascarilla, tapaboca o cubreboca; debemos de cumplir con las siguientes recomendaciones:
--	Evitar los lugares con mucha gente.	
--	Lavado de manos con agua y jabón por 20 segundos como mínimo, aun si las manos no se ven sucias. Si no hay agua, debemos usar alcohol gel 
--	Mantener 2 metros de distancia de los demás. Así evitaremos contagiarnos o transmitir el virus en el caso estemos enfermos. 
--	Si tosemos o estornudamos, debemos de cubrirnos nuestra boca y nariz con papel toalla o papel higiénico, botar el papel sucio a la basura y, por último, lavarnos las manos. 
--	No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
--	Abrir las ventanas para que la casa u oficina esté ventilada.
--	Recibir la vacuna contra la COVID-19.7
+- Evitar los lugares con mucha gente. 
+- Lavado de manos con agua y jabón por 20 segundos como mínimo, aun si las manos no se ven sucias. Si no hay agua, debemos usar alcohol gel 
+- Mantener 2 metros de distancia de los demás. Así evitaremos contagiarnos o transmitir el virus en el caso estemos enfermos. 
+- Si tosemos o estornudamos, debemos de cubrirnos nuestra boca y nariz con papel toalla o papel higiénico, botar el papel sucio a la basura y, por último, lavarnos las manos. 
+- No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
+- Abrir las ventanas para que la casa u oficina esté ventilada.
+- Recibir la vacuna contra la COVID-19.
 
 IMPORTANTE: Niños o niñas menores de 2 años no deben usar mascarilla.
 
@@ -74,7 +74,7 @@ Debemos de aplicar regular cantidad en la palma la mano para cubrir toda la supe
 ¿Cuándo usar mascarilla (tapaboca o cubreboca)?
 Debemos de usar mascarilla si:
 - Estamos fuera de casa en donde no es posible mantener una distancia de 2 metros de los demás y en donde la ventilación sea poca o insuficiente, como en transporte público, mercados, vía pública.
--	Estamos dentro del hogar y llega una visita u otra persona que no viva en la misma casa, además de mantener una distancia física de 2 metros.
+- Estamos dentro del hogar y llega una visita u otra persona que no viva en la misma casa, además de mantener una distancia física de 2 metros.
 
 ¿Qué alimentos fortalecen las defensas de nuestro cuerpo?
 Se recomienda el consumo de cereales integrales, legumbres (menestras), verduras, frutas frescas, frutos secos y alimentos de origen animal en una dieta saludable y balanceada. No hay alimento que pueda prevenir la COVID-19.
@@ -92,11 +92,11 @@ Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. 
 ¿Pueden las vacunas COVID-19 detener la pandemia?
 La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
 
-¿Qué tipos de vacunas para el virus de la COVID-19 se están probando y cómo funcionan?
--	Vacunas de virus inactivados: se usan virus de la COVID-19 inactivados, haciendo que nuestro cuerpo produzca defensas sin que se enferme.
--	Vacunas basadas en proteínas: se usan partes del virus (proteínas) de la COVID-19 que no causan la enfermedad pero que hace que nuestro cuerpo reconozca estas partes como extrañas, y aprenda cómo defenderse de futuras infecciones.
--	Vacunas de ARN y ADN: se usan genes del virus de la COVID-19, estos genes dan indicaciones a nuestro cuerpo de crear una parte (proteína) única del virus que no produce la enfermedad pero que ayuda a que nuestro cuerpo reconozca al virus y se defienda de futuras infecciones. Después de crear esta proteína, nuestro cuerpo elimina estos genes.
--	Vacunas de vectores virales: se usan otros virus modificado y se les agrega genes del virus de la COVID-19, al ingresar a nuestro cuerpo se produce parte del virus (proteína) que es reconocido como extraño y luego eliminado.
+¿Qué tipos de vacunas para el virus de la COVID-19 hay y cómo funcionan?
+- Vacunas de virus inactivados: se usan virus de la COVID-19 inactivados, haciendo que nuestro cuerpo produzca defensas sin que se enferme.
+- Vacunas basadas en proteínas: se usan partes del virus (proteínas) de la COVID-19 que no causan la enfermedad pero que hace que nuestro cuerpo reconozca estas partes como extrañas, y aprenda cómo defenderse de futuras infecciones.
+- Vacunas de ARN y ADN: se usan genes del virus de la COVID-19, estos genes dan indicaciones a nuestro cuerpo de crear una parte (proteína) única del virus que no produce la enfermedad pero que ayuda a que nuestro cuerpo reconozca al virus y se defienda de futuras infecciones. Después de crear esta proteína, nuestro cuerpo elimina estos genes.
+- Vacunas de vectores virales: se usan otros virus modificado y se les agrega genes del virus de la COVID-19, al ingresar a nuestro cuerpo se produce parte del virus (proteína) que es reconocido como extraño y luego eliminado.
 
 ¿Debo de seguir las medidas preventivas después de ser vacunado(a)?
 Sí. Para ayudar a detener esta pandemia, debe de seguir con las medidas preventivas como el distanciamiento, cubrirse al toser o estornudar, lavarse las manos, abrir las ventanas y uso de mascarilla.
@@ -143,54 +143,54 @@ No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar qu
 
 ## [masks:headSideMask] Uso de mascarilla (tapaboca o cubreboca)
 
-¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla (tapaboca o cubreboca)?
--	Lavarnos las manos antes de colocarnos la mascarilla.
--	Asegurarnos que la mascarilla cubra boca y nariz, ajustar al hueso de la nariz, y sujetarla disminuyendo los espacios entre la cara y la mascarilla (para evitar estos espacios, no cruce las orejeras de la mascarilla)
--	Evitemos tocar la mascarilla mientas la tengamos puesta.
--	No colocarnos la mascarilla en el cuello, el mentón, el brazo o la muñeca.
--	Para retirar la mascarilla, desatemos o desajustemos la mascarilla por detrás sin tocar la parte externa.
--	No quitarnos la mascarilla al hablar.
--	Lavarnos las manos después de tocar o retirar la mascarilla.
--	Si la mascarilla se humedece o ensucia, cambiémosla por una mascarilla nueva y seca.
--	Debemos de cambiar de mascarilla todos los días, como mínimo.
--	No reutilicemos las mascarillas desechables, cambiémosla por una nueva después de cada uso.
--	Evitemos usar mascarillas con válvulas de exhalación ya que no pueden filtrar el aire que exhalamos o botamos.
--	No compartir la mascarilla con otros. La mascarilla es personal.
--	Las personas con mayor riesgo de enfermar gravemente de la COVID-19 deben usar mascarillas médicas.
+¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla, tapaboca o cubreboca?
+- Lavarnos las manos antes de colocarnos la mascarilla.
+- Asegurarnos que la mascarilla cubra boca y nariz, ajustar al hueso de la nariz, y sujetarla disminuyendo los espacios entre la cara y la mascarilla (para evitar estos espacios, no cruce las orejeras de la mascarilla)
+- Evitemos tocar la mascarilla mientas la tengamos puesta.
+- No colocarnos la mascarilla en el cuello, el mentón, el brazo o la muñeca.
+- Para retirar la mascarilla, desatemos o desajustemos la mascarilla por detrás sin tocar la parte externa.
+- No quitarnos la mascarilla al hablar.
+- Lavarnos las manos después de tocar o retirar la mascarilla.
+- Si la mascarilla se humedece o ensucia, cambiémosla por una mascarilla nueva y seca.
+- Debemos de cambiar de mascarilla todos los días, como mínimo.
+- No reutilicemos las mascarillas desechables, cambiémosla por una nueva después de cada uso.
+- Evitemos usar mascarillas con válvulas de exhalación ya que no pueden filtrar el aire que exhalamos o botamos.
+- No compartir la mascarilla con otros. La mascarilla es personal.
+- Las personas con mayor riesgo de enfermar gravemente de la COVID-19 deben usar mascarillas médicas.
 
-¿Qué pasaría si usamos una mascarilla (tapaboca o cubreboca) de forma inadecuada?
--	Podríamos contaminarnos si tocamos la mascarilla y después nos tocamos los ojos, sin antes lavarnos las manos.
--	Nos podríamos contaminar si no cambiamos de mascarilla cuando esté sucia o húmeda.
--	Podríamos tener dificultad para respirar o dolor de cabeza si usamos una mascarilla que no nos quede bien. Es importante elegir una mascarilla con la que podamos respirar con comodidad.
--	Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos incomode.
--	Podría dificultar comunicarnos, mucho más en el caso de personas con problemas de audición. Debemos de hablar despacio, vocalizando lo más claro posible.
--	Es probable que tengamos una sensación de falsa seguridad y dejemos de cumplir con las demás medidas preventivas como lavado de manos y distanciamiento físico.
--	Incremento de basura, sino eliminamos adecuadamente las mascarillas desechables. Esto se podría evitar usando mascarillas de tela.8
+¿Qué pasaría si usamos una mascarilla, tapaboca o cubreboca de forma inadecuada?
+- Podríamos contaminarnos si tocamos la mascarilla y después nos tocamos los ojos, sin antes lavarnos las manos.
+- Nos podríamos contaminar si no cambiamos de mascarilla cuando esté sucia o húmeda.
+- Podríamos tener dificultad para respirar o dolor de cabeza si usamos una mascarilla que no nos quede bien. Es importante elegir una mascarilla con la que podamos respirar con comodidad.
+- Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos incomode.
+- Podría dificultar comunicarnos, mucho más en el caso de personas con problemas de audición. Debemos de hablar despacio, vocalizando lo más claro posible.
+- Es probable que tengamos una sensación de falsa seguridad y dejemos de cumplir con las demás medidas preventivas como lavado de manos y distanciamiento físico.
+- Incremento de basura, sino eliminamos adecuadamente las mascarillas desechables. Esto se podría evitar usando mascarillas de tela.
 
-¿Qué beneficios hay si usamos una mascarilla (tapaboca o cubreboca) adecuadamente?8
--	Si estamos cerca de una persona con COVID-19, con o sin síntomas, al usar mascarilla reducimos el riesgo de contagio.
--	Si estamos enfermos, al usar mascarilla reducimos las posibilidades de transmitir el virus
--	Disminuimos los prejuicios o discriminación a las personas que normalmente deben usar mascarilla por otras enfermedades, como la Tuberculosis.
--	Sentir que podemos contribuir de alguna manera en detener la propagación del virus de la COVID-19.
--	Recordar que también tenemos que cumplir con las demás medidas de prevención como lavado de manos, no tocarnos los ojos/nariz/boca, distanciamiento físico y cubrirnos al toser/estornudar. 
--	Prevenir la transmisión de otras enfermedades como la tuberculosis e influenza.
--	Podría ser una fuente de ingreso extra si hacemos mascarillas de tela y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que generan las mascarillas descartables.8
+¿Qué beneficios hay si usamos una mascarilla, tapaboca o cubreboca adecuadamente?
+- Si estamos cerca de una persona con COVID-19, con o sin síntomas, al usar mascarilla reducimos el riesgo de contagio.
+- Si estamos enfermos, al usar mascarilla reducimos las posibilidades de transmitir el virus
+- Disminuimos los prejuicios o discriminación a las personas que normalmente deben usar mascarilla por otras enfermedades, como la Tuberculosis.
+- Sentir que podemos contribuir de alguna manera en detener la propagación del virus de la COVID-19.
+- Recordar que también tenemos que cumplir con las demás medidas de prevención como lavado de manos, no tocarnos los ojos/nariz/boca, distanciamiento físico y cubrirnos al toser/estornudar. 
+- Prevenir la transmisión de otras enfermedades como la tuberculosis e influenza.
+- Podría ser una fuente de ingreso extra si hacemos mascarillas de tela y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que generan las mascarillas descartables.
 
-¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla (tapaboca o cubreboca) de tela?8
--	La mascarilla de tela debe de cumplir con la función de: 
-- filtración (que pueda retener pequeñas gotas), 
-- transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
-- ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
--	No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría. 
--	Una mascarilla de tela debe de tener como mínimo 3 capas: 
-    - la capa interna que está en contacto con la boca y nariz debe de poder absorber fluido como el algodón, o una tela que tenga combinaciones con algodón, 
-    - la capa intermedia no debe de absorber fluido, y así poder retener gotas pequeñas como el hilado de polipropileno, poliéster y poliaramida, y 
-    - la capa externa expuesta al medio ambiente tampoco debe de absorber fluido, previniendo la acumulación de agua como el hilado de polipropileno, poliéster o sus combinaciones.
--	No se recomiendan las válvulas de exhalación ya que el aire que exhalamos o botamos no se filtra debido a estas válvulas.
--	La mascarilla de tela debe de lavarse al menos una vez al día.
--	No lavar la mascarilla de tela junto con la demás ropa.
--	Verificar en la etiqueta de la mascarilla de tela la temperatura máxima a la que puede ser lavada.
--	Lavar las mascarillas de tela con jabón/detergente y agua caliente (por lo menos a 60°C). Si no hay agua caliente, hervir las mascarillas por 1 minuto luego de lavarlas con jabón o detergente.
+¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla, tapaboca o cubreboca de tela?
+- La mascarilla de tela debe de cumplir con la función de: 
+  1. filtración (que pueda retener pequeñas gotas), 
+  2. transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
+  3. ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
+- No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría. 
+- Una mascarilla de tela debe de tener como mínimo 3 capas: 
+  1. La capa interna que está en contacto con la boca y nariz debe poder absorber fluidos, como el algodón o una tela que tenga combinaciones con algodón; 
+  2. La capa intermedia no debe absorber fluidos y así poder retener gotas pequeñas, como el hilado de polipropileno, poliéster y poliaramida; 
+  3. La capa externa expuesta al medio ambiente no debe absorber fluido y prevenir la acumulación de agua, como el hilado de polipropileno, poliéster o sus combinaciones.
+- No se recomiendan las válvulas de exhalación ya que el aire que exhalamos o botamos no se filtra debido a estas válvulas.
+- La mascarilla de tela debe de lavarse al menos una vez al día.
+- No lavar la mascarilla de tela junto con la demás ropa.
+- Verificar en la etiqueta de la mascarilla de tela la temperatura máxima a la que puede ser lavada.
+- Lavar las mascarillas de tela con jabón/detergente y agua caliente (por lo menos a 60°C). Si no hay agua caliente, hervir las mascarillas por 1 minuto luego de lavarlas con jabón o detergente.
 
 ¿Podemos usar solo un protector facial?
 No. El protector facial debe de ser usado junto con una mascarilla o tapaboca.
@@ -566,8 +566,8 @@ No se ha demostrado que la vitamina C, la vitamina D o el Zinc puedan curar o pr
 - Abrir las ventanas para ventilar la casa.
 - Limpiar y desinfectar las cosas que utiliza o toca la persona enferma.
 
-¿Qué desinfectantes podemos usar contra el virus de la COVID-19?	
-- Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección)
-- Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o al 0.5% para lugares con residuos de sangre o secreciones corporales.
+¿Qué desinfectantes podemos usar contra el virus de la COVID-19? 
+- Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección).
+- Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o, al 0.5% para lugares con residuos de sangre o secreciones corporales.
 - Peróxido de hidrógeno >0.5% (agua oxigenada). 
 Estas sustancias deben de cubrir la superficie de lo que queremos desinfectar por lo menos 1 minuto, o según las instrucciones del fabricante.
