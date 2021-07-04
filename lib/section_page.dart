@@ -34,9 +34,10 @@ class SectionPage extends StatelessWidget {
   Widget qaWidget(BuildContext context, QuestionAnswer qa) {
     return Card(
       margin: EdgeInsets.fromLTRB(5, 10, 5, 0),
-      color: Theme.of(context).accentColor,
+      color: Theme.of(context).colorScheme.secondary,
       child: ExpansionTile(
-          backgroundColor: Theme.of(context).accentColor,
+          maintainState: true,
+          backgroundColor: Theme.of(context).colorScheme.secondary,
           leading: Icon(Icons.question_answer_rounded),
           trailing: FutureBuilder(
             future: _audioData,
@@ -58,14 +59,17 @@ class SectionPage extends StatelessWidget {
           title: Container(
               child: Text(
             qa.title,
-            style: Theme.of(context).accentTextTheme.subtitle1,
+            style: Theme.of(context).primaryTextTheme.subtitle1,
           )),
           children: [
-            Container(
-              padding: EdgeInsets.fromLTRB(10, 2, 10, 10),
-              child: MarkdownBody(data: qa.fullText),
-              color: Theme.of(context).canvasColor,
-            )
+            Row(children: [
+              Expanded(
+                  child: Container(
+                padding: EdgeInsets.fromLTRB(10, 2, 10, 10),
+                child: MarkdownBody(data: qa.fullText),
+                color: Theme.of(context).canvasColor,
+              ))
+            ])
           ]),
     );
   }
