@@ -120,7 +120,7 @@ No. La presencia de efectos adversos no significa que nuestro cuerpo está produ
 Sí. Una persona que tuvo COVID-19 puede ser vacunada. Hasta ahora no se sabe cuánto tiempo puede durar las defensas después de enfermar de la COVID-19.
 
 ¿Cuántas dosis de la vacuna COVID-19 son necesarias?
-Dos dosis. La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces.
+Dos dosis. La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces. Por otro lado, hay vacunas igual de efectivas de una sola dosis.
 
 ¿Puedo recibir la segunda dosis de una vacuna diferente que la primera dosis?
 Todavía no se sabe. Se están haciendo estudios para saber si la segunda dosis puede ser de otro tipo de vacuna que la usada en la primera dosis.
