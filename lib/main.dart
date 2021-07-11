@@ -29,9 +29,9 @@ class App extends StatefulWidget {
 typedef LanguageCallback = void Function(String);
 
 class _AppState extends State<App> {
-  String _locale;
+  String? _locale;
   onChangeLanguage() {
-    String language = Model.textLocale.value;
+    String? language = Model.textLocale.value;
     print("setting locale to $language");
     if (_locale != language) {
       setState(() {
@@ -59,13 +59,15 @@ class _AppState extends State<App> {
   }
 
   MaterialApp _buildApp(BuildContext context) {
-    String locale = _locale;
+    String? locale = _locale;
     if (locale == null) {
       locale = Model.DEFAULT_LOCALE;
     }
     print("locale: $locale translated to ${kSupportedLocales[locale]}");
     return new MaterialApp(
-      locale: Locale(kSupportedLocales[locale]),
+      locale: Locale(kSupportedLocales.containsKey(locale)
+          ? kSupportedLocales[locale]!
+          : "en"),
       localizationsDelegates: [
         SitLocalizationsDelegate(),
         GlobalMaterialLocalizations.delegate,
@@ -73,7 +75,7 @@ class _AppState extends State<App> {
       ],
       localeResolutionCallback: (locale, supportedLocales) {
         print("resolve $locale");
-        return Locale(locale.languageCode);
+        return Locale(locale!.languageCode);
       },
       initialRoute: '/',
       routes: {
@@ -86,7 +88,7 @@ class _AppState extends State<App> {
         return MaterialPageRoute(
             settings: RouteSettings(name: settings.name),
             builder: (context) {
-              String pageId = settings.name.substring(1);
+              String pageId = settings.name!.substring(1);
               if (pageId.isEmpty) {
                 pageId = "convida";
               }

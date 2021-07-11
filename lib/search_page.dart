@@ -12,7 +12,7 @@ class SearchMatch {
 
 class SearchPage extends StatelessWidget {
   static const String route = '/search';
-  SearchPage({Key key}) : super(key: key);
+  SearchPage({Key? key}) : super(key: key);
 
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
@@ -23,8 +23,8 @@ class SearchPage extends StatelessWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  Widget getResultCard(BuildContext context, String title, String subtitle,
-      String content, String input, IconData icon) {
+  Widget getResultCard(BuildContext context, String title, String? subtitle,
+      String content, String input, IconData? icon) {
     return Card(
         margin: EdgeInsets.fromLTRB(5, 10, 5, 0),
         child: Column(
@@ -123,7 +123,7 @@ class SearchPage extends StatelessWidget {
             child: Center(
               child: ValueListenableBuilder(
                 valueListenable: textController,
-                builder: (context, value, child) {
+                builder: (context, TextEditingValue value, child) {
                   String input = value.text.trim();
                   if (input.length < 3) {
                     return Container();

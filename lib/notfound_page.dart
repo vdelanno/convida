@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class NotFoundPage extends StatelessWidget {
-  NotFoundPage({@required this.title, key}) : super(key: key);
+  NotFoundPage({required this.title, key}) : super(key: key);
   final String title;
   @override
   Widget build(BuildContext context) {

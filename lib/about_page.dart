@@ -9,7 +9,7 @@ typedef void LanguageChangeCallback(String newLanguage);
 
 class AboutPage extends StatelessWidget {
   static const String route = '/about';
-  AboutPage({Key key}) : super(key: key);
+  AboutPage({Key? key}) : super(key: key);
 
   Future<String> loadText() async {
     print("loading text");
@@ -56,7 +56,7 @@ class AboutPage extends StatelessWidget {
             return DropdownButton(
                 value: language as String,
                 items: dropDownItems,
-                onChanged: (String newValue) {
+                onChanged: (String? newValue) {
                   print("changed to $newValue");
                   Model.textLocale.value = newValue;
                 });
@@ -77,7 +77,7 @@ class AboutPage extends StatelessWidget {
               _aboutSection(context, "Language", Icons.language,
                   languageSelector(context)),
               _aboutSection(context, "ConVIDa information", Icons.notes,
-                  MarkdownBody(data: snapshot.data))
+                  MarkdownBody(data: snapshot.data as String))
             ]),
           );
         }

@@ -6,7 +6,10 @@ typedef TextChangeCallback = void Function(String);
 typedef NavigateItemCallback = void Function();
 
 class SearchWidget extends StatelessWidget {
-  SearchWidget({this.onTextChange, this.onNextItem, this.onPreviousItem}) {
+  SearchWidget(
+      {required this.onTextChange,
+      required this.onNextItem,
+      required this.onPreviousItem}) {
     _searchController.addListener(() => _inputTextChanged());
   }
   final TextChangeCallback onTextChange;
@@ -43,7 +46,7 @@ class SearchWidget extends StatelessWidget {
             hintText: SitLocalizations.of(context).searchPlaceholder,
             prefix: ValueListenableBuilder(
               builder: (context, isSearch, child) {
-                if (isSearch) {
+                if (isSearch == true) {
                   return GestureDetector(
                       child: Icon(Icons.search),
                       onTap: () => _searchInputUpdated());
@@ -64,7 +67,7 @@ class SearchWidget extends StatelessWidget {
         ),
       ),
       ValueListenableBuilder(
-        builder: (context, text, child) {
+        builder: (context, String text, child) {
           if (text.isEmpty) {
             return Container();
           }

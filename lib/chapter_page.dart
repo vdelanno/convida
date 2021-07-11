@@ -9,7 +9,7 @@ import 'about_page.dart';
 import 'model.dart';
 
 class ChapterPage extends StatelessWidget {
-  ChapterPage({Key key, this.chapter}) : super(key: key);
+  ChapterPage({Key? key, required this.chapter}) : super(key: key);
   final Chapter chapter;
 
   String sectionUrl(PageItem page) {

@@ -6,24 +6,32 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 // Returns an icon by examining the name for the format ICON_LIBRARY.ICON_NAME and if not, looks for a Material icon of the ICON_NAME
 // For example fa.fiveHundredPx returns the icon named fiveHundredPx in the FontAwesome lib, if it didn't exist, it'd try to return the material icon named fiveHundredPx, otherwise you get null.
 // If you don't use the dot notation described it will attempt to get you an icon favoring the Material icon set using getIconGuessFavorMaterial
-IconData getIconUsingPrefix({String name}) {
+IconData? getIconUsingPrefix({required String name}) {
+  if (name == 'convida') {
+    return null;
+  }
   final List<String> split = name.split('.');
 
+  IconData? icon = null;
   if (split.length > 1) {
     name = split[1];
     if (split[0].toLowerCase() == 'fa' ||
         split[0].toLowerCase() == 'fontawesome') {
-      return getFontAwesomeIcon(name: name);
+      icon = getFontAwesomeIcon(name: name)!;
     }
   } else {
-    return getIconGuessFavorMaterial(name: name);
+    icon = getIconGuessFavorMaterial(name: name)!;
   }
 
-  return getMaterialIcon(name: name);
+  if (icon == null) {
+    icon = getMaterialIcon(name: name)!;
+  }
+  print("icon for $name: $icon");
+  return icon!;
 }
 
 // Returns an icon named in name favoring Font Awesome
-IconData getIconGuessFavorFA({String name}) {
+IconData? getIconGuessFavorFA({required String name}) {
   if (FontAwesomeIconsMap[name] != null) {
     return FontAwesomeIconsMap[name];
   } else {
@@ -32,7 +40,7 @@ IconData getIconGuessFavorFA({String name}) {
 }
 
 // Returns an icon named in name favoring Material
-IconData getIconGuessFavorMaterial({String name}) {
+IconData? getIconGuessFavorMaterial({required String name}) {
   if (IconsMap[name] != null) {
     return IconsMap[name];
   } else {
@@ -41,12 +49,12 @@ IconData getIconGuessFavorMaterial({String name}) {
 }
 
 // Kinda self explanatory, no?
-IconData getMaterialIcon({String name}) {
+IconData? getMaterialIcon({required String name}) {
   return IconsMap[name];
 }
 
 // Kinda self explanatory, no?
-IconData getFontAwesomeIcon({String name}) {
+IconData? getFontAwesomeIcon({required String name}) {
   return FontAwesomeIconsMap[name];
 }
 

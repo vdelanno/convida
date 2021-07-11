@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 class HomeLayout extends StatelessWidget {
   HomeLayout(
-      {Key key,
-      @required this.title,
-      @required this.mainView,
-      @required this.drawer})
+      {Key? key,
+      required this.title,
+      required this.mainView,
+      required this.drawer})
       : super(key: key);
   final Widget title;
   final Widget mainView;
@@ -23,7 +23,7 @@ class HomeLayout extends StatelessWidget {
     return ValueListenableBuilder(
       valueListenable: showDrawer,
       builder: (context, value, child) => AnimatedContainer(
-          width: value ? 300 : 0,
+          width: value == true ? 300 : 0,
           duration: Duration(seconds: 1),
           curve: Curves.easeInOut,
           child: child),

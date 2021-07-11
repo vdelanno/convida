@@ -17,7 +17,7 @@ class SitLocalizations {
     // If we're given "en_US", we'll use it as-is. If we're
     // given "en", we extract it and use it.
     final String localeName =
-        locale.countryCode == null || locale.countryCode.isEmpty
+        locale.countryCode == null || locale.countryCode!.isEmpty
             ? locale.languageCode
             : locale.toString();
     // We make sure the locale name is in the right format e.g.
@@ -56,7 +56,7 @@ class SitLocalizations {
   /// Retrieve localization resources for the widget tree
   /// corresponding to the given `context`
   static SitLocalizations of(BuildContext context) =>
-      Localizations.of<SitLocalizations>(context, SitLocalizations);
+      Localizations.of<SitLocalizations>(context, SitLocalizations)!;
 }
 
 class SitLocalizationsDelegate extends LocalizationsDelegate<SitLocalizations> {

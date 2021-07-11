@@ -17,7 +17,7 @@ class Anchor {
 enum AnchorType { HIGHLIGHT, HEADER }
 
 class QuestionAnswer {
-  QuestionAnswer({@required this.title, @required this.fullText});
+  QuestionAnswer({required this.title, required this.fullText});
   final String title;
   final String fullText;
 
@@ -28,13 +28,13 @@ class QuestionAnswer {
 
 class PageItem {
   PageItem({
-    @required this.id,
-    @required this.title,
-    @required this.image,
+    required this.id,
+    required this.title,
+    required this.image,
   });
   final String id;
   final String title;
-  final IconData image;
+  final IconData? image;
 
   Map toDict() {
     return {
@@ -46,10 +46,10 @@ class PageItem {
 
 class Chapter extends PageItem {
   Chapter(
-      {@required String id,
-      @required String title,
-      @required IconData image,
-      @required this.pages})
+      {required String id,
+      required String title,
+      required IconData? image,
+      required this.pages})
       : super(id: id, title: title, image: image);
   final List<PageItem> pages;
 
@@ -62,11 +62,11 @@ class Chapter extends PageItem {
 
 class Section extends PageItem {
   Section(
-      {@required String id,
-      @required String title,
-      @required IconData image,
-      @required this.description,
-      @required this.qas})
+      {required String id,
+      required String title,
+      required IconData image,
+      required this.description,
+      required this.qas})
       : super(id: id, title: title, image: image);
 
   final String description;
@@ -83,21 +83,22 @@ class Section extends PageItem {
 class Model {
   static Model _instance = Model._();
 
-  Future<Chapter> _home;
+  Future<Chapter> _home = Future.error("uninitialized");
   Future<Chapter> get home => _home;
   static final String DEFAULT_LOCALE = "en";
-  static ValueNotifier<String> textLocale = ValueNotifier<String>(null);
+  static ValueNotifier<String?> textLocale = ValueNotifier<String?>(null);
   static Future<String> _loadTextLocale() {
     return SharedPreferences.getInstance().then((prefs) {
-      String locale;
+      print("_loadTextLocale fetching shared preferences");
+      String? locale;
       try {
         print("getTextLocale loading");
         locale = prefs.getString("language");
         print("getTextLocale loaded $locale");
       } catch (e) {
         print("could not load language: $e");
-
-        locale = Intl.shortLocale(Intl.defaultLocale);
+        locale = Intl.defaultLocale;
+        locale = Intl.shortLocale(locale == null ? locale! : "en");
       }
 
       if (!kSupportedLocales.containsKey(locale)) {
@@ -108,16 +109,17 @@ class Model {
 
       textLocale.value = locale;
 
-      return locale;
+      return locale!;
     });
   }
 
   static void _updateTextLocale() {
-    String locale = textLocale.value;
+    print("_updateTextLocale");
+    String? locale = textLocale.value;
     SharedPreferences.getInstance().then((prefs) {
       try {
         print("saving language: $locale");
-        prefs.setString("language", locale);
+        prefs.setString("language", locale == null ? "" : locale);
       } catch (e) {
         print("could not save language: $e");
       }
@@ -128,12 +130,13 @@ class Model {
   }
 
   Model._() {
-    Future<String> locale = Future.value(textLocale.value);
+    Future<String> locale = Future.value("en");
     if (textLocale.value == null) {
       print("Model constructor");
       locale = _loadTextLocale();
       textLocale.addListener(() => Model._updateTextLocale());
     }
+    print("Model initialised");
     _home = locale.then((le) => _loadText()).then((home) {
       return home;
     });
@@ -147,13 +150,15 @@ class Model {
     int titleEnd = text.indexOf("\n");
     String title = text.substring(0, titleEnd).trim();
     String fullText = text.substring(titleEnd, text.length).trim();
+    print("_getQuestionAnswer $title");
     return QuestionAnswer(title: title, fullText: fullText);
   }
 
   Section _getSection(
       String title, String fullText, String image, String id, int level) {
+    print("_getSection $title");
     fullText = fullText.trim();
-    String description;
+    String description = "";
     if (!fullText.startsWith('¿')) {
       int descriptionLength = fullText.indexOf("¿");
       if (descriptionLength == -1) {
@@ -168,12 +173,8 @@ class Model {
 
     List<QuestionAnswer> sections = fullText
         .split(new RegExp(r"^¿", multiLine: true))
-        .map<QuestionAnswer>((section) {
-          if (section.isEmpty) {
-            return null;
-          }
-          return _getQuestionAnswer(section);
-        })
+        .where((section) => section.isNotEmpty)
+        .map<QuestionAnswer>((section) => _getQuestionAnswer(section))
         .where((section) => section != null)
         .toList();
 
@@ -181,7 +182,7 @@ class Model {
         id: id,
         title: title,
         description: description,
-        image: getIconUsingPrefix(name: image),
+        image: getIconUsingPrefix(name: image)!,
         qas: sections);
 
     return section;
@@ -192,11 +193,12 @@ class Model {
     String header = text.substring(0, headerEnd).trim();
     String fullText = text.substring(headerEnd, text.length).trim();
     RegExp exp = new RegExp(r"^\[(.*)\:(.*)\]\s*(.*)");
-    RegExpMatch match = exp.firstMatch(header);
+    RegExpMatch match = exp.firstMatch(header)!;
 
-    String title = match.group(3);
-    String image = match.group(2);
-    String id = match.group(1);
+    print("_parsePage $header $match");
+    String title = match.group(3)!;
+    String image = match.group(2)!;
+    String id = match.group(1)!;
 
     int childLevel = level + 1;
     String childRegex = "^" + "#" * childLevel + " ";
@@ -210,21 +212,19 @@ class Model {
 
   Chapter _getChapter(
       String title, String fullText, String image, String id, int level) {
+    print("_getChapter $title");
     String regex = "^" + "\\#" * level + " ";
     List<PageItem> pages = fullText
         .split(new RegExp(regex, multiLine: true))
+        .where((text) => text.isNotEmpty)
         .map<PageItem>((text) {
-          if (text.isEmpty) {
-            return null;
-          }
-          PageItem child = _parsePage(text, level);
-          if (child == null) {
-            print("CHILD IS NULL");
-          }
-          return child;
-        })
-        .where((page) => page != null)
-        .toList();
+      PageItem? child = _parsePage(text, level);
+      if (child == null) {
+        print("CHILD IS NULL");
+      }
+      return child;
+    }).toList();
+    print("_getChapter end $id $title $image");
     return Chapter(
         id: id,
         title: title,
@@ -243,13 +243,18 @@ class Model {
     }
     return rootBundle.load("assets/txt-${textLocale.value}.md").then((bytes) {
       String newText = utf8.decode(bytes.buffer.asUint8List());
+      print("newText: $newText");
       try {
         Chapter chapter =
             _getChapter("convida", newText, "convida", "convida", 1);
         return chapter;
       } catch (e) {
         print("failed to load text: $e");
-        return null;
+        return Chapter(
+            id: "",
+            pages: [],
+            title: "no text found",
+            image: getIconUsingPrefix(name: "home"));
       }
     });
   }
