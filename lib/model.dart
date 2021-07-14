@@ -217,13 +217,8 @@ class Model {
     List<PageItem> pages = fullText
         .split(new RegExp(regex, multiLine: true))
         .where((text) => text.isNotEmpty)
-        .map<PageItem>((text) {
-      PageItem? child = _parsePage(text, level);
-      if (child == null) {
-        print("CHILD IS NULL");
-      }
-      return child;
-    }).toList();
+        .map<PageItem>((text) => _parsePage(text, level))
+        .toList();
     print("_getChapter end $id $title $image");
     return Chapter(
         id: id,

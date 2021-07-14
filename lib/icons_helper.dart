@@ -27,7 +27,7 @@ IconData? getIconUsingPrefix({required String name}) {
     icon = getMaterialIcon(name: name)!;
   }
   print("icon for $name: $icon");
-  return icon!;
+  return icon;
 }
 
 // Returns an icon named in name favoring Font Awesome
