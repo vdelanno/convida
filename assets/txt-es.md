@@ -9,14 +9,21 @@ Los científicos indican que el virus de la COVID-19 tiene origen animal, probab
 No. La sugerencia de que el virus fue creado en un laboratorio ha sido desmentida y descatada.En el caso de que el virus de la COVID-19 hubiera sido creado en un laboratorio, sus genes fueran secuencias (partes) conocidas, lo cual no es así.
 
 ¿Qué quiere decir que el virus de la COVID-19 ha mutado? 
-Los virus cambian o mutan originando nuevas “variantes”, unos más y otros menos. Estas mutaciones podrían ocasionar cambios en la transmisión y gravedad de la enfermedad. 
+Los virus cambian o mutan originando nuevas “variantes”, unos virus cambian más y otros menos. Estas mutaciones podrían ocasionar cambios en la transmisión y gravedad de la enfermedad. 
 El virus de la COVID-19 está cambiando muy lentamente, a comparación de otros virus como el de VIH o influenza. Algunas variantes podrían afectar a personas ya vacunadas contra la COVID-19 o infectadas anteriormente, disminuyendo la efectividad de las vacunas y aumentando el riesgo de reinfecciones.
+
+¿Cuántas variantes del virus de la COVID-19 hay?
+Hasta la fecha, se han identificado 7 variantes del virus de la COVID-19, como la variante Alfa, Beta, Gamma, Delta, Épsilon, Iota o Kappa.
+
+¿Es la variante Delta más contagiosa?
+Sí. El riesgo de transmisión de la variante Delta es más alto.
+
 
 # [transmission:share] TRANSMISIÓN 
 El virus de la COVID-19 se transmite mediante las gotas pequeñísimas que una persona enferma bota cuando respira, habla, canta, estornuda o tose. Estas gotas invisibles pueden alcanzar dos metros de distancia, ingresando por los ojos, la nariz y la boca de las personas que estén cerca.
 
 ¿El virus de la COVID-19 se puede transmitir al tocar cosas?
-Sí. ES probable que una persona pueda contagiarse si toca superficies o cosas contaminadas (mesas, manijas de la puerta o pasamanos que una persona enferma haya tocada o estornudado/tosido encima) y luego se toca los ojos, la nariz o la boca sin antes haberse lavado las manos.
+Sí. Es posible que una persona pueda contagiarse si toca superficies o cosas contaminadas (mesas, manijas de la puerta o pasamanos que una persona enferma haya tocada o estornudado/tosido encima) y luego se toca los ojos, la nariz o la boca sin antes haberse lavado las manos.
 
 ¿Dónde se transmite el virus de la COVID-19 más fácilmente?
 La transmisión del virus de la COVID-19 se da con mayor facilidad donde hay personas juntas, quienes no mantienen 2 metros de distancia por tiempo prolongado. En sitios cerrados y con poca ventilación el contagio es muy alto.
@@ -25,8 +32,11 @@ La transmisión del virus de la COVID-19 se da con mayor facilidad donde hay per
 Si estoy infectado(a), el riesgo de transmitir el virus de la COVID-19 a otras personas es mayor antes del inicio de síntomas (2 días previos a la aparición de molestias). Si enfermo gravemente puedo contagiar por mayor tiempo.
 
 ¿Los asintomáticos transmiten el virus de la COVID?
-Sí. Los asintomáticos (personas infectadas con el virus de la COVID-19 que en ningún momento presentan síntomas, aparentemente sanos), presintomáticoas (personas infectadas que todavía no han presentado síntomas) y sintomáticos (personas infectadas que presentan síntomas) pueden transmitir el virus de la COVID-19.
- 
+Sí. Los asintomáticos (personas infectadas con el virus de la COVID-19 que en ningún momento presentan síntomas, aparentemente sanos) pueden transmitir el virus de la COVID-19.
+
+¿Los presintomáticos transmiten el virus de la COVID?
+Sí. Los presintomáticos (personas infectadas que todavía no han presentado síntomas) pueden transmitir el virus de la COVID-19.
+
 ¿Infectarse del virus de la COVID-19 quiere decir que lo tendrá de por vida?
 No. La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan el virus. Algunas podrían tener secuelas, pero eso no significa que la persona recuperada siga con el viru en su cuerpo.
 
@@ -86,8 +96,11 @@ La vacunación es esencial para proteger la salud y el bienestar de las personas
 ¿Cómo funcionan las vacunas? 
 Las vacunas entrenan o enseñan a nuestro cuerpo cómo reconocer y defenderse del virus o bacteria determinado, disminuyendo el riesgo de que la enfermedad se produzca o se agrave.
 
+¿Las vacunas pueden causar autismo?
+No. Las vacunas, como la vacuna de la papera-sarampión-rubeola (MMR), no causan autismo.
+
 ¿Hay alguna vacuna para prevenir la COVID-19? 
-Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 7 (Pfizer, Covishield, AstraZeneca, Janssen, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
+Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 6 (Pfizer, AstraZeneca/Oxford, Johnson, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
 
 ¿Pueden las vacunas COVID-19 detener la pandemia?
 La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
@@ -99,10 +112,10 @@ La vacunación es una de las medidas más importante para detener la pandemia de
 - Vacunas de vectores virales: se usan otros virus modificado y se les agrega genes del virus de la COVID-19, al ingresar a nuestro cuerpo se produce parte del virus (proteína) que es reconocido como extraño y luego eliminado.
 
 ¿Debo de seguir las medidas preventivas después de ser vacunado(a)?
-Sí. Para ayudar a detener esta pandemia, debe de seguir con las medidas preventivas como el distanciamiento, cubrirse al toser o estornudar, lavarse las manos, abrir las ventanas y uso de mascarilla.
+Sí. Para ayudar a detener esta pandemia, debemos de seguir con las medidas preventivas como mantener el distanciamiento físico, cubrirnos al toser o estornudar, lavarnos las manos, evitar lugares cerrados y usar de mascarilla.
 
 ¿Pueden las vacunas COVID-19 proteger contra las nuevas variantes?
-Todavía no se sabe con exactitud. Si la protección disminuye contra las nuevas variantes, será posible crear nuevas vacunas para estas variantes.
+Sí. La protección de las vacunas COVID-19 puede disminuir contra las nuevas variantes que están circulando, como la variante Delta. Sin embargo, las vacunas COVID-19 siguen siendo efectivas.
 
 ¿La protección de la vacuna COVID-19 sería para toda la vida?
 Todavía no se sabe. Se necesitan más estudios para poder saber por cuanto tiempo sería la protección de la vacuna contra el virus de la COVID-19.
@@ -111,28 +124,49 @@ Todavía no se sabe. Se necesitan más estudios para poder saber por cuanto tiem
 Sí. Las vacunas son seguras y efectivas. La Organización Mundial de la Salud monitorea continuamente que las vacunas COVID-19 sean seguras para todas las personas.
 
 ¿Qué efectos adversos podría ocasionar la vacuna COVID-19?
-Dolor e hinchazón del brazo donde fue vacunado, fiebre, escalofríos, cansancio, dolor de cabeza. Se han registrado muy pocos casos de reacciones serias.
+Dolor e hinchazón del brazo donde fue vacunado, fiebre, escalofríos, cansancio, dolor de cabeza. Se han registrado muy pocos casos de reacciones serias. Debe de acudir a su médico(a) si estas molestias duran más de dos días.
+
+¿Pueden las vacunas COVID-19 ocasionar coágulos en la sangre?
+Raramente. Se han dado casos rarísimos en donde las vacunas AstraZeneca (4 a 6 personas por cada millón de vacunados) y Johnson (28 personas por más de 8 millones vacunados) ocasionaron coágulos en sangre 3 a 30 días después de su aplicación.
+
+¿Pueden las vacunas COVID-19 ocasionar inflamación del corazón o de su envoltura (miocarditis o pericarditis)?
+Raramente. Se han registrado casos muy raros de miocarditis o pericarditis después de la segunda dosis de las vacunas ARN mensajero.
+
+¿Las vacunas pueden ocasionar reacciones alérgicas?
+En muy raros casos. Una reacción alérgica severa, como la anafilaxia, puede ser ocasionada por cualquier vacuna. Después de la aplicación de la vacuna, se le pide a la persona vacunada que se quede en observación de algún efecto adverso, especialmente en personas que previamente han tenido un caso de reacción alérgica.
 
 ¿Tener efectos adversos quiere decir que la vacuna está funcionando?
-No. La presencia de efectos adversos no significa que nuestro cuerpo está produciendo defensas. No es necesario tener efectos adversos después de la vacuna para estar protegidos.
+No. La presencia de efectos adversos no quiere decir que nuestro cuerpo está produciendo defensas, cada persona reacciona diferente a la vacuna. No es necesario tener efectos adversos después de la vacuna para estar protegidos.
 
 ¿Puedo ser vacunado(a) si tuve COVID-19?
-Sí. Una persona que tuvo COVID-19 puede ser vacunada. Hasta ahora no se sabe cuánto tiempo puede durar las defensas después de enfermar de la COVID-19.
+Sí. Una persona que tuvo COVID-19 puede ser vacunada. Las vacunas nos protegen de enfermar gravemente y morir de COVID-19.
+
+¿Cuánto tiempo debo de esperar para ser vacunado si tengo COVID-19?
+Tan pronto se recupere de los síntomas de la COVID-19.
 
 ¿Cuántas dosis de la vacuna COVID-19 son necesarias?
-Dos dosis. La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces. Por otro lado, hay vacunas igual de efectivas de una sola dosis.
+La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces. Sin embargo, hay vacunas igual de efectivas de una sola dosis.
 
 ¿Puedo recibir la segunda dosis de una vacuna diferente que la primera dosis?
 Todavía no se sabe. Se están haciendo estudios para saber si la segunda dosis puede ser de otro tipo de vacuna que la usada en la primera dosis.
 
 ¿Cuánto tiempo después de ser vacunado mi cuerpo desarrolla protección contra la COVID-19?
-Dos semanas después de la última dosis (2 o 1 dosis, dependiendo del tipo de vacuna usada).
+Dos a tres semanas después de la última dosis (2 o 1 dosis, dependiendo del tipo de vacuna usada).
+
+¿Es necesario una tercera dosis de la vacuna COVID-19?
+No, en la mayoría de los casos. En los EEUU se está aplicando una tercera dosis de la vacuna ARN mensajero (Pfizer o Moderna) solo a las personas quienes tienen sus defensas muy bajas (moderada o severamente inmunocomprometidos). Debe de quedar claro que esta tercera dosis no es una dosis de refuerzo.
+
+¿Es necesario una dosis de refuerzo de la vacuna COVID-19?
+No. Hasta la fecha, no hay evidencia suficiente que demuestre la necesidad de una dosis de refuerzo de la vacuna COVID-19.
 
 ¿Puedo contraer y transmitir el virus de la COVID-19 después de ser vacunado(a)?
-Es poco probable. Sin embargo, todavía no se sabe con exactitud si una persona vacunada puede infectarse y transmitir el virus de la COVID-19.
+Es poco probable. El riesgo de que una persona vacunada pueda infectarse y transmitir el virus es muy bajo, ya que la cantidad de virus y periodo de transmisión es mucho menor que el de una persona no vacunada.
 
 ¿Puedo enfermar de la COVID-19 después de ser vacunado(a)?
-Es muy poco probable. Una persona vacunada podría tener COVID-19, pero no enfermar de la COVID-19 severa. Ninguna vacuna es 100% efectiva.
+Es muy poco probable. La protección que brinda las vacunas de enfermar gravemente y morir de COVID es mayor que la de infectarnos y transmitir el virus de la COVID-19. Ninguna vacuna es 100% efectiva.
+
+¿Puedo recibir la vacuna contra el virus de la COVID-19 si estoy con mi período ?
+Sí. Una mujer puede ser vacunada en cualquier momento de su ciclo menstrual,  incluso cuando esté en su período.
 
 ¿Las vacunas contra la neumonía previenen o protegen contra el virus de la COVID-19? 
 No. Las vacunas contra la neumonía como la vacuna del neumococo y la del Haemophilus influenzae tipo B (Hib), no protegen contra el virus de COVID-19. El virus de COVID-19 tiene su propia vacuna.
@@ -274,7 +308,7 @@ No. Al usar guantes uno puede transferir gérmenes de un lugar a otro y contamin
 No. Al frotarnos las manos alcohol gel, las desinfectamos de cualquier germen que haya podido estar en la botella o dispensador de alcohol gel.
 
 ¿Son las vacunas contra el virus de la COVID-19 un “programa de exterminio masivo”? 
-No. Las vacunas no son un programa de exterminio masivo o una estrategia para implantar chips. Las vacunas son seguras, esto se ha comprobado y se viene haciendo con todas las vacunas.
+No. Las vacunas no son un programa de exterminio masivo o una estrategia para implantar chips. Las vacunas son seguras, esto se ha comprobado y se viene haciendo con todas las vacunas. Las vacunas ARN mensajero no contienen el virus vivo ni alteran el ADN humano.
 
 ¿Si me vacunan contra la COVID-19 puedo quedar infértil?
 No. Las vacunas no producen infertilidad o esterilidad. Hay mucha información falsa sobre las vacunas que genera desconfianza y miedo en la población, haciendo que las personas no quieran vacunarse. Esto causa un gran daño a la medida preventiva más efectiva, que es la vacunación.
@@ -360,7 +394,7 @@ Sí. Especialmente las mujeres embarazadas de edad mayor, con sobrepeso, hiperte
 No se ha encontrado el virus de la COVID-19 activo en el líquido que rodea al bebé en el vientre materno.Al parecer  esta forma de transmisión es rara, pero posible.
 
 ¿Una mujer embarazada puede ser vacunada?
-Sí. Una mujer embarazada puede y debe de ser vacunada, mucho más si está en riesgo de infectarse del virus de la COVID-19.
+Sí. A pesar que la información recolectada de mujeres embarazadas es limitada, se recomienda que las gestantes sean vacunadas debido al alto riesgo de enfermar gravemente de la COVID-19.
 
 ¿Se debe adelantar el parto en una embarazada que tuvo COVID-19?
 No. La mujer embarazada que tuvo COVID-19 y se recuperó tiene las mismas indicaciones de parto que si no hubiera tenido COVID-19.
@@ -371,8 +405,9 @@ No. La cesárea solo debe de ser indicada cuando sea en beneficio del bebé o la
 ¿Una mamá con COVID-19 puede dar de lactar a su bebé?
 Sí. Una mamá que tiene COVID-19 debe de usar mascarilla y lavarse las manos antes de dar de lactar a su bebé. La leche materna es el mejor alimento para el bebé. No se ha encontrado el virus de COVID-19 en la leche materna.
 
-¿Puede ser vacunada una mujer que da de lactar? 
-Sí. Una mujer que da de lactar puede ser vacunada. Las vacunas contra la COVID-19 no contienen el virus vivo, por lo que no representa riesgo para el bebé.
+¿Una mamá vacunada puede seguir dando de lactar a su bebé?
+Sí. Se recomienda que una mamá continúe amamantando a su bebé después ser vacunada.
+
 
 ## [children:child] Niños 
 La cantidad de hospitalizaciones e ingresos al área de cuidados intensivos (UCI) es menor en niños que en adultos. Al parecer, la COVID-19 es menos severa en niños.
@@ -413,7 +448,7 @@ Sí. La persona con cáncer o quien esté recibiendo tratamiento para el cáncer
 Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamiento antirretroviral (TARGA) son similares que en las personas que no tienen VIH.
 
 ¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de la COVID-19?
-Aunque todavía no está muy claro. Es probable que las personas con VIH podrían estar en mayor riesgo de desarrollar la COVID-19 severa.
+Al parecer, las personas con VIH podrían estar en mayor riesgo de desarrollar la COVID-19 severa.
 
 ¿Las personas con VIH pueden ser vacunadas?
 Sí. Se recomienda que las personas con VIH sean vacunadas contra el virus de la COVID-19, sea cual sea su recuento de linfocitos CD4 o carga viral. Las vacunas son seguras ya que no contienen el virus vivo.
@@ -507,7 +542,7 @@ No. Solo los exámenes de laboratorio pueden diagnosticar o descartar COVID-19. 
 Así como los síntomas de la COVID-19 varían de persona a persona, el tratamiento también varía. Los casos graves necesitan oxígeno y otros medicamentos de acuerdo a cómo evolucione la enfermedad. El tratamiento oportuno puede evitar posibles complicaciones y hasta la muerte.
 
 ¿Una persona que ha estado con tratamiento previo y tiene COVID-19, debe de suspender o dejar su tratamiento?
-No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina) antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides (dexametasona, prednisona), AINES (ibuprofeno, naproxeno) por cualquier otra enfermedad debe de continuar con su tratamiento tenga o no COVID-19.
+No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina) antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides (dexametasona, prednisona), AINES (ibuprofeno, naproxeno), antiácidos (famotidina) por cualquier otra enfermedad debe de continuar con su tratamiento tenga o no COVID-19.
 Esta persona debe de acudir a su médico(a), ya que puede estar en mayor riesgo de desarrollar la COVID-19 severa.
 
 ¿Se puede usar Remdesivir como tratamiento en todos los pacientes con COVID-19?
