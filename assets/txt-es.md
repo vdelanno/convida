@@ -100,7 +100,7 @@ Las vacunas entrenan o enseñan a nuestro cuerpo cómo reconocer y defenderse de
 No. Las vacunas, como la vacuna de la papera-sarampión-rubeola (MMR), no causan autismo.
 
 ¿Hay alguna vacuna para prevenir la COVID-19? 
-Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 6 (Pfizer, AstraZeneca/Oxford, Johnson, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
+Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 7 (Pfizer/BioNtech, AstraZeneca/AZD1222, SII/Covishield, Janssen/AD26.COV 2S, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
 
 ¿Pueden las vacunas COVID-19 detener la pandemia?
 La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
