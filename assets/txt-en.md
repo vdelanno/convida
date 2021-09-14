@@ -12,6 +12,12 @@ No. The stem that the virus was created in a laboratory was discouraged. If COVI
 Viruses change or mutate developing new “variants”, some more so than others. These mutations could change the transmissibility and severity of the disease. 
 The COVID-19 virus changes rather slowly compared to influenza virus or HIV. Some variants can affect vaccinated people or who had COVID-19 before, decreasing vaccines effectivity and increasing the reinfection risk.
 
+¿How many COVID-19 virus variants are there?
+To date, there have been listed 7 variants of the COVID-19 virus, such as the Alpha, Beta, Gamma, Delta, Epsilon, Iota or Kappa variants.
+
+¿Is the Delta variant more contagious?
+Yes. The risk of transmission of the Delta variant is higher.
+
 
 # [transmission:share] TRANSMISSION 
 COVID-19 virus is transmitted through little drops expelled when an infected person breathes, speaks, sings, sneezes or coughs. These invisible drops could be spread around 6 feet (2 meters) and get caught through the eyes, nose, and or mouth of others close to the infected person.
@@ -26,7 +32,11 @@ The COVID-19 virus is easily transmitted where there are many people together, w
 The risk of spreading the COVID-19 virus is higher before the onset of the symptoms, 2 previous days. If I have severe COVID-19 I could transmit the coronavirus for longer period.
 
 ¿Could asymptomatic people transmit the COVID-19 virus?
-Yes. Asymptomatics (infected people who do not develop symptoms in any moment, they appear healthy), presymtomatics (infected people who do not have symptoms yet) and symptomatics (infected people who have symptoms) could transmit the COVID-19 virus.
+Yes. Asymptomatics (infected people who do not develop symptoms in any moment, they appear healthy) could transmit the COVID-19 virus.
+
+¿Could presymptomatic people transmit the COVID-19 virus?
+Yes. Presymtomatics (infected people who do not have symptoms yet) could transmit the COVID-19 virus.
+
 
 ¿Does getting infected with the COVID-19 virus mean that I will have the virus in my body forever?
 No. Most of the people infected by  COVID-19 virus recover and eliminate the virus. Some people could continue having symptoms months later but it does not mean that they have the virus in their bodies.
@@ -38,7 +48,7 @@ It is unlikely that the COVID-19 could be spread by shoes. Shoes could be left a
 No. To date there isn’t any evidence showing that houseflies could spread the COVID-19 virus.
 
 ¿May 5G mobile networks transmit the COVID-19 virus?
-No. Viruses cannot be spread  through radio waves or mobile networks. Viruses need a cell to stay alive. Places where there isn’t any 5G mobile network, have COVID-19 cases.
+No. Viruses cannot be spread through radio waves or mobile networks. Viruses need a cell to stay alive. Places where there isn’t any 5G mobile network, have COVID-19 cases.
 
 ¿Could the COVID-19 virus be transmitted by mosquito bites?
 No. To date, there isn’t any research showing that mosquito bites could spread the COVID-19 virus.
@@ -88,8 +98,11 @@ Vaccination is essential to protect people’s health, as this aids the developm
 ¿How do vaccines work?
 Vaccines train our body how to recognize and defend itself against viruses and bacteria, reducing the risk of the disease occurring.
 
+¿Can vaccines cause autism?
+No. Vaccines, such as the measles-mumps-rubella (MMR), do not cause autism.
+
 ¿Is there any vaccine to prevent COVID-19?	
-Yes. There are at least 13 different vaccines being using in many countries. Of them, 7 (Pfizer, Covishield, AstraZeneca, Janssen, Moderna, Sinopharm y Sinovac) are in the list of emergency use of the World Health Organization.
+Yes. There are at least 13 different vaccines being using in many countries. Of them, 7 (Pfizer/BioNtech Comirnaty, AstraZeneca/AZD1222, SII/Covishield, Janssen/AD26.COV 2S, Moderna, Sinopharm y Sinovac) are in the list of emergency use of the World Health Organization.
 
 ¿Can COVID-19 vaccines stop the pandemic?
 COVID-19 vaccines are one of the biggest measures to stop the pandemic. However, ending of the pandemic of many factors, as new variants and how many people are vaccinated.
@@ -97,14 +110,14 @@ COVID-19 vaccines are one of the biggest measures to stop the pandemic. However,
 ¿What types of COVID-19 vaccines are and how do they work?
 -	Inactivated vaccines: have inactivated or weakened COVID-19 viruses that enable our bodies to produce antibodies without getting sick.
 -	Protein-based vaccines: have parts of the COVID-19 virus (proteins) that don’t cause the illness but make our body recognize them as foreign and enables our bodies to learn how to eliminate future infections.
--	RNA and DNA vaccines: have genes of the COVID-19 virus, these genes give indications to our body to produce an unique part (protein) of the virus that is harmless, our body can recognize and defend itself against the coronavirus. After this protein is produced, our body eliminate these genes.
+-	RNA and DNA vaccines: have genes of the COVID-19 virus, these genes give indications to our body to produce a unique part (protein) of the virus that is harmless, our body can recognize and defend itself against the coronavirus. After this protein is produced, our body eliminate these genes.
 -	Viral vector vaccines: have genes of the COVID-19 virus that are added to other weakened viruses. Our body produces a part of the virus (protein) that is recognized as foreign and then is removed.
 
-¿Should I keep following the preventive measures after be vaccinated?
-Yes. To help to stop this pandemic, after being vaccinated we should keep practising the preventive measures, such as physical distance, covering nose and mouth when coughing or sneezing, handwashing, open windows and wear mask.
+¿Should I keep following the preventive measures after being vaccinated?
+Yes. To help to stop this pandemic, after being vaccinated we should keep practising the preventive measures, such as physical distance, covering nose and mouth when coughing or sneezing, handwashing, avoid closed places and wear mask.
 
 ¿Can vaccines protect us of the new COVID-19 virus variants?
-We do not know it yet. In the case that vaccines cannot protect us from the new variants, it will be possible to create new vaccines for these variants.
+Yes. COVID-19 vaccine protection could decrease against new variants, such as the Delta variant. However, COVID-19 vaccines are still effective.
 
 ¿Does the protection of the COVID-19 vaccine last forever?
 It is unknown yet. More research is needed to clarify how long the protection of the COVID-19 vaccines could last.
@@ -113,28 +126,49 @@ It is unknown yet. More research is needed to clarify how long the protection of
 Yes. Vaccines are safe and effective. The World Health Organization continuously evaluate COVID-19vaccine safety.
 
 ¿What adverse effects could the COVID-19 vaccine cause?
-Pain and swelling of the arm where the vaccine was shot, fever, chills, tiredness, and headache. There have been very little of serious adverse effects.
+Pain and swelling of the arm where the vaccine was shot, fever, chills, tiredness, and headache. There have been very few causing serious adverse effects. You should see your doctor if these complaints last more than 2 days.
+
+¿Could COVID-19 vaccines cause clots in blood?
+Rarely. There have been rare cases where AstraZeneca vaccines (4 or 6 persons per each million of vaccinated people) and Johnson (28 persons per more than 8 millions of vaccinated people) caused clots in blood 3 to 30 days after vaccination.
+
+¿Could COVID-19 vaccines cause inflammation of the heart or its covering (myocarditis or pericarditis)?
+Rarely. There have been rare cases of myocarditis or pericarditis after the second shot of mRNA.
+
+¿Can vaccines cause allergic reactions?
+Rarely. A severe allergic reaction, such as anaphylaxis, could be caused by any vaccine. After a vaccine shot, people are asked to stay in observation of any adverse effect, specially people who have previously had an allergic reaction.
 
 ¿Does having adverse effects mean the vaccine is working?
 No. Having adverse effects do not mean our body is producing defenses. There is no need to have adverse effects after vaccination to be protected.
 
 ¿Can I be vaccinated if I had COVID-19?
-Yes. Someone who had COVID-19 can be vaccinated. To date, it is unknown how long the defenses remain after having COVID-19.
+Yes. Someone who had COVID-19 can be vaccinated. Vaccines protect us from having a severe COVID-19 and die.
+
+¿How long should I wait to get vaccinated if I have COVID-19?
+As soon as you recover from COVID-19 symptoms.
 
 ¿How many vaccine doses are needed?
-Two jabs. Most of the COVID-19 vaccines consist of 2 jabs. However, there are one dose vaccines as effective as the 2 doses ones. 
+Most of the COVID-19 vaccines consist of 2 jabs. However, there are one dose vaccines as effective as the 2 doses ones. 
 
 ¿Can I have the second jab from another different vaccine?
 It is unknown yet. Currently, there are being researched if the second jab could be from a different vaccine than the one used in the first jab.
 
-¿How long take to my body to develop protection after been vaccinated?
-Two weeks after being completed vaccinated (2 o 1 doses, it depends on the type of vaccine used).
+¿How long does it take for my body to develop protection after being vaccinated?
+Two to three weeks after being completed vaccinated (2 o 1 doses, it depends on the type of vaccine used).
 
-¿Can I get infected and transmit the COVID-19 virus after been vaccinated?
-It is very unlikely. However, it is unknown if someone vaccinated could get infected and transmit the COVID-19 virus.
+¿Is a third dose of COVID-19 vaccine needed?
+No, mostly. In the USA a third dose of mRNA vaccine (Pfizer or Moderna) is recommended only to people with very low defenses (moderately or severely immunocompromised). It must be clear that this third dose is not a booster dose.
 
-¿Could I have COVID-19 after been vaccinated?
-It is really unlikely. Someone vaccinated may have COVID-19, but no the severe one. There isn't any vaccine 100% effective.
+¿Is a booster dose of COVID-19 vaccine needed?
+No. To date, there is not enough evidence that a booster dose of COVID-19 vaccine is needed.
+
+¿Can I get infected and transmit the COVID-19 virus after being vaccinated?
+It is very unlikely. The risk of a fully vaccinated person could get infected and transmit the COVID-19 virus is really low, because the virus load and transmission period is lesser than an unvaccinated one. 
+
+¿Could I have COVID-19 after being vaccinated?
+It is really unlikely. Vaccine protection for severe COVID-19 and death is higher than the protection for infection and transmission. There isn’t any vaccine 100% effective.
+
+¿Can I get vaccinated if I have my period?
+Yes. A woman can get vaccinated in any moment of her period, even in her menses.
 
 ¿Do pneumonia vaccines prevent or protect against COVID-19?
 No. Pneumonia vaccines such as pneumococcal and Haemophilus influenzae type B (Hib) do not protect against the COVID-19 virus. COVID-19 needs its own vaccine. However, it is recommended to get these vaccines to prevent other forms of pneumonia.
@@ -266,7 +300,7 @@ No. We can transfer germs from one place to another when wearing gloves and get 
 No. After rubbing our hands with alcohol gel, our hands are disinfected of any germ that would have been in the public hand sanitizer bottle.
 
 ¿Are COVID-19 vaccines part of a “program for mass extermination”?
-No. Vaccines are not a program for mass extermination or a strategic to implant chips. Vaccines are safe, it has been confirmed by conclusive research.
+No. Vaccines are not a program for mass extermination or a strategy to implant chips. Vaccines are safe, it has been confirmed by conclusive research. mRNA vaccines do not have the live COVID-19 virus and do not interfere with the human DNA.
 
 ¿Could COVID-19 vaccines produce infertility?
 No. Vaccines do not produce infertility. There is too much fake news about vaccines that cause fear and distrust in people so they don’t want to get vaccinated. Fake news is quite harmful and limits the most effective preventive measure, vaccination.
@@ -297,7 +331,7 @@ The most known symptoms are:
 -	Loss of smell
 -	Loss of taste
 -	Sore throat
--	Stomachache(abdominal pain)
+-	Stomachache (abdominal pain)
 -	Lack of appetite
 -	Nausea and vomiting
 -	Tiredness or fatigue
@@ -348,7 +382,7 @@ Yes. Specially pregnant women who are older or are overweight, or have hypertens
 It is really unlikely. It hasn’t been found the COVID-19 virus in the fluid surrounding the baby in the womb.
 
 ¿Can a pregnant woman be vaccinated against the COVID-19 virus?
-Yes. Every pregnant woman must be vaccinated against the COVID-19 virus, even more so if she is at risk of getting infected.
+Yes. Despite the limited data about pregnant women and COVID-19 vaccines, it is recommended that pregnant women get vaccinated due to the high risk of developing severe COVID-19. 
 
 ¿Should delivery of a pregnant woman who had COVID-19 be induced earlier?
 No. A pregnant woman who has recovered from COVID-19 should have the same delivery schedule as someone who did not have COVID-19.
@@ -359,8 +393,8 @@ No. The delivery by cesarean section should only be done for the benefit of the 
 ¿Could a mother with COVID-19 breastfeed her baby?
 Yes. Breastmilk is the best food for the baby. If a mother has COVID-19, she should wash her hands carefully and wear a mask before breastfeeding. To date, the COVID-19 virus has not been found in the breastmilk.
 
-¿Can a mother who is breastfeeding her baby be vaccinated?
-Yes. A woman who breastfeed her baby must be vaccinated. COVID-19 vaccines don’t have a live virus, so there isn’t any risk for the baby.
+¿Could a vaccinated mother breastfeed her baby?
+Yes. It is recommended that a mother who gets vaccinated continue breastfeeding her baby.
 
 ## [children:child] Children
 The amount of hospitalizations and admissions to the intensive care unit is lower in children than in adults. Apparently, COVID-19 could be less severe in children.
@@ -400,7 +434,7 @@ Yes. People with cancer or who have cancer treatment can be vaccinated. Any COVI
 A person living with HIV on regular antiretroviral treatment can develop similar COVID-19 symptoms as a person without HIV.
 
 ¿Do people living with HIV have a higher risk of developing severe COVID-19?
-It isn’t clear yet. It is likely that people living with HIV could be at a higher risk of being infected or developing severe COVID-19.
+It seems that people living with HIV could be at a higher risk of being developing severe COVID-19.
 
 ¿Can people living with HIV be vaccinated?
 Yes. It is recommended that people living with HIV be vaccinated against the COVID-19 virus, regardless of their CD4 count of viral load. Vaccines are safe because they don’t have a live virus.
