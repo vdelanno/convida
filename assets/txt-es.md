@@ -100,7 +100,7 @@ Las vacunas entrenan o enseñan a nuestro cuerpo cómo reconocer y defenderse de
 No. Las vacunas, como la vacuna de la papera-sarampión-rubeola (MMR), no causan autismo.
 
 ¿Hay alguna vacuna para prevenir la COVID-19? 
-Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 7 (Pfizer/BioNtech, AstraZeneca/AZD1222, SII/Covishield, Janssen/AD26.COV 2S, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
+Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 7 (Pfizer/BioNtech Comirnaty, AstraZeneca/AZD1222, SII/Covishield, Janssen/AD26.COV 2S, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
 
 ¿Pueden las vacunas COVID-19 detener la pandemia?
 La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
@@ -154,10 +154,15 @@ Todavía no se sabe. Se están haciendo estudios para saber si la segunda dosis 
 Dos a tres semanas después de la última dosis (2 o 1 dosis, dependiendo del tipo de vacuna usada).
 
 ¿Es necesario una tercera dosis de la vacuna COVID-19?
-No, en la mayoría de los casos. En los EEUU se está aplicando una tercera dosis de la vacuna ARN mensajero (Pfizer o Moderna) solo a las personas quienes tienen sus defensas muy bajas (moderada o severamente inmunocomprometidos). Debe de quedar claro que esta tercera dosis no es una dosis de refuerzo.
+No, en la mayoría de los casos. En los EEUU se está aplicando una tercera dosis de la vacuna ARN mensajero (Pfizer o Moderna) después de 4 semanas de la segunda dosis, solo a las personas cuyas defensas están muy bajas (moderada o severamente inmunocomprometidos). Debe de quedar claro que esta tercera dosis no es una dosis de refuerzo.
 
 ¿Es necesario una dosis de refuerzo de la vacuna COVID-19?
-No. Hasta la fecha, no hay evidencia suficiente que demuestre la necesidad de una dosis de refuerzo de la vacuna COVID-19.
+Hasta la fecha, no hay evidencia suficiente que demuestre la necesidad de una dosis de refuerzo de la vacuna COVID-19.
+
+Sin embargo, el 22 de septiembre en los EEUU la FDA dio la autorización de emergencia a una dosis de refuerzo de la vacuna Pfizer (Comirnaty). Esta única dosis será aplicada como mínimo 6 meses después de haber completado las primeras dosis de las vacunas COVID-19, a:
+-	Personas 65 años de edad a más
+-	Personas de 18 a 64 años de edad con alto riesgo de enfermar gravemente de la COVID-19
+-	Personas de 18 a 64 años de edad quienes debido a su ocupación o trabajo están en alto riesgo de infectarse del virus de la COVID-19, como personal de salud.
 
 ¿Puedo contraer y transmitir el virus de la COVID-19 después de ser vacunado(a)?
 Es poco probable. El riesgo de que una persona vacunada pueda infectarse y transmitir el virus es muy bajo, ya que la cantidad de virus y periodo de transmisión es mucho menor que el de una persona no vacunada.
