@@ -160,8 +160,8 @@ No, en la mayoría de los casos. En los EEUU se está aplicando una tercera dosi
 Hasta la fecha, no hay evidencia suficiente que demuestre la necesidad de una dosis de refuerzo de la vacuna COVID-19.
 
 Sin embargo, el 22 de septiembre en los EEUU la FDA dio la autorización de emergencia a una dosis de refuerzo de la vacuna Pfizer (Comirnaty). Esta única dosis será aplicada como mínimo 6 meses después de haber completado las primeras dosis de las vacunas COVID-19, a:
--	Personas 65 años de edad a más
--	Personas de 18 a 64 años de edad con alto riesgo de enfermar gravemente de la COVID-19
+-	Personas de 65 años de edad a más.
+-	Personas de 18 a 64 años de edad con alto riesgo de enfermar gravemente de la COVID-19.
 -	Personas de 18 a 64 años de edad quienes debido a su ocupación o trabajo están en alto riesgo de infectarse del virus de la COVID-19, como personal de salud.
 
 ¿Puedo contraer y transmitir el virus de la COVID-19 después de ser vacunado(a)?
