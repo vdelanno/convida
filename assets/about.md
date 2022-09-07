@@ -58,9 +58,11 @@
 
 **authors**: Carolina Martínez-Dávalos, Vincent Delannoy
 
-**special thanks**: Prisma. https://www.prisma.org.pe/en/
+**special thanks**: 
+- Prisma. https://www.prisma.org.pe/en/
 
 ![Prisma](https://www.prisma.org.pe/wp-content/uploads/logo-prisma-2017.png)
+- Kevin Chamberland for the English translation
 
 **code**: https://github.com/vdelanno/convida
 
