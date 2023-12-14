@@ -1,484 +1,396 @@
 # [origin:virus] ORIGEN
-¿Qué es la COVID-19?
-Es una enfermedad nueva causada por el virus SARS-CoV-2, descubierta a finales del 2019. COVID-19 quiere decir “enfermedad del coronavirus 2019” por sus siglas en inglés (COronaVIrus Disease 2019).
 
-¿Cuál es el origen del virus de la COVID-19?
-Los científicos indican que el virus de la COVID-19 tiene origen animal, probablemente el murciélago.
+Aquí la historia de Jackie, quien superó la tuberculosis
+https://youtu.be/jnMkeEXhlQU
 
-¿El virus de la COVID-19 fue creado en un laboratorio?
-No. La sugerencia de que el virus fue creado en un laboratorio ha sido desmentida y descatada.En el caso de que el virus de la COVID-19 hubiera sido creado en un laboratorio, sus genes fueran secuencias (partes) conocidas, lo cual no es así.
+¿La tuberculosis sigue existiendo?
+Sí, y sigue siendo un problema.
 
-¿Qué quiere decir que el virus de la COVID-19 ha mutado? 
-Los virus cambian o mutan originando nuevas “variantes”, unos virus cambian más y otros menos. Estas mutaciones podrían ocasionar cambios en la transmisión y gravedad de la enfermedad. 
-El virus de la COVID-19 está cambiando muy lentamente, a comparación de otros virus como el de VIH o influenza. Algunas variantes podrían afectar a personas ya vacunadas contra la COVID-19 o infectadas anteriormente, disminuyendo la efectividad de las vacunas y aumentando el riesgo de reinfecciones.
+¿Qué es la tuberculosis?
+Es una enfermedad causada por la bacteria Mycobacterium tuberculosis, también llamado bacilo de Koch, esta bacteria fue descubierta por Robert koch el 24 de marzo de 1882.
 
-¿Cuántas variantes del virus de la COVID-19 hay?
-Hasta la fecha, se han identificado 7 variantes del virus de la COVID-19, como la variante Alfa, Beta, Gamma, Delta, Épsilon, Iota o Kappa.
+¿A qué parte del cuerpo puede atacar la tuberculosis?
+La tuberculosis afecta frecuentemente a los pulmones, que es cuando se le llama tuberculosis pulmonar. También puede afectar a otras partes de nuestro cuerpo como riñones, columna o cerebro, conocida como tuberculosis extra-pulmonar.
 
-¿Es la variante Delta más contagiosa?
-Sí. El riesgo de transmisión de la variante Delta es más alto.
+¿Desde cuándo existe la tuberculosis?
+Se cree que el Mycobacterium tuberculosis ha existido desde hace más de 3 millones de años.
+
+¿Con qué otros nombres se le conoció a la tuberculosis? 
+La tuberculosis fue conocida como “phthisis” o “tisis” por los griegos, “tabes” por los romanos y “Schachepheth” por los hebreos. También fue llamada como “plaga blanca” debido a la palidez que tenían los que enfermaban de tuberculosis, “consunción” y “Capitán de todos los hombres de la muerte”.
+
+¿La tuberculosis puede causar la muerte?
+Sí. La tuberculosis es la segunda causa de muerte por enfermedad infecciosa, después de la COVID-19.7
 
 
 # [transmission:share] TRANSMISIÓN 
-El virus de la COVID-19 se transmite mediante las gotas pequeñísimas que una persona enferma bota cuando respira, habla, canta, estornuda o tose. Estas gotas invisibles pueden alcanzar dos metros de distancia, ingresando por los ojos, la nariz y la boca de las personas que estén cerca.
+La tuberculosis se transmite de persona a persona mediante el aire. Cuando una persona enferma de tuberculosis pulmonar o de garganta tose, estornuda, grita, canta o escupe, bota la bacteria al aire, esta bacteria es inhalada por las personas que se encuentran cerca, infectándolas.
+La bacteria se instala en los pulmones, de donde puede migrar por la sangre a otras partes del cuerpo.
+La tuberculosis en otras partes del cuerpo como riñones o columna vertebral (extrapulmonar) no se transmite de persona a persona.
 
-¿El virus de la COVID-19 se puede transmitir al tocar cosas?
-Sí. Es posible que una persona pueda contagiarse si toca superficies o cosas contaminadas (mesas, manijas de la puerta o pasamanos que una persona enferma haya tocada o estornudado/tosido encima) y luego se toca los ojos, la nariz o la boca sin antes haberse lavado las manos.
+¿Dónde es más fácil que se transmite la tuberculosis?
+La bacteria de la tuberculosis se transmite con mayor facilidad donde hay muchas personas juntas (hacinamiento), la bacteria puede permanecer viva en el aire por algunas horas. En sitios cerrados y con poca ventilación el contagio es muy alto. 
+El aire fresco dispersa las bacterias y la luz solar las mata.
 
-¿Dónde se transmite el virus de la COVID-19 más fácilmente?
-La transmisión del virus de la COVID-19 se da con mayor facilidad donde hay personas juntas, quienes no mantienen 2 metros de distancia por tiempo prolongado. En sitios cerrados y con poca ventilación el contagio es muy alto.
+Si me infecto de la tuberculosis, ¿estoy enfermo?
+No. Si inhalamos la bacteria de la tuberculosis, nuestro cuerpo es capaz de defenderse y detener el crecimiento de la bacteria, en la mayoría de los casos. La bacteria se vuelve inactiva, pero no muere (está latente), y puede volverse activa después. 
+No todas las personas con la infección de la tuberculosis enferman.
 
-¿Por cuánto tiempo puedo transmitir el virus de la COVID-19?
-Si estoy infectado(a), el riesgo de transmitir el virus de la COVID-19 a otras personas es mayor antes del inicio de síntomas (2 días previos a la aparición de molestias). Si enfermo gravemente puedo contagiar por mayor tiempo.
+¿Qué es tuberculosis latente?
+La tuberculosis latente es cuando estamos infectados por la bacteria de la tuberculosis, pero no enfermamos. No tenemos síntomas y no podemos transmitir la enfermedad. 
+Sólo hay una pequeña cantidad de bacterias en nuestro cuerpo, las bacterias están vivas pero inactivas, como si estuvieran durmiendo. Sin embargo, podemos desarrollar la enfermedad en el futuro.
 
-¿Los asintomáticos transmiten el virus de la COVID?
-Sí. Los asintomáticos (personas infectadas con el virus de la COVID-19 que en ningún momento presentan síntomas, aparentemente sanos) pueden transmitir el virus de la COVID-19.
+¿Qué es tuberculosis activa?
+Si estamos infectados por la tuberculosis y enfermamos (tenemos síntomas). 
+Podemos desarrollar la enfermedad tan pronto habernos infectado, antes que nuestro cuerpo se pueda defender. O podemos enfermar después, cuando nuestras defensas bajen. De tener tuberculosis latente pasamos a tener tuberculosis activa.
 
-¿Los presintomáticos transmiten el virus de la COVID?
-Sí. Los presintomáticos (personas infectadas que todavía no han presentado síntomas) pueden transmitir el virus de la COVID-19.
+Si tengo tuberculosis latente, ¿puedo contagiar a los demás?
+No. Las personas con tuberculosis latente no pueden transmitir la enfermedad.8 Sólo las personas con tuberculosis activa (las que tienen síntomas) pueden transmitir la tuberculosis a otros.
 
-¿Infectarse del virus de la COVID-19 quiere decir que lo tendrá de por vida?
-No. La mayoría de personas que se infectan de COVID-19 se recuperan y eliminan el virus. Algunas podrían tener secuelas, pero eso no significa que la persona recuperada siga con el viru en su cuerpo.
+¿Qué debo de hacer si estoy enfermo de la tuberculosis y he estado en contacto cercano con amigos y familia?
+Es necesario saber si las personas con las que ha estado en contacto, familia y amigos, están infectadas con la bacteria de la tuberculosis. Estas personas deben de hacerse la prueba en el centro o posta de salud,3 esta prueba es gratis.
 
-¿Los zapatos pueden esparcir el virus?
-Es muy poco probable que el virus se pueda esparcir por medio de los zapatos. Como prevención se podría dejar los zapatos en la entrada de la casa en donde viven niños que gatean y juegan en el piso.
+¿Por cuánto tiempo puedo transmitir la tuberculosis si ya comencé con mi tratamiento?
+Después de 2 o 3 semanas de haber iniciado el tratamiento contra la tuberculosis es probable que ya no pueda transmitir la bacteria de la tuberculosis a los demás. Su médico le indicará cuando.
 
-¿Las moscas transmiten COVID-19? 
-No. Hasta la fecha no se ha demostrado que las moscas transmitan el virus de la COVID-19.
+¿Infectarme de la bacteria de la tuberculosis quiere decir que lo tendré de por vida?
+Sí, pero eso no quiere decir que estará enfermo de por vida. A este estado se le conoce como tuberculosis latente, cuando está infectado, pero no enfermo.
 
-¿Las redes o antenas de los teléfonos celulares 5G transmiten el virus de COVID-19?
-No. Los virus no se pueden transmitir a través de las ondas de radio o redes de los teléfonos celulares. Los virus necesitan de un ser vivo para sobrevivir. En lugares que no tienen redes de celulares 5G hay personas con COVID-19.
 
-¿El virus de COVID-19 se trasmite mediante la picadura de mosquitos?
-No se ha demostrado que los mosquitos puedan transmitir el virus de la COVID-19.
-
-¿El virus de COVID-19 se trasmite mediante la sangre o sus derivados (plasma) hemoderivados (sangre)?
-No se ha evidenciado que el virus de la COVID-19 se pueda transmitir por medio de la sangre.
-
-¿El virus de COVID-19 se puede transmitir en lugares con climas calientes y húmedos?
-Sí. El virus de la COVID-19 se puede transmitir en cualquier lugar sin importar el clima; sea soleado, frío, húmedo, seco o caluroso. En países con climas calurosos hay personas con COVID-19.
-
-¿El virus de COVID-19 se puede transmitir mediante el agua?
-No.  El virus de la COVID-19 no se puede transmitir a través del agua cuando nadamos en el mar o piscina. Es importante permanecer por lo menos a 1 metro de distancia de los demás, y utilizar mascarilla cuando no estemos en el agua.
-
-# [prevention:block] PREVENCIÓN: Vacunas 
+# [prevention:block] PREVENCIÓN
 
 ## [drugs:pills] Medidas Preventivas
-Las medidas preventivas disminuyen el riesgo de infección del virus de la COVID-19. Además de usar mascarilla, tapaboca o cubreboca; debemos de cumplir con las siguientes recomendaciones:
-- Evitar los lugares con mucha gente. 
-- Lavado de manos con agua y jabón por 20 segundos como mínimo, aun si las manos no se ven sucias. Si no hay agua, debemos usar alcohol gel 
-- Mantener 2 metros de distancia de los demás. Así evitaremos contagiarnos o transmitir el virus en el caso estemos enfermos. 
-- Si tosemos o estornudamos, debemos de cubrirnos nuestra boca y nariz con papel toalla o papel higiénico, botar el papel sucio a la basura y, por último, lavarnos las manos. 
-- No tocarnos los ojos, nariz y boca sin antes lavarnos las manos.
-- Abrir las ventanas para que la casa u oficina esté ventilada.
-- Recibir la vacuna contra la COVID-19.
+La medida preventiva más importante para disminuir el riesgo de infección de la bacteria de la tuberculosis es:
+Ventilar los lugares cerrados como buses, casa u oficina. Abrir las ventanas, especialmente en lugares con mucha gente. La tuberculosis se propaga en sitios cerrados donde el aire no circula. 
+La ventilación natural reduce la propagación de la Tuberculosis.
 
-IMPORTANTE: Niños o niñas menores de 2 años no deben usar mascarilla.
+Si tengo tuberculosis, ¿qué puedo hacer para evitar contagiar a los demás?
+-	Es muy importante tomar el tratamiento contra la tuberculosis como se lo indica el personal de salud. 
+-	Cubrirse la boca y nariz al toser o estornudar usando una mascarilla quirúrgica o con papel higiénico, pañuelo desechable, la manga, codo flexionado o mano.
+-	Por las primeras semanas (que es cuando puede contagiar a otros), aislarse. Si es posible, dormir en un dormitorio alejado de los demás miembros de la familia. Evitar visitas en la casa.
+-	No ir a trabajar y/o estudiar.
+-	Ventilar el cuarto frecuentemente abriendo las ventanas. La tuberculosis se propaga donde el aire no se mueve. Si no hace mucho frío, colocar un ventilador en la ventana y así sacar el aire que puede estar contaminado con las bacterias de la tuberculosis. Con esto, disminuirá el riesgo de que alguien se infecte cuando esté dentro del cuarto.
+  
+¿Existe algún medicamento para prevenir la enfermedad de la tuberculosis?
+Sí. Si estuvo o está en contacto cercano con una persona con tuberculosis es muy probable que se haya infectado (tuberculosis latente), por lo que debe de tomar tratamiento preventivo para evitar que la bacteria se active y desarrollar la enfermedad de la tuberculosis.
 
-¿Existe algún medicamento para prevenir la COVID-19?
-Hasta la fecha no hay medicamento que pueda prevenir la COVID-19.
-
-¿Cómo debemos de usar el alcohol gel?
-Debemos de aplicar regular cantidad en la palma la mano para cubrir toda la superficie de ambas manos. Frotar las manos hasta que estén secas, aproximadamente por 20 o 30 segundos.
-
-¿Cuándo usar mascarilla (tapaboca o cubreboca)?
-Debemos de usar mascarilla si:
-- Estamos fuera de casa en donde no es posible mantener una distancia de 2 metros de los demás y en donde la ventilación sea poca o insuficiente, como en transporte público, mercados, vía pública.
-- Estamos dentro del hogar y llega una visita u otra persona que no viva en la misma casa, además de mantener una distancia física de 2 metros.
-
-¿Qué alimentos fortalecen las defensas de nuestro cuerpo?
-Se recomienda el consumo de cereales integrales, legumbres (menestras), verduras, frutas frescas, frutos secos y alimentos de origen animal en una dieta saludable y balanceada. No hay alimento que pueda prevenir la COVID-19.
+¿Cuál es el tratamiento preventivo de la tuberculosis (latente)?
+Hay varias opciones de tratamiento preventivo, como:
+	Seis o nueve meses de isoniazida (6H/9H)
+-	Tres meses de isoniazida y rifapentina una vez a la semana (3HP)
+-	Cuatro meses de rifampicina diario (4R)
+-	Tres meses de isoniazida más rifampicina diario (3HR)2
+Si toma isoniazida, debe tomar suplementos de vitamina B6.
 
 ## [vaccine:syringe] Vacunas
-Las vacunas son seguras y salvan 3 millones de vidas cada año. Hay vacunas para prevenir por lo menos 20 enfermedades.
-La vacunación es esencial para proteger la salud y el bienestar de las personas, contribuyendo al desarrollo y la economía de cada país.
+¿Hay alguna vacuna contra la tuberculosis? 
+Sí, la BCG, que se le aplica a los recién nacidos y niños.
 
-¿Cómo funcionan las vacunas? 
-Las vacunas entrenan o enseñan a nuestro cuerpo cómo reconocer y defenderse del virus o bacteria determinado, disminuyendo el riesgo de que la enfermedad se produzca o se agrave.
+Si recibí la BCG, ¿estoy protegido contra todos los tipos de tuberculosis?
+No. La vacuna de la BCG no protege contra todos los tipos de tuberculosis.
 
-¿Las vacunas pueden causar autismo?
-No. Las vacunas, como la vacuna de la papera-sarampión-rubeola (MMR), no causan autismo.
+¿De qué protege la vacuna de la BCG?
+La BCG sólo protege de las formas graves y potencialmente mortales de la tuberculosis extrapulmonar, como la meningitis tuberculosa y la tuberculosis diseminada (miliar) de la infancia.
 
-¿Hay alguna vacuna para prevenir la COVID-19? 
-Sí. Hay al menos 13 diferentes vacunas que se están usando en muchos países. De las cuales, 7 (Pfizer/BioNtech Comirnaty, AstraZeneca/AZD1222, SII/Covishield, Janssen/AD26.COV 2S, Moderna, Sinopharm y Sinovac) están en la lista  de uso de emergencia de la Organización Mundial de la Salud.
-
-¿Pueden las vacunas COVID-19 detener la pandemia?
-La vacunación es una de las medidas más importante para detener la pandemia de la COVID-19. Sin embargo, acabar con la pandemia depende de varios factores, como las nuevas variantes y la cantidad de personas vacunadas.
-
-¿Qué tipos de vacunas para el virus de la COVID-19 hay y cómo funcionan?
-- Vacunas de virus inactivados: se usan virus de la COVID-19 inactivados, haciendo que nuestro cuerpo produzca defensas sin que se enferme.
-- Vacunas basadas en proteínas: se usan partes del virus (proteínas) de la COVID-19 que no causan la enfermedad pero que hace que nuestro cuerpo reconozca estas partes como extrañas, y aprenda cómo defenderse de futuras infecciones.
-- Vacunas de ARN y ADN: se usan genes del virus de la COVID-19, estos genes dan indicaciones a nuestro cuerpo de crear una parte (proteína) única del virus que no produce la enfermedad pero que ayuda a que nuestro cuerpo reconozca al virus y se defienda de futuras infecciones. Después de crear esta proteína, nuestro cuerpo elimina estos genes.
-- Vacunas de vectores virales: se usan otros virus modificado y se les agrega genes del virus de la COVID-19, al ingresar a nuestro cuerpo se produce parte del virus (proteína) que es reconocido como extraño y luego eliminado.
-
-¿Debo de seguir las medidas preventivas después de ser vacunado(a)?
-Sí. Para ayudar a detener esta pandemia, debemos de seguir con las medidas preventivas como mantener el distanciamiento físico, cubrirnos al toser o estornudar, lavarnos las manos, evitar lugares cerrados y usar de mascarilla.
-
-¿Pueden las vacunas COVID-19 proteger contra las nuevas variantes?
-Sí. La protección de las vacunas COVID-19 puede disminuir contra las nuevas variantes que están circulando, como la variante Delta. Sin embargo, las vacunas COVID-19 siguen siendo efectivas.
-
-¿La protección de la vacuna COVID-19 sería para toda la vida?
-Todavía no se sabe. Se necesitan más estudios para poder saber por cuanto tiempo sería la protección de la vacuna contra el virus de la COVID-19.
-
-¿Son seguras las vacunas contra el virus de la COVID-19?
-Sí. Las vacunas son seguras y efectivas. La Organización Mundial de la Salud monitorea continuamente que las vacunas COVID-19 sean seguras para todas las personas.
-
-¿Qué efectos adversos podría ocasionar la vacuna COVID-19?
-Dolor e hinchazón del brazo donde fue vacunado, fiebre, escalofríos, cansancio, dolor de cabeza. Se han registrado muy pocos casos de reacciones serias. Debe de acudir a su médico(a) si estas molestias duran más de dos días.
-
-¿Pueden las vacunas COVID-19 ocasionar coágulos en la sangre?
-Raramente. Se han dado casos rarísimos en donde las vacunas AstraZeneca (4 a 6 personas por cada millón de vacunados) y Johnson (28 personas por más de 8 millones vacunados) ocasionaron coágulos en sangre 3 a 30 días después de su aplicación.
-
-¿Pueden las vacunas COVID-19 ocasionar inflamación del corazón o de su envoltura (miocarditis o pericarditis)?
-Raramente. Se han registrado casos muy raros de miocarditis o pericarditis después de la segunda dosis de las vacunas ARN mensajero.
-
-¿Las vacunas pueden ocasionar reacciones alérgicas?
-En muy raros casos. Una reacción alérgica severa, como la anafilaxia, puede ser ocasionada por cualquier vacuna. Después de la aplicación de la vacuna, se le pide a la persona vacunada que se quede en observación de algún efecto adverso, especialmente en personas que previamente han tenido un caso de reacción alérgica.
-
-¿Tener efectos adversos quiere decir que la vacuna está funcionando?
-No. La presencia de efectos adversos no quiere decir que nuestro cuerpo está produciendo defensas, cada persona reacciona diferente a la vacuna. No es necesario tener efectos adversos después de la vacuna para estar protegidos.
-
-¿Puedo ser vacunado(a) si tuve COVID-19?
-Sí. Una persona que tuvo COVID-19 puede ser vacunada. Las vacunas nos protegen de enfermar gravemente y morir de COVID-19.
-
-¿Cuánto tiempo debo de esperar para ser vacunado si tengo COVID-19?
-Tan pronto se recupere de los síntomas de la COVID-19.
-
-¿Cuántas dosis de la vacuna COVID-19 son necesarias?
-La mayoría de las vacunas contra el virus de la COVID-19 se deben de aplicar dos veces. Sin embargo, hay vacunas igual de efectivas de una sola dosis.
-
-¿Puedo recibir la segunda dosis de una vacuna diferente que la primera dosis?
-Todavía no se sabe. Se están haciendo estudios para saber si la segunda dosis puede ser de otro tipo de vacuna que la usada en la primera dosis.
-
-¿Cuánto tiempo después de ser vacunado mi cuerpo desarrolla protección contra la COVID-19?
-Dos a tres semanas después de la última dosis (2 o 1 dosis, dependiendo del tipo de vacuna usada).
-
-¿Es necesario una tercera dosis de la vacuna COVID-19?
-No, en la mayoría de los casos. En los EEUU se está aplicando una tercera dosis de la vacuna ARN mensajero (Pfizer o Moderna) después de 4 semanas de la segunda dosis, solo a las personas cuyas defensas están muy bajas (moderada o severamente inmunocomprometidos). Debe de quedar claro que esta tercera dosis no es una dosis de refuerzo.
-
-¿Es necesario una dosis de refuerzo de la vacuna COVID-19?
-Hasta la fecha, no hay evidencia suficiente que demuestre la necesidad de una dosis de refuerzo de la vacuna COVID-19.
-
-Sin embargo, el 22 de septiembre en los EEUU la FDA dio la autorización de emergencia a una dosis de refuerzo de la vacuna Pfizer (Comirnaty). Esta única dosis será aplicada como mínimo 6 meses después de haber completado las primeras dosis de las vacunas COVID-19, a:
--	Personas de 65 años de edad a más.
--	Personas de 18 a 64 años de edad con alto riesgo de enfermar gravemente de la COVID-19.
--	Personas de 18 a 64 años de edad quienes debido a su ocupación o trabajo están en alto riesgo de infectarse del virus de la COVID-19, como personal de salud.
-
-¿Puedo contraer y transmitir el virus de la COVID-19 después de ser vacunado(a)?
-Es poco probable. El riesgo de que una persona vacunada pueda infectarse y transmitir el virus es muy bajo, ya que la cantidad de virus y periodo de transmisión es mucho menor que el de una persona no vacunada.
-
-¿Puedo enfermar de la COVID-19 después de ser vacunado(a)?
-Es muy poco probable. La protección que brinda las vacunas de enfermar gravemente y morir de COVID es mayor que la de infectarnos y transmitir el virus de la COVID-19. Ninguna vacuna es 100% efectiva.
-
-¿Puedo recibir la vacuna contra el virus de la COVID-19 si estoy con mi período ?
-Sí. Una mujer puede ser vacunada en cualquier momento de su ciclo menstrual,  incluso cuando esté en su período.
-
-¿Las vacunas contra la neumonía previenen o protegen contra el virus de la COVID-19? 
-No. Las vacunas contra la neumonía como la vacuna del neumococo y la del Haemophilus influenzae tipo B (Hib), no protegen contra el virus de COVID-19. El virus de COVID-19 tiene su propia vacuna.
-
-¿La vacuna de la Influenza previene la COVID-19?
-No. El virus de la Influenza es un virus diferente al de la COVID-19, a pesar que los síntomas sean parecidos.1 Sin embargo, se recomienda que las personas que se hayan recuperado de COVID-19 sean vacunadas de la Influenza.
+¿Hay una mejor vacuna para prevenir la tuberculosis?
+No, todavía. Pero hay varias vacunas contra la tuberculosis que están en estudio.
 
 
 ## [masks:headSideMask] Uso de mascarilla (tapaboca o cubreboca)
 
-¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla, tapaboca o cubreboca?
-- Lavarnos las manos antes de colocarnos la mascarilla.
-- Asegurarnos que la mascarilla cubra boca y nariz, ajustar al hueso de la nariz, y sujetarla disminuyendo los espacios entre la cara y la mascarilla (para evitar estos espacios, no cruce las orejeras de la mascarilla)
-- Evitemos tocar la mascarilla mientas la tengamos puesta.
-- No colocarnos la mascarilla en el cuello, el mentón, el brazo o la muñeca.
-- Para retirar la mascarilla, desatemos o desajustemos la mascarilla por detrás sin tocar la parte externa.
-- No quitarnos la mascarilla al hablar.
-- Lavarnos las manos después de tocar o retirar la mascarilla.
-- Si la mascarilla se humedece o ensucia, cambiémosla por una mascarilla nueva y seca.
-- Debemos de cambiar de mascarilla todos los días, como mínimo.
-- No reutilicemos las mascarillas desechables, cambiémosla por una nueva después de cada uso.
-- Evitemos usar mascarillas con válvulas de exhalación ya que no pueden filtrar el aire que exhalamos o botamos.
-- No compartir la mascarilla con otros. La mascarilla es personal.
-- Las personas con mayor riesgo de enfermar gravemente de la COVID-19 deben usar mascarillas médicas.
+¿Qué tipo de mascarilla debe usar el personal de salud?
+El personal de salud debe usar un respirador con filtro para evitar inhalar las pequeñas gotas del aire que pueden contener la bacteria de la tuberculosis.
+Es probable que el personal de salud que tenga alguna enfermedad respiratoria, como asma o enfermedad pulmonar obstructiva crónica (EPOC), no pueda usar cierto tipo de mascarilla.
 
-¿Qué pasaría si usamos una mascarilla, tapaboca o cubreboca de forma inadecuada?
-- Podríamos contaminarnos si tocamos la mascarilla y después nos tocamos los ojos, sin antes lavarnos las manos.
-- Nos podríamos contaminar si no cambiamos de mascarilla cuando esté sucia o húmeda.
-- Podríamos tener dificultad para respirar o dolor de cabeza si usamos una mascarilla que no nos quede bien. Es importante elegir una mascarilla con la que podamos respirar con comodidad.
-- Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos incomode.
-- Podría dificultar comunicarnos, mucho más en el caso de personas con problemas de audición. Debemos de hablar despacio, vocalizando lo más claro posible.
-- Es probable que tengamos una sensación de falsa seguridad y dejemos de cumplir con las demás medidas preventivas como lavado de manos y distanciamiento físico.
-- Incremento de basura, sino eliminamos adecuadamente las mascarillas desechables. Esto se podría evitar usando mascarillas de tela.
+¿Qué tipo de mascarilla debe usar una persona con tuberculosis?
+La persona con tuberculosis debe usar una mascarilla quirúrgica, como mínimo, para evitar la eliminación de estas pequeñas gotas con la bacteria de la tuberculosis.
+El uso de mascarilla puede llegar a ser molesto en el caso de personas muy enfermas.
 
-¿Qué beneficios hay si usamos una mascarilla, tapaboca o cubreboca adecuadamente?
-- Si estamos cerca de una persona con COVID-19, con o sin síntomas, al usar mascarilla reducimos el riesgo de contagio.
-- Si estamos enfermos, al usar mascarilla reducimos las posibilidades de transmitir el virus
-- Disminuimos los prejuicios o discriminación a las personas que normalmente deben usar mascarilla por otras enfermedades, como la Tuberculosis.
-- Sentir que podemos contribuir de alguna manera en detener la propagación del virus de la COVID-19.
-- Recordar que también tenemos que cumplir con las demás medidas de prevención como lavado de manos, no tocarnos los ojos/nariz/boca, distanciamiento físico y cubrirnos al toser/estornudar. 
-- Prevenir la transmisión de otras enfermedades como la tuberculosis e influenza.
-- Podría ser una fuente de ingreso extra si hacemos mascarillas de tela y las vendemos. Utilizar mascarillas de tela es más barato y disminuye la cantidad de basura que generan las mascarillas descartables.
-
-¿Cuáles son las recomendaciones para la elaboración y lavado de una mascarilla, tapaboca o cubreboca de tela?
-- La mascarilla de tela debe de cumplir con la función de: 
-  1. filtración (que pueda retener pequeñas gotas), 
-  2. transpirabilidad (que se pueda respirar bien a través de la mascarilla) y 
-  3. ajuste (que sea confortable y no se mueva o caiga sin necesidad de ajustarla mucho).
-- No usar telas elásticas para la fabricación de la mascarilla, ya que no se podrá lavar con agua caliente debido a que la tela se estiraría. 
-- Una mascarilla de tela debe de tener como mínimo 3 capas: 
-  1. La capa interna que está en contacto con la boca y nariz debe poder absorber fluidos, como el algodón o una tela que tenga combinaciones con algodón; 
-  2. La capa intermedia no debe absorber fluidos y así poder retener gotas pequeñas, como el hilado de polipropileno, poliéster y poliaramida; 
-  3. La capa externa expuesta al medio ambiente no debe absorber fluido y prevenir la acumulación de agua, como el hilado de polipropileno, poliéster o sus combinaciones.
-- No se recomiendan las válvulas de exhalación ya que el aire que exhalamos o botamos no se filtra debido a estas válvulas.
-- La mascarilla de tela debe de lavarse al menos una vez al día.
-- No lavar la mascarilla de tela junto con la demás ropa.
-- Verificar en la etiqueta de la mascarilla de tela la temperatura máxima a la que puede ser lavada.
-- Lavar las mascarillas de tela con jabón/detergente y agua caliente (por lo menos a 60°C). Si no hay agua caliente, hervir las mascarillas por 1 minuto luego de lavarlas con jabón o detergente.
-
-¿Podemos usar solo un protector facial?
-No. El protector facial debe de ser usado junto con una mascarilla o tapaboca.
+¿Qué recomendaciones debemos tener en cuenta para el uso adecuado de una mascarilla (tapaboca o cubreboca)?
+-	Lavarnos las manos antes de colocarnos la mascarilla.
+-	Asegurarnos que la mascarilla cubra boca y nariz, ajustar al hueso de la nariz, y sujetarla disminuyendo los espacios entre la cara y la mascarilla (para evitar estos espacios, no cruce las orejeras de la mascarilla)
+-	Evitemos tocar la mascarilla mientras la tengamos puesta.
+-	No colocarnos la mascarilla en el cuello, el mentón, el brazo o la muñeca.
+-	Para retirar la mascarilla, desatemos o desajustemos la mascarilla por detrás sin tocar la parte externa.
+-	No quitarnos la mascarilla al hablar.
+-	Si la mascarilla se humedece o ensucia, cambiémosla por una mascarilla nueva y seca.
+-	Debemos de cambiar de mascarilla todos los días, como mínimo.
+-	No reutilicemos las mascarillas desechables, cambiémosla por una nueva después de cada uso.
+-	Evitemos usar mascarillas con válvulas de exhalación ya que no pueden filtrar el aire que exhalamos o botamos.
+-	No compartir la mascarilla con otros. La mascarilla es personal.
+  
+¿Qué pasaría si usamos una mascarilla (tapaboca o cubreboca) de forma inadecuada?
+-	Podríamos tener dificultad para respirar o dolor de cabeza si usamos una mascarilla que no nos quede bien. Es importante elegir una mascarilla con la que podamos respirar con comodidad.
+-	Si usamos la mascarilla por mucho tiempo, podría causarnos irritación en la piel. Elijamos una mascarilla que no nos incomode.
+-	Podría dificultar comunicarnos, mucho más en el caso de personas con problemas de audición. Debemos de hablar despacio, vocalizando lo más claro posible.
 
 ¿Si uso una mascarilla quirúrgica o médica por mucho tiempo me puedo intoxicar por dióxido de carbono (CO2) o falta de oxígeno?
-No. Usar mascarilla por largo tiempo puede llegar a ser bastante molesto, pero no ocasiona intoxicación por CO2 ni deficiencia de oxígeno. Cuando usemos una mascarilla debemos de asegurarnos que nos quede bien y que podamos respirar de manera normal.
-
-¿Una persona debe usar mascarilla cuando hace ejercicios?
-No. Una persona cuando hace ejercicios no debe usar mascarilla ya que impide respirar cómodamente. Además, la mascarilla se moja con el sudor, dificultando la respiración y ocasionando que crezcan microbios en la mascarilla.
-Se recomienda hacer ejercicios al aire libre, manteniendo una distancia de 2 metros de los demás.
+No. Usar mascarilla por largo tiempo puede llegar a ser muy molesto, pero no ocasiona intoxicación por CO2 ni falta de oxígeno. Cuando usemos una mascarilla debemos de asegurarnos que nos quede bien y que nos permita respirar sin dificultad.
 
 
-## [rumors:users] Rumores 
+## [stigma:users] Estigma o tabú 
 
-Hay rumores o información falsa sobre la COVID-19 que pueden ser muy peligrosos. Las personas que siguen estos consejos se sienten protegidas y dejan de cumplir con las medidas más efectivas para prevenir la COVID-19.
+El estigma o tabú sobre la tuberculosis puede causar aún más daño que la propia enfermedad. Cuando se está enfermo, es de suma importancia el apoyo de nuestro entorno, y, cuando esto falla, puede fallar también el cumplimiento del tratamiento.
+La tuberculosis continúa siendo un tabú, tanto la persona con tuberculosis como su familia se sienten discriminadas.
 
-¿Fumigar la casa u oficina previene la COVID-19? 
-No. Fumigar un lugar cerrado como casa, oficina o puesto de salud puede dañar la salud de las personas. 
-Para desinfectar un sitio cerrado, primero se debe quitar la suciedad limpiando con agua y detergente y, después, aplicar el desinfectante con un trapo o tela para que el desinfectante pueda cubrir toda la superficie.
+¿Cómo afecta el estigma?
+Algunas personas prefieren no acudir al centro de salud para su seguimiento o atención médica para evitar el estigma.
 
-¿Fumigar las calles previene la COVID-19?
-No. Fumigar lugares abiertos como calles, veredas, mercados no mata el virus de la COVID-19. Los desinfectantes dejan de funcionar con la suciedad. La fumigación con desinfectantes no cubre todas las superficies para eliminar el virus.
+¿Qué contribuye al estigma de la tuberculosis?
+Se han visto los siguientes factores que contribuyen al estigma:
+-	Estereotipos, como relacionar a la tuberculosis con el hambre y pobreza
+-	Creer que la tuberculosis es una enfermedad peligrosa e incurable, “peor que el cáncer”
+-	Creencias sobre la transmisión de la tuberculosis, como que es genética.
+-	Falta de información sobre la tuberculosis tanto en la población como personal de salud.
+  
+¿Es posible infectarse de la tuberculosis tocando la ropa de una persona con tuberculosis?
+No.
 
-¿Fumigar o pulverizar a las personas con desinfectantes previene la COVID-19?
-No. Fumigar o pulverizar a las personas no reduce el riesgo de transmisión del virus de la COVID-19. Por otro lado, estas sustancias pueden causar dificultad para respirar, vómitos, e irritación en piel y ojos.
+¿Es posible infectarse de la tuberculosis al estrecharle o darle la mano a una persona con tuberculosis?
+No.
 
-¿Introducir o inyectar lejía a las personas previene la COVID-19?
-No. Introducir lejía en el cuerpo es dañino e incluso mortal. El uso de la lejía y otros desinfectantes son únicamente para desinfectar objetos como sillas, pasamanos de escaleras, pisos, paredes, manijas de puertas.
+¿Es posible infectarse de la tuberculosis al compartir la bebida o comida de una persona con tuberculosis?
+No.
 
-¿El dióxido de cloro (ClO2) puede curar o prevenir la COVID-19?
-No. El dióxido de cloro, que se usa en las plantas de tratamiento de agua, es peligroso y puede causar hasta la muerte.
+¿Es posible infectarse de la tuberculosis al compartir los platos y cubiertos de una persona con tuberculosis?
+No.
 
-¿Tomar alcohol, metanol, etanol o lejía previene o cura la COVID-19?
-No. El metanol, el etanol (alcohol para desinfectar), y la lejía son tóxicos. Solo se usan para desinfectar superficies y objetos, pero nunca deben de ser ingeridos ya que pueden ocasionar la muerte.
+¿Es posible infectarse de la tuberculosis al sentarse en el baño de una persona con tuberculosis?
+No.
 
-¿Tomar bebidas alcohólicas como el cañazo previenen la COVID-19?
-No. Tomar bebidas alcohólicas no previenen la COVID-19.
-
-¿Las vaporizaciones de eucalipto previenen la COVID-19?
-No se ha probado que el eucalipto pueda matar virus o bacterias.
-
-¿Enjuagarse la nariz o boca con agua con sal previene la COVID-19?
-No. Enjuagarse la nariz o boca podría mejorar los síntomas o molestias del resfrío, pero no previene ni mata el virus de la COVID-19.
-
-¿Los climas fríos y con nieve matan el virus de la COVID-19?
-No. Los climas fríos no matan el coronavirus. La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C sin importar ni el clima ni la temperatura externa.
-
-¿Los climas calurosos matan el virus de la COVID-19?
-No. Los climas calurosos no matan el coronavirus. La transmisión del virus puede aumentar en climas fríos debido a que las personas pasan más tiempo en lugares cerrados o poco ventilados con las ventanas cerradas.
-
-¿Las lámparas ultra-violeta (UV) pueden desinfectar las manos u otras partes del cuerpo?
-No. Las lámparas ultra-violeta no pueden desinfectar ninguna parte del cuerpo. La radiación UV puede irritar y dañar la piel y ojos.
-
-¿Los secamanos eléctricos pueden matar al virus de la COVID-19?
-No. Los secamanos eléctricos no matan el coronavirus. Para protegerse del coronavirus, primero debe de lavarse las manos con agua y jabón, y después secarse con una toalla, papel toalla o secamanos.
-
-¿Tomar un baño de tina con agua caliente previene la COVID-19?
-No. Los baños con agua caliente no previenen la COVID-19. La temperatura del cuerpo se mantiene entre los 36.5°C y 37°C, a pesar de que estemos en un ambiente caliente. Bañarse con agua muy caliente puede causar quemaduras.
-
-¿Exponerse al sol o a temperaturas mayores a 25°C protege de la COVID-19?
-No. Exponerse al sol no previene ni cura la COVID-19.9
-¿Comer ají o echarle ají a la comida previene o cura la COVID-19?
-No. El ají o el rocoto pueden mejorar el sabor de las comidas, pero no previene ni cura la COVID-19.
-
-¿Comer ajo o kion (jengibre) previene la COVID-19?
-No. El ajo y el kion (jengibre) son alimentos saludables que le dan un sabor especial a las comidas, pero no se ha demostrado que pueda prevenir la COVID-19.
-
-¿El alcohol gel produce resistencia a los antibióticos?
-No. El alcohol puede ser usado frecuentemente sin producir resistencia a bacteria o virus alguno.
-
-¿Es seguro usar alcohol gel?
-Sí. Todos podemos usar alcohol gel. Es muy poco el alcohol absorbido por la piel y el gel previene que las manos se resequen.
-
-¿Se puede usar alcohol gel en religiones que prohíben el alcohol?
-Sí. Las sagradas escrituras permiten usar cualquier sustancia que ayude a prevenir cualquier enfermedad.
-
-¿Es más seguro usar guantes que lavarse las manos?
-No. Al usar guantes uno puede transferir gérmenes de un lugar a otro y contaminarse al momento de retirarse los guantes. Es más seguro lavarse las manos con agua y jabón frecuentemente.
-
-¿Me puedo infectar si toco o uso un dispensador de alcohol gel público?
-No. Al frotarnos las manos alcohol gel, las desinfectamos de cualquier germen que haya podido estar en la botella o dispensador de alcohol gel.
-
-¿Son las vacunas contra el virus de la COVID-19 un “programa de exterminio masivo”? 
-No. Las vacunas no son un programa de exterminio masivo o una estrategia para implantar chips. Las vacunas son seguras, esto se ha comprobado y se viene haciendo con todas las vacunas. Las vacunas ARN mensajero no contienen el virus vivo ni alteran el ADN humano.
-
-¿Si me vacunan contra la COVID-19 puedo quedar infértil?
-No. Las vacunas no producen infertilidad o esterilidad. Hay mucha información falsa sobre las vacunas que genera desconfianza y miedo en la población, haciendo que las personas no quieran vacunarse. Esto causa un gran daño a la medida preventiva más efectiva, que es la vacunación.
 
 # [symptons:sick] SÍNTOMAS 
 
-Nuestro cuerpo responde de diferente manera al virus de la COVID-19. Algunos no sienten molestias (asintomático), otros pueden presentar síntomas suaves y mientras que otros enfermar gravemente con complicación de pulmones,  corazón, riñones, hígado, vasos sanguíneos y sistema nervioso.
+Los síntomas van a depender de la zona de nuestro cuerpo que es afectada por la tuberculosis. En general, los síntomas de la tuberculosis son:
+-	Pérdida de peso
+-	Falta de apetito
+-	Sudoraciones nocturnas
+-	Fiebre, aumenta especialmente en las noches
+-	Cansancio o fatiga
+-	Escalofríos
 
-¿Cuándo comienzan los síntomas?
-Los síntomas pueden aparecer hasta después de 14 días de que una persona se contagió del virus de la COVID-19.
+¿Cuáles son los síntomas de la tuberculosis pulmonar?
+-	Tos prolongada o persistente
+-	Dolor de pecho
+-	Tos con sangre o flema
 
-¿Es importante hacer cuarentena o aislarse?
-Sí. Es muy importante hacer cuarentena ya que así se evitan contagios y que la enfermedad siga extendiéndose.
+¿Qué otros síntomas pueden causar la enfermedad de la tuberculosis?
+-	Sangre en la orina, si la tuberculosis ataca a los riñones
+-	Dolor de cabeza o confusión en el caso de la tuberculosis meníngea.
+-	Dolor de espalda, si la tuberculosis ataca a la columna vertebral
+-	Ronquera, si la tuberculosis afecta a la garganta.
 
-¿Cuándo una persona debe hacer cuarentena o aislamiento?
-Cuarentena: Si una persona que estuvo en contacto con un enfermo COVID-19 o con sospecha de tenerlo, debe de quedarse durante 14 días en casa y usar una habitación aislada, si es posible. Sin importar el resultado de las pruebas de laboratorio.
 
-Aislamiento: Si una persona está infectada por el virus de la COVID-19 con o sin síntomas, debe de quedarse en casa por lo menos 10 días desde que empezaron las molestias y hasta 3 días después de no tener fiebre o de sentirse mejor.
+# [detection:diagnoses] DIAGNÓSTICO: Pruebas
 
-¿Cuáles son los síntomas COVID-19?
-Los síntomas más comunes son:
-- Fiebre (temperatura mayor de 38°C) o escalofríos. Generalmente las personas mayores no hacen fiebre.
-- Tos
-- Dificultad para respirar (sentir que le falta el aire)
-- Dolor de cuerpo o muscular 
-- Dolor de cabeza
-- Diarrea
-- Mareos
-- Congestión nasal (catarro)
-- Pérdida del olfato (no distingue olores)
-- Pérdida del gusto (no distingue sabores)
-- Dolor de garganta (carraspera)
-- Dolor de abdomen (barriga)
-- Falta de apetito
-- Náuseas y vómitos
-- Cansancio o fatiga
-- Delirios (en las personas mayores)
-- Erupciones cutáneas (ronchas)
+¿Cuándo debo de hacerme la prueba de la tuberculosis?
+Debe de acudir al centro de salud para que le hagan la prueba de la tuberculosis si:
+-	Ha estado con personas que tienen tuberculosis 
+-	Vive o trabaja donde la tuberculosis es muy común, como prisiones, cárceles, asilos de ancianos o refugio para personas sin hogar
+-	Es personal de salud
+-	Es parte de una población que es altamente probable que tenga la infección de la tuberculosis, como las personas con limitado acceso de salud, con ingresos económicos bajos o quienes usan drogas y/o alcohol.
+  
+¿Cuántas tipos de pruebas para la tuberculosis hay?
+Hay dos tipos de pruebas para detectar la infección de la tuberculosis, la de sangre y la cutánea o PPD. Usualmente no es necesario usar ambas pruebas (la de sangre y la cutánea) en una misma persona.
 
-¿Cuándo debo de ir a Emergencias?
-Debe de ir inmediatamente al hospital por emergencias si tiene:
-- Fiebre persistente por más de dos días.
-- Dificultad para respirar
-- Dolor u opresión en el pecho 
-- Desorientación o confusión
-- Dificultad para despertar
-- Cara o labios pálidos o morados/azules
-- Saturación de oxígeno menor a 95% (los dedos deben de estar calientes). La persona con COVID-19 puede no sentir molestias mientras su saturación de oxígeno disminuye.
+¿Cuáles son las pruebas de sangre?
+Las pruebas de sangre sirven para saber si está infectado con la bacteria de la tuberculosis. Hay dos pruebas de sangre aprobadas por la FDA, la QuantiFERON-TB Gold Plus (QFT-Plus) y la T-SPOT.TB test (T-Spot).
+Estas pruebas son recomendables para las personas que recibieron la vacuna de la BCG y las que no puedan acudir a una segunda cita (en el caso de la prueba cutánea).
 
-¿Las personas asintomáticas se pueden enfermar?
-Sí. Se han dado casos en que personas asintomáticas pueden tener neumonía o pulmonía.
+¿Cuál es la prueba del PPD?
+La prueba del PPD (derivado proteico purificado de la tuberculina por sus siglas en inglés) o de la tuberculina consiste en la aplicación de una pequeña cantidad del líquido de la PPD en la parte interna de su antebrazo. 
+Después de 2 o 3 días debe de acudir al centro de salud para que hacer lectura de la prueba.
 
-¿Una persona que tuvo COVID-19 puede continuar con molestias?
-Sí. Algunas personas que tuvieron COVID-19 pueden continuar con molestias como fatiga o cansancio, dificultad para respirar, dolor de pecho, palpitaciones, pérdida del gusto o del olfato, adormecimiento en brazos y piernas por meses. Si las molestias persisten, consulte a su médico(a).
+¿Qué debo hacer si he estado en contacto directo con una persona con tuberculosis y mi PPD es negativo?
+Si su exposición a la bacteria de la tuberculosis ha sido reciente, es probable que su prueba de PPD todavía no sea positiva. Por lo que necesitará una segunda prueba de tuberculina 8 o 10 semanas después de su última exposición.
+
+¿Qué pasa si mi prueba de tuberculina es positiva?
+Si su prueba de PPD o quantiFERON son positivas, el personal de salud le hará otros exámenes como radiografía de tórax y prueba de esputo.
+
+¿Cómo saber si estoy enfermo de tuberculosis?
+La mejor manera para diagnosticar tuberculosis pulmonar es mediante el examen de esputo (o flema). La bacteria de la tuberculosis puede verse con un microscopio. Por lo menos, dos muestras de esputo deben de ser examinadas.
+En el caso que exista una alta sospecha que tenga tuberculosis, pero los resultados de sus exámenes de esputo sean negativos, el centro de salud le indicará una radiografía de tórax.
+
+¿Dónde me pueden hacer la prueba de la tuberculosis?
+En cualquier centro de salud público, el examen es gratis.
+
+
+# [treatment:healing] TRATAMIENTO 
+
+La tuberculosis tiene cura y el tratamiento es totalmente gratuito.
+
+¿Cuánto tiempo dura el tratamiento de la tuberculosis?
+Seis meses como mínimo, pero puede durar más tiempo. Es muy importante tomar todos los medicamentos durante el tiempo recomendado por el personal de salud.
+
+¿Qué pasaría si no termino mi tratamiento y dejo de tomar las pastillas?
+La bacteria de la tuberculosis está todavía viva su cuerpo y se vuelve más fuerte o “resistente” a los medicamentos que estuvo tomando. Por lo que se necesitarán medicamentos más fuertes para matar a esa bacteria “resistente”.
+
+¿Cuándo puedo regresar a estudiar y/o trabajar?
+Mayormente, a los 2 o 3 semanas después de haber iniciado su tratamiento contra la tuberculosis ya deja de contagiar. El personal de salud le indicará cuándo volver al trabajo y/o estudio.
+Tener tuberculosis no es un impedimento para que puede tener una vida normal. Si ya no contagia y no tiene síntomas, puede retomar las cosas que hacía antes de enfermar con tuberculosis.2
+
+Si ya no contagio, ¿quiere decir que estoy curado(a)?
+No. Sólo se curará si termina de tomar su tratamiento como se lo indique en el centro de salud o posta.
+
+¿Qué es DOTS?
+Significa ciclo corto de tratamiento directamente observado, por sus siglas en inglés (directly-observed therapy, short-course). El tratamiento es observado y registrado por el personal de salud. De esta manera se monitorea que la persona con tuberculosis tome el tratamiento regularmente.
+
+¿Qué medicamentos curan la tuberculosis?
+La tuberculosis es usualmente tratada con una combinación de varios antibióticos que matan la bacteria y previene que la bacteria se haga resistente a uno o más antibiótico. Los antibióticos más usados son:
+-	Isoniazida
+-	rifampicina
+-	pirazinamida 
+-	etambutol
+-	estreptomicina
+
+¿Por qué es importante tomar los medicamentos de la tuberculosis regularmente durante todo el tratamiento?
+Porque, si no toma el tratamiento como se lo indican:
+-	Puede ser difícil o imposible de curar la tuberculosis
+-	Estará enferma por más tiempo
+-	Los antibióticos pueden dejar de funcionar y tendrá que tomar otros medicamentos que tengan efectos adversos más fuertes.
+-	Es probable que los nuevos medicamentos no puedan curar la tuberculosis.
+-	Puede contagiar (o volver a contagiar) a los demás por más tiempo.
+
+¿Por qué el tratamiento de la tuberculosis es tan largo?
+Porque la bacteria de la tuberculosis muere lentamente.
+
+¿El tratamiento contra la tuberculosis tiene algún efecto adverso?
+Sí. Todos los medicamentos tienen efectos adversos, y los medicamentos contra la tuberculosis no son la excepción. Sin embargo, la mayoría de pacientes que toman tratamiento contra la tuberculosis no presentan molestias. 
+Si siente alguna molestia, acuda al centro de salud.
+
+¿Cuáles son los efectos adversos del tratamiento de la tuberculosis?	
+Los efectos adversos de los medicamentos de la tuberculosis pueden ser: vómitos, náuseas, pérdida del apetito, dolor de articulaciones (rodillas, muñecas), ronchas, orina, lágrimas, sudor o leche de color roja o anaranjada.
+También pueden presentarse efectos adversos más graves como sordera, mareos, piel amarilla (ictericia), cólicos estomacales, pérdida del apetito, vómitos, cansancio severo, adormecimiento en manos o pies, fiebre, dolor de cabeza o cuerpo, problemas con la visión, presión baja (shock), moretones (púrpura), u orina oscura (del color del café o coca cola). Si presentara alguno de estos síntomas, suspenda su tratamiento y acuda a su médico(a) inmediatemente.
+
+Si he terminado mi tratamiento contra la tuberculosis, ¿me puede volver a enfermar?	 
+Sí, aunque es muy raro. Si nota algún síntoma después de terminar su tratamiento contra la tuberculosis, consulte con su médico(a) lo antes posible.
+
+¿Cómo puedo comer si no tengo apetito?
+Debido a la pérdida de apetito propio de la enfermedad, debe de comer lo que le gusta y quiera comer. Podría comer en platos pequeños de manera frecuente, 6 porciones pequeñas al día en lugar de 3.
+
+¿Voy a recupera mi peso?
+Sí. Usualmente se recupera peso durante el tratamiento.
+
+¿Cuándo debo de tomar mi tratamiento, antes o después de comer?
+Después de comer, de preferencia. Ingerir alimentos antes de tomar los medicamentos contra la tuberculosis ayuda a absorber mejor las pastillas. Algunas personas sienten que las pastillas les afecta menos cuando las toman con las comidas.
+
+¿Cómo debo de tomar las pastillas?
+	Se recomienda tomar todas las pastillas durante 5 o 10 minutos.
+ 
+¿Puedo tomar tratamiento contra la tuberculosis si estoy tomando anticonceptivos?
+Si está tomando algún método anticonceptivo, consulte con su médico.
+
+¿Qué pasa si me olvido de tomar una dosis de mi tratamiento?
+Si se acuerda el mismo día, puede tomarlo tan pronto como lo recuerde. Si se acordó al día siguiente, tome sólo la dosis que le corresponde ese día. No tome dos dosis el mismo día.
+
+¿Puedo tomar alcohol si estoy en tratamiento contra la tuberculosis?
+No. Es importante que no consuma alcohol durante todo el tratamiento de la tuberculosis, ya que el alcohol puede ocasionar complicaciones y efectos adversos.
+Si voy a viajar, ¿cómo podría continuar con mi tratamiento?
+Debe de avisarle al personal de salud para que le puedan entregar las medicinas necesarias hasta que regrese de su viaje, de esta manera no interrumpirá su tratamiento.
 
 # [conditions:accessibility_new] PERSONAS CON CONDICIONES ESPECIALES
 
-## [risky_people:accessibility_new] Personas en Riesgo 
-Las personas con mayor probabilidad de enfermar gravemente de la COVID-19 son las que tienen las siguientes condiciones:
-- Edad mayor o igual a 60 años
-- Hipertensión arterial 
-- Enfermedad cardiovascular (Accidente cerebrovascular o ACV)
-- Diabetes
-- Enfermedad crónica respiratoria (Asma, Bronquitis crónica)
-- Enfermedad crónica hepática
-- Tratamiento inmunosupresor (tratamiento para cáncer o trasplante)
-- Enfermedad renal (Insuficiencia Renal)
-- Obesidad
-- Enfermedad de la sangre (Enfermedad falciforme)
-- Mujeres embarazadas
-- Fumadores de cigarro (cigarrillo)
+## [risky_people:accessibility_new] Personas en Riesgo
 
-¿El virus de COVID-19 afecta más a las personas mayores o a los jóvenes?
-Todas las personas a cualquier edad pueden infectarse del virus de COVID-19.
+Las personas con sus defensas bajas son más susceptibles de tener tuberculosis, incluyendo a los bebés, niños (especialmente menores de 5 años) y personas con:
+-	VIH
+-	Diabetes mellitus
+-	Silicosis
+-	Cáncer de la cabeza o cuello
+-	Leucemia o linfoma de Hodgkin
+-	Enfermedad renal severa
+-	Bajo peso
+-	Algunos tratamientos médicos como tratamiento con corticosteroides, enfermedad de Crohn, artritis reumatoidea o trasplante de órganos.
+-	Fumadores de cigarro (cigarrillo)
+-	Consumidores de drogas, como el uso de drogas inyectables.
+La tuberculosis es muy peligrosa para los niños y personas con VIH, ellos necesitan tomar medicamentos lo antes posible para no enfermar de la tuberculosis.
+
 
 ## [pregnant:pregnant_woman] Embarazadas 
-En las mujeres embarazadas la enfermedad del coronavirus puede variar desde molestias leves que se manejan con cuidados médicos en casa, a cuadros graves que necesitan hospitalización.
 
-¿Las mujeres embarazadas tienen mayor riesgo de enfermar de la COVID-19?
-Sí. Especialmente las mujeres embarazadas de edad mayor, con sobrepeso, hipertensión, diabetes u otra enfermedad parecen tener mayor riesgo de desarrollar COVID-19 severo.
+Aquí la historia de Karen, quien junto a su hijo recién nacido superó la tuberculosis.
+https://youtu.be/pOBfnEiYRGM
 
-¿Una embarazada puede transmitir el virus de la COVID-19 a su bebé?
-No se ha encontrado el virus de la COVID-19 activo en el líquido que rodea al bebé en el vientre materno.Al parecer  esta forma de transmisión es rara, pero posible.
+¿Qué debo de hacer si estoy embarazada y enfermé de la tuberculosis?
+Si está gestando y tiene la enfermedad de la tuberculosis, debe de iniciar su tratamiento inmediatamente. Las medicinas contra la tuberculosis como isoniazida, rifampicina y etambutol pueden cruzar la placenta, pero, al parecer, no afectan al bebé.
 
-¿Una mujer embarazada puede ser vacunada?
-Sí. A pesar que la información recolectada de mujeres embarazadas es limitada, se recomienda que las gestantes sean vacunadas debido al alto riesgo de enfermar gravemente de la COVID-19.
+¿Qué le puede pasar a mi bebé si estoy enferma de tuberculosis y no tomo mi tratamiento?
+Su bebé puede nacer con bajo peso, y, en algunos casos, el bebé puede nacer con tuberculosis.
 
-¿Se debe adelantar el parto en una embarazada que tuvo COVID-19?
-No. La mujer embarazada que tuvo COVID-19 y se recuperó tiene las mismas indicaciones de parto que si no hubiera tenido COVID-19.
+Si estoy gestando y tengo tuberculosis latente, ¿cuándo debo de iniciar tratamiento preventivo?
+El tratamiento de la tuberculosis latente en gestantes puede iniciarse 2 o 3 meses después del parto. 
+Pero si recientemente ha estado en contacto directo con una persona enferma de tuberculosis, la mujer embarazada debe de iniciar el tratamiento lo antes posible, incluso si está en el primer trimestre de gestación.
 
-¿El parto de una mujer embarazada con COVID-19 debe de ser por cesárea?
-No. La cesárea solo debe de ser indicada cuando sea en beneficio del bebé o la mamá.
+¿Se puede hacer una radiografía de tórax a una embarazada?
+Sí. En el caso exista sospecha de tuberculosis (PPD positivo), y una radiografía de tórax es necesaria, la mujer embarazada deberá de usar un protector blindado.
 
-¿Una mamá con COVID-19 puede dar de lactar a su bebé?
-Sí. Una mamá que tiene COVID-19 debe de usar mascarilla y lavarse las manos antes de dar de lactar a su bebé. La leche materna es el mejor alimento para el bebé. No se ha encontrado el virus de COVID-19 en la leche materna.
+¿Qué medicamentos contra la tuberculosis están contraindicados en gestantes?
+-	Streptomicina
+-	Kanamicina
+-	Amikacina
+-	Capreomicina
+-	Fluoroquinolonas
 
-¿Una mamá vacunada puede seguir dando de lactar a su bebé?
-Sí. Se recomienda que una mamá continúe amamantando a su bebé después ser vacunada.
+¿Puedo dar de lactar a mi bebé si estoy tomando tratamiento de la tuberculosis?
+Sí. La cantidad de los medicamentos contra la tuberculosis que pasa a la lecha materna es muy baja para ocasionar algún daño al bebé.	
+Si está tomando isoniazida, se recomienda tomar piridoxina (vitamina B6) que será beneficioso tanto para usted como para su bebé.
 
 
 ## [children:child] Niños 
-La cantidad de hospitalizaciones e ingresos al área de cuidados intensivos (UCI) es menor en niños que en adultos. Al parecer, la COVID-19 es menos severa en niños.
-Los niños menores de 2 años no deben usar mascarilla. Ellos necesitarían la ayuda permanente de un adulto para colocarse o retirarse la mascarilla, por lo que no es seguro que niños de esas edades usen mascarilla.
 
-¿Qué niño o niña está en riesgo de enfermar gravemente de la COVID-19?
-Es probable que niños o niñas menores de 1 año y con ciertas condiciones especiales (retraso en el desarrollo o síndrome genético, como el síndrome de Down), inmunocomprometidos (con sus defensas bajas), con enfermedad respiratoria crónica (asma), obesidad, diabetes o enfermedad cardiovascular podrían estar en mayor riesgo de desarrollar la COVID-19 severa.
+¿Los niños pueden enfermar de la tuberculosis?
+Sí. Los niños pueden enfermar de la tuberculosis, incluso más rápidamente que los adultos.
 
-¿Qué es el síndrome de inflamación multisistémica (MIS-C)?
-Es una forma de complicación de la COVID-19 en niños y adolescentes. Se presenta con fiebre por 3 días o más, inflamación sistémica, y daño de varios órganos (como corazón, riñón, piel, sangre, sistema digestivo y sistema nervioso). Se han visto varios casos, pero pocas muertes.
+¿Qué niños son los que más enferman de la tuberculosis?
+Los niños menores de 5 años y adolescentes mayores de 10 años son los que más enferman de tuberculosis.
 
-¿Pueden los niños(as) ser vacunados?
-Solo algunos niños. En algunos países, como los EEUU, se están vacunando niños mayores de 12 que tengan factores de riesgo.
+¿Qué niños son los que están en riesgo de enfermar gravemente de la tuberculosis?
+Los bebés y niños pequeños están en riesgo de desarrollar formas graves de la enfermedad (tuberculosis diseminada, meningitis tuberculosa) que los niños más grandes o adultos.
 
-¿Pueden los niños transmitir el virus de la COVID-19?
-Sí. Los niños y niñas se pueden infectar, enfermar y transmitir la COVID-19.
+¿Los niños con tuberculosis pueden transmitir la tuberculosis?
+Sí. A pesar que la tuberculosis en niños es menos contagiosa que en los adultos, es necesario que los niños usen mascarilla las primeras semanas de tratamiento que es el periodo cuando pueden transmitir la tuberculosis.
+IMPORTANTE: Niños o niñas menores de 2 años no deben usar mascarilla. Ellos necesitarían la ayuda permanente de un adulto para colocarse o retirarse la mascarilla, por lo que no es seguro que niños de esas edades usen mascarilla.
 
-## [cancer:sick] Cáncer
-
-¿Una persona con cáncer tiene mayor riesgo de desarrollar la COVID-19 grave?
-Es probable que las personas con cáncer que están en tratamiento enfermen gravemente de la COVID-19.
-
-¿Una persona que se recuperó de cáncer tiene mayor riesgo de enfermar gravemente de la COVID-19?
-No está claro si es que las personas que tuvieron cáncer tengan mayor riesgo de enfermar gravemente de COVID-19.
-
-¿Los niños con cáncer tienen menor riesgo que los adultos de enfermar gravemente de la COVID-19?
-Se cree que los niños o niñas con cáncer enfermen de la COVID-19 de forma más leve  que los adultos con cáncer.
-
-¿Qué pruebas se deben usar en una persona que tiene cáncer?
-Se recomienda el uso de pruebas moleculares para las personas con cáncer que tienen síntomas COVID-19.
-
-¿Una persona con cáncer puede ser vacunada contra la COVID-19?
-Sí. La persona con cáncer o quien esté recibiendo tratamiento para el cáncer puede ser vacunada. Ninguna vacuna contra el virus de la COVID-19 contiene el virus vivo, por lo que la vacunación es segura.
 
 ## [hiv:sick] VIH
 
-¿Cuáles son los síntomas de la COVID-19 en personas con VIH?
-Los síntomas de la COVID-19 en las personas con VIH que cumplan con su tratamiento antirretroviral (TARGA) son similares que en las personas que no tienen VIH.
+Todas las personas con VIH deben de ser evaluadas para saber si tienen tuberculosis latente y puedan recibir tratamiento oportuno.
+La tuberculosis es una de las principales causas de muerte en personas con VIH.
 
-¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de la COVID-19?
-Al parecer, las personas con VIH podrían estar en mayor riesgo de desarrollar la COVID-19 severa.
+¿Las personas con VIH tienen mayor riesgo de enfermar de la tuberculosis?
+Sí. La infección con VIH debilita las defensas del cuerpo, por lo que las personas con VIH tienen mayor riesgo de enfermar de la tuberculosis.
 
-¿Las personas con VIH pueden ser vacunadas?
-Sí. Se recomienda que las personas con VIH sean vacunadas contra el virus de la COVID-19, sea cual sea su recuento de linfocitos CD4 o carga viral. Las vacunas son seguras ya que no contienen el virus vivo.
+¿Las personas con VIH tiene mayor riesgo de enfermar gravemente de la tuberculosis?
+Sí.
+
+Si tengo VIH y me diagnostican tuberculosis latente, ¿debo de tomar tratamiento preventivo?
+Sí. Las personas con VIH diagnosticadas con tuberculosis latente pueden desarrollar la enfermedad de la tuberculosis en poco tiempo, por lo que es necesario que tomen tratamiento preventivo.
+
+Si tengo VIH y soy personal de salud, ¿debo de usar mascarilla?
+Sí. El personal de salud debe de usar mascarilla, especialmente si tiene VIH.
+
+¿Si una persona con VIH y tuberculosis no quiere comer debe de hacerlo a la fuerza?
+No. Forzar a una persona con VIH para que coma y aumente de peso puede causar diarrea y/o malestar digestivo.
 
 
-## [tuberculosis:sick] Tuberculosis (TBC)
+## [covid:sick] COVID-19
 
-¿Cómo ha afectado la pandemia a la lucha contra la tuberculosis?
-La pandemia ha afectado la eficiencia en el diagnóstico de la tuberculosis. De 4 personas que usualmente eran diagnosticadas con tuberculosis, ahora solo 3 han sido diagnosticadas debido a la pandemia. Esa persona que tiene tuberculosis y no es diagnosticada continúa transmitiendo la enfermedad sin saberlo.
+¿Cómo afectó la pandemia a la lucha contra la tuberculosis?
+La pandemia obstaculizó el oportuno diagnóstico de personas con tuberculosis. Si antes de la pandemia se diagnosticaban a 4 personas con tuberculosis, durando la pandemia sólo se pudieron diagnosticar 3. Esa persona con tuberculosis sin diagnosticar, no recibe tratamiento y continúa transmitiendo la enfermedad sin saberlo.
 
-¿La persona con tuberculosis tiene mayor riesgo de enfermar gravemente de la COVID-19?
+Si tengo tuberculosis, ¿tengo más riesgo de enfermar de la COVID-19?
 No se sabe. Si bien la COVID-19 y la Tuberculosis tienen factores de riesgo similares, todavía se desconoce si la persona con Tuberculosis está en mayor riesgo de enfermar gravemente de la COVID-19. 
 
 ¿La tuberculosis y la COVID-19 se transmiten de la misma manera?
-La transmisión es parecida. La tuberculosis y la COVID-19 se transmiten cuando una persona enferma está cerca de una persona sana, en especial cuando tose, estornuda, canta o grita. 
-Los bacilos de la tuberculosis pueden permanecer en el aire por muchas horas. La cantidad de estos bacilos disminuye con la luz solar y ventilación.
+La transmisión es parecida. La tuberculosis y la COVID-19 se transmiten cuando una persona enferma está cerca de una persona sana, en especial cuando tose, estornuda, canta o grita.
 
 ¿Se puede usar la misma muestra para diagnosticar Tuberculosis o COVID-19?
-Mayormente no. Las muestras para COVID-19 y Tuberculosis varían. Sin embargo,  muestras de esputo o aspirado endotraqueal o lavado broncoalveolar pueden utilizarse para diagnóstico de ambas enfermedades.
+Mayormente no. Las muestras para COVID-19 y Tuberculosis varían. Sin embargo, muestras de esputo o aspirado endotraqueal o lavado broncoalveolar pueden utilizarse para el diagnóstico de ambas enfermedades.
 
 ¿Debería de descartarse COVID-19 y Tuberculosis a la vez?
 Si la persona estuvo expuesta tanto a la COVID-19 como a la Tuberculosis, debería de descartarse ambas enfermedades, ya que los síntomas y factores de riesgo son parecidos.
 
 ¿El tratamiento para una persona con tuberculosis es diferente si también tuviera COVID-19?
-No es diferente, en la mayoría de los casos. Es importante que el tratamiento preventivo y el tratamiento de la enfermedad de la tuberculosis no sean interrumpidos. De 2 personas que dejan su tratamiento TB, 1 podría morir.
+No es diferente, en la mayoría de los casos.
 
 ¿Puede ser vacunada contra la COVID-19 una persona con Tuberculosis?
 Sí. La persona que tiene Tuberculosis activa puede recibir la vacuna contra el virus de la COVID-19.
@@ -486,128 +398,67 @@ Sí. La persona que tiene Tuberculosis activa puede recibir la vacuna contra el 
 ¿La vacuna de la BCG protege contra la COVID-19?
 No se recomienda la vacuna de la BCG para prevenir la COVID-19.
 
-# [detection:diagnoses] DIAGNÓSTICO: Pruebas
 
-¿Cuántos tipos de pruebas para COVID-19 hay?
-Pueden ser de tres tipos:
-- Pruebas moleculares: detectan al virus de la COVID-19, también conocidas como NAATs 
-- Pruebas de antígenos: detentan parte (proteínas) del virus de la COVID-19, también conocidas como pruebas rápidas.
-- Pruebas serológicas: detectan las defensas (anticuerpos) que una persona produce después que se infecta del virus de la COVID-19.
+## [prison:sick] Personas privadas de su libertad
 
-¿Cómo saber si una persona tiene COVID-19?
-Para saber si una persona tiene COVID-19 se recomienda usar una prueba molecular.
-También se puede usar la prueba rápida o de antígeno, aunque a veces sus resultados no son exactos ya que va a depender de la cantidad de virus que tenga la persona en el momento de la prueba.
+Si estoy privado de mi libertad o trabajo en estos centros, ¿estoy en riesgo de infectarme con la tuberculosis?
+Sí. Las personas que conviven aglomeradas, como las personas privadas de su libertad y trabajadores de estos centros, tienen mayor riesgo de infectarse de la tuberculosis.
 
-¿Cómo se puede saber si una persona tuvo COVID-19?
-Para saber si una persona tuvo COVID-19 se recomienda usar una prueba serológica (anticuerpos) junto con una prueba molecular y una prueba de antígeno (para estar seguros de que el virus de la COVID-19 ya no está en el cuerpo).
+Si estoy privado de mi libertad, ¿cómo podría prevenir la tuberculosis?
+Para prevenir la tuberculosis en los centros de privación de la libertad, se recomienda:
+-	Diagnóstico oportuno de personas con tuberculosis al ingresar a los centros y tamizajes continuos durante su estadía.
+-	Tratamiento de personas diagnosticas con tuberculosis activa y latente.
+-	Uso adecuado de mascarilla, aislamiento de las personas con tuberculosis y ventilación de los ambientes cerrados.
+-	Si hubiera alguien con tuberculosis, seguimiento de las personas que han estado contacto.
+  
+¿Cómo debe de ser el control de la tuberculosis en las personas privadas de su libertad?
+Si su prueba de PPD o de sangre es negativa, se debe de repetir la prueba al año como mínimo.
+Si su prueba de PPD o de sangre es positiva, debe de ser evaluado para descartar la enfermedad de la tuberculosis una vez al año como mínimo.
 
-¿Cuándo las pruebas moleculares pueden resultar positivas?
-En la mayoría de las personas las pruebas moleculares dan positivo después de 5 días de haberse contagiado del virus de la COVID-19 o 1 a 3 días antes del inicio de los síntomas.
-
-¿Cuándo las pruebas de antígeno pueden resultar positivas?
-En la mayoría de los casos de COVID-19, las pruebas de antígeno pueden resultar positivas 1 a 3 días antes de la aparición de los síntomas y hasta 5 a 7 días de enfermedad.
-
-¿Cuándo las pruebas serológicas pueden resultar positivas?
-En la mayoría de las personas con COVID-19, las pruebas serológicas resultan positivas después de 21 días o más del comienzo de los síntomas.
-
-¿Qué muestras se utilizan en las pruebas moleculares?
-Para las pruebas moleculares principalmente se utilizan muestras de las vías respiratorias altas y/o bajas (nariz, garganta). También se pueden utilizar muestras fecales (heces).
-
-¿Qué muestras se utilizan en las pruebas de antígeno?
-Las muestras para las pruebas rápida de antígeno se obtienen mediante un hisopado de la nariz y/o garganta.
-
-¿Qué muestras se utilizan en las pruebas serológicas?
-Para las pruebas serológicas se utilizan muestras de sangre.
-
-¿Las pruebas serológicas pueden determinar si una persona debe de regresar al trabajo?
-No se recomienda. Las pruebas serológicas no deben de definir si las personas deben de retornar al trabajo, escuela, o cualquier otro sitio donde se agrupen personas.
-
-¿Las pruebas serológicas pueden indicar si una persona debe de ser vacunada o no?
-No se recomienda. Las pruebas serológicas no pueden determinar si se debe o no se debe de vacunar a una persona.
-
-¿Las pruebas serológicas pueden determinar la inmunidad al virus de la COVID-19 en una persona vacunada?
-No se recomienda. Las pruebas serológicas no pueden determinar si una persona es inmune al virus de la COVID-19.
-
-¿Una persona que tuvo COVID-19 se puede volver a infectar (reinfección)?
-Sí. A pesar de que son raros los casos de reinfección por COVID-19, se han registrado algunos. Es probable que las defensas (anticuerpos) producidas por la persona que enfermó de la COVID-19 no duren para siempre o que no puedan protegerla de una segunda infección (reinfección).
-
-¿Los escáneres térmicos pueden detectar el virus de la COVID-19?
-No. Los escáneres térmicos son para identificar a las personas que tienen fiebre, no para diagnosticar COVID-19. Hay muchas enfermedades que pueden causar fiebre.
-
-¿Poder aguantar la respiración por 10 segundos o más sin toser o sentir molestias, descarta que una persona tenga COVID-19?
-No. Los ejercicios de respiración no confirman o descartan ninguna enfermedad. Son las pruebas de laboratorio las que pueden determinar si una persona tiene COVID-19.
-
-¿El oxímetro de pulso puede diagnosticar COVID-19?
-No. El oxímetro de pulso o pulsioxímetro detecta la saturación de oxígeno, que es el porcentaje de oxígeno en la sangre (hemoglobina), los valores normales son entre 95 a 100 % en una persona sana. Si bien la COVID-19 puede hacer que los niveles de oxígeno bajen, solo las pruebas de laboratorio diagnostican COVID-19.
-
-¿Poder sentir el olor y sabor del vino o vinagre, descarta que una persona tenga COVID-19?
-No. Solo los exámenes de laboratorio pueden diagnosticar o descartar COVID-19. Hay otras enfermedades que pueden causar la pérdida del olfato o gusto.
-
-# [treatment:healing] TRATAMIENTO 
-Así como los síntomas de la COVID-19 varían de persona a persona, el tratamiento también varía. Los casos graves necesitan oxígeno y otros medicamentos de acuerdo a cómo evolucione la enfermedad. El tratamiento oportuno puede evitar posibles complicaciones y hasta la muerte.
-
-¿Una persona que ha estado con tratamiento previo y tiene COVID-19, debe de suspender o dejar su tratamiento?
-No. La persona que está recibiendo tratamiento con anticoagulantes (warfarina) antiplaquetarios (aspirina), antihipertensivos (captopril, enalapril, losartán), estatinas (atorvastatina, fluvastatina, lovastatina), corticoides (dexametasona, prednisona), AINES (ibuprofeno, naproxeno), antiácidos (famotidina) por cualquier otra enfermedad debe de continuar con su tratamiento tenga o no COVID-19.
-Esta persona debe de acudir a su médico(a), ya que puede estar en mayor riesgo de desarrollar la COVID-19 severa.
-
-¿Se puede usar Remdesivir como tratamiento en todos los pacientes con COVID-19?
-No. En los Estados Unidos, la FDA aprobó el uso de Remdesivir para los pacientes hospitalizados que necesitan oxígeno. Sin embargo, la Organización Mundial de la Salud recomienda esperar a tener mayor evidencia de su efectividad.
-
-¿Se puede usar Dexametasona como tratamiento en todos los pacientes con COVID-19?
-No. La Dexametasona, que tiene un efecto anti-inflamatorio e inmunosupresor, solo se recomienda en personas con COVID-19 que necesitan oxígeno y están hospitalizadas.
-
-¿Puede usarse la sangre de las personas que se recuperaron de la COVID-19 como tratamiento?
-Podría ser posible que el plasma convaleciente COVID-19, sangre de personas que enfermaron y se recuperaron de la COVID-19, pueda usarse como tratamiento en pacientes hospitalizados. Todavía sigue en estudio.
-
-¿La Hidroxicloroquina o Cloroquina pueden curar o prevenir la COVID-19?
-No se recomienda. Estudios clínicos demuestran que la Hidroxicloroquina no previene o cura la COVID-19.
-
-¿La Ivermectina puede prevenir o curar la COVID-19?
-Hasta la fecha no hay evidencia concluyente que demuestre si la Ivermectina pueda prevenir o curar la COVID-19.
-
-¿Los antibióticos pueden prevenir o curar la COVID-19?
-No. Los antibióticos no funcionan contra los virus. Algunas personas que enferman de la COVID-19 pueden complicarse y desarrollar neumonía u otra infección bacteriana; en estos casos, son los médicos o médicas quienes pueden indicar el uso de antibióticos.
-
-¿Por qué no hay que tomar antibióticos para prevenir o tratar COVID-19?
-Los antibióticos son para las bacterias. Si los tomamos frecuentemente sin que sea necesario (por automedicación), las bacterias se vuelven resistentes. Así, cuando los antibióticos sean realmente necesarios, ya no tendrán efecto. 
-Únicamente los médicos o médicas pueden determinar cuándo son necesarios los antibióticos.
-
-¿La vitamina C, la vitamina D y el Zinc pueden prevenir o curar la COVID-19?
-No se ha demostrado que la vitamina C, la vitamina D o el Zinc puedan curar o prevenir la COVID-19. Sin embargo, estos suplementos ayudan al buen funcionamiento de las defensas del cuerpo.
+¿Cómo debe de ser el control de la tuberculosis en los trabajadores de los centros de privación de la libertad?
+Para las personas que recién ingresan a trabajar a estos centros, se le debe hacer la prueba para saber si están infectados con la bacteria de la tuberculosis. Si sus resultados son negativos, se le evaluarán nuevamente al año. Y si son positivos se le examinará para descartar la enfermedad la tuberculosis una vez al año como mínimo.
 
 
+# [drug resistan:drug resistant] TUBERCULOSIS DROGORESISTENTE
 
+¿Qué es la tuberculosis drogo-resistente?
+La tuberculosis drogo-resistente es cuando los medicamentos contra la tuberculosis no pueden matar la bacteria de la TBC.
 
-# [home:home] CUANDO HAY UN ENFERMO EN CASA
+¿Cuándo ocurre la tuberculosis drogo-resistente?
+La tuberculosis drogo-resistente puede ocurrir cuando los medicamentos contra la tuberculosis no son usados adecuadamente, como, por ejemplo:3
+-	Cuando las personas no completan todo su tratamiento.
+-	Cuando se toma el tratamiento incorrecto, la dosis incorrecta o durante el tiempo incorrecto.
+-	Cuando la cantidad de medicamentos no está disponible.
+-	Cuando los medicamentos son de mala calidad.
 
-¿Qué debemos de hacer si tenemos los síntomas (molestias) de la COVID-19?
-- Quedarnos en casa. Solo debemos de salir para ir al médico u hospital.
-- Busquemos atención médica llamando a nuestro médico o médica tan pronto como las molestias comiencen. 
-- Descansemos. Tener un buen estado de ánimo es importante.
-- Tomemos agua o cualquier otro líquido para estar hidratados.
-- Permanezcamos solos en un cuarto aparte, con las ventanas abiertas. 
-- Utilicemos un baño separado, si es posible.
-- Mantengamos abiertas las ventanas para que la casa esté ventilada. Más aire fresco, menos virus.
-- Evitemos compartir áreas comunes como la sala, cocina, comedor, y cuando lo hagamos, que sea el menor tiempo posible.
-- Sigamos las medidas de lavado de manos, mantener una distancia de 2 metros de los demás y cubrir boca-nariz al toser o estornudar.
-- Usemos una mascarilla quirúrgica el mayor tiempo posible, cambiar de mascarilla todos los días. Si no podemos usar la mascarilla, debemos de cubrir - nariz y boca con un pañuelo, papel toalla o codo al estornudar, toser o reír , y luego lavarnos las manos.
-- Evitemos contaminar objetos y superficies con saliva o secreciones respiratorias (moco o esputo), así reduciremos la probabilidad de transmisión del virus.
-- Limpiemos y desinfectemos las cosas y superficies que tocamos con frecuencia.
-- Evitemos estar cerca de animales o mascotas.
+¿Quiénes están en riesgo de enfermar de tuberculosis drogo-resistente?
+La tuberculosis drogo-resistente es más frecuente en personas que:
+-	Han estado en contacto cercano con personas con tuberculosis drogo-resistente
+-	No toman todos los medicamentos, como se lo indican el personal de salud.
+-	Se enferman otra vez, después de haber sido curados de la tuberculosis en el pasado.
+-	Vienen de lugares donde la tuberculosis drogo-resistente es común.
+  
+¿Cómo se propaga la tuberculosis drogo-resistente?
+La transmisión de la tuberculosis drogo-resiste es la misma que la tuberculosis simple o sensible, mediante el aire.
+Cabe resaltar que la mayoría de los casos de tuberculosis drogo-resistente son por contagio, de persona a persona.
 
-¿Qué debemos de hacer si hay un enfermo COVID-19 en casa?
-- Elegir a una persona que cuide del enfermo, de preferencia esta persona no debe de estar ni embarazada y ni en riesgo de enfermar gravemente de la COVID-19. 
-- Si cuidamos de un enfermo COVID-19, nos podemos contagiar y transmitir el virus a los demás. Es importante que cumplamos con todas las medidas de prevención como son lavado de manos, distanciamiento físico, cubrir boca y nariz al toser o estornudar, usar mascarilla.
-- Lavarnos las manos con agua y jabón antes y después de tocar a la persona enferma. Los paños húmedos no reemplazan al lavado de manos.
-- Mantengamos 2 metros de distancia de la persona enferma.
-- No colocarnos enfrente (cara a cara) de la persona enferma.
-- Usar mascarilla cuando estemos en el dormitorio de la persona enferma.
-- Eliminar todo lo que esté contaminado con secreciones de la persona enferma como papel higiénico o toalla, y luego lavarnos las manos con agua y jabón.
-- Abrir las ventanas para ventilar la casa.
-- Limpiar y desinfectar las cosas que utiliza o toca la persona enferma.
+¿Qué es la tuberculosis multidrogoresistente (MDR-TB)?
+La tuberculosis drogo-resistente es la tuberculosis resistente a la isoniazida y rifampicina.
 
-¿Qué desinfectantes podemos usar contra el virus de la COVID-19? 
-- Etanol 70- 90% (alcohol medicinal que se aplica antes de una inyección).
-- Productos a base de cloro (como el hipoclorito o lejía) al 0.1% para la desinfección en general o, al 0.5% para lugares con residuos de sangre o secreciones corporales.
-- Peróxido de hidrógeno >0.5% (agua oxigenada). 
-Estas sustancias deben de cubrir la superficie de lo que queremos desinfectar por lo menos 1 minuto, o según las instrucciones del fabricante.
+¿Qué es la tuberculosis extremadamente resistente (XDR-TB)?
+La tuberculosis extremadamente multidrogoresistente, una forma rara de tuberculosis multidrogoresistente, es la tuberculosis resistente a la isoniazida, rifampicina, cualquier fluoroquinolona y a uno de los tres inyectables de segunda línea (amikacina, kanamicina, o capreomicina) como mínimo (resistente a 4 o más medicamentos).
+
+¿Cómo puedo saber si tengo tuberculosis MDR o XDR?
+Tanto la tuberculosis multidrogoresistente como la extremadamente resistente son diagnosticadas únicamente en un laboratorio bien equipado.3
+Si está en tratamiento, y sus síntomas no han mejorado después de algunas semanas, debes de informarle a su médico.
+
+¿Cómo se puede prevenir la tuberculosis MDR?
+Lo más importante es tomar su tratamiento como se lo indica el personal de salud. Ninguna dosis se debe omitir y nunca interrumpir el tratamiento. Si tiene molestias con el tratamiento, debe de informar al personal de salud.3
+¿Hay algún examen rápido para diagnosticar tuberculosis drogo resistente?
+Sí. El Xpert MTB/RIF es una prueba molecular rápida que puede diagnosticar tuberculosis y resistencia a rifampicina en 90 minutos.
+
+Si la persona con la que he estado en contacto cercano tiene tuberculosis drogo resistente, ¿mi tratamiento preventivo puede cambiar?
+Sí. Su tratamiento puede cambiar si la persona con la que ha estado en contacto cercano tiene tuberculosis resistente.
+
+¿Si la persona a la que he estado en contacto tiene tuberculosis multidrogoresistente o extremadamente multidrogoresistente, puedo tomar tratamiento preventivo?
+ No hay un tratamiento preventivo par estos casos.
