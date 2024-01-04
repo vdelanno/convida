@@ -1,68 +1,46 @@
 
 ## BIBLIOGRAFY
 
-1. National Institutes of Health. Coronavirus Disease (COVID-19) Treatment Guidelines.; 2021. https://www.covid19treatmentguidelines.nih.gov/. Accessed August 25, 2021.
-2. World Health Organization. Coronavirus disease (COVID-19). https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19. Published 2021. Accessed June 12, 2021.
-3. Ministerio de Salud del Perú. Manejo ambulatorio de personas afectadas por la COVID-19 en el Perú. 2020. https://cdn.www.gob.pe/uploads/document/file/1458478/R.M N°974-2020-MINSA.pdf.pdf.
-4. World Health Organization. Coronavirus Disease 2019 (COVID-19) Situation Report-94.; 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200423-sitrep-94-covid-19.pdf. Accessed November 30, 2020.
-5. Centers for Disease Control and Prevention. Animals and COVID-19| CDC. https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html. Published 2021. Accessed August 5, 2021.
-6. World Health Organization. SARS-CoV-2 Evolution. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/sars-cov-2-evolution. Published 2021. Accessed June 10, 2021.
-7. Centers for Disease Control and Prevention. Interim Clinical Considerations for Use of COVID-19 Vaccines Currently Authorized in the United States. https://www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Finfo-by-product%2Fclinical-considerations.html. Published 2021. Accessed August 27, 2021.
-8. Maria Van Kerkhove. Episode #45 - Delta variant. World Health Organisation. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-45---delta-variant. Published 2021. Accessed August 25, 2021.
-9. World Health Organization. Coronavirus disease (COVID-19): How is it transmitted? https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-how-is-it-transmitted. Published 2021. Accessed June 10, 2021.
-10. World Health Organization. Mask use in the context of COVID-19. Interim Guid. 2020;(December):1-22. doi:10.1093/jiaa077
-11. World Health Organization. Myth busters. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters. Published 2021. Accessed June 10, 2021.
-12. World Health Organization. Considerations for implementing and adjusting public health and social measures in the context of COVID-19. World Health Organisation Interim Guidance. https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance. Published 2021.
-13. World Health Organization. Advice on the use of masks for children in the community in the context of COVID-19. https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC_Masks-Children-2020.1. Published 2020. Accessed November 19, 2020.
-14. Centers for Disease Control and Prevention. Evaluation and Management Considerations for Neonates At Risk for COVID-19| CDC. https://www.cdc.gov/coronavirus/2019-ncov/hcp/caring-for-newborns.html. Published 2020. Accessed December 8, 2020.
-15. Centers for Disease Control and Prevention. Your Guide to Masks| CDC. https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html. Published 2021. Accessed August 26, 2021.
-16. World Health Organization. Coronavirus disease (COVID-19): Food safety and nutrition. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-food-safety-and-nutrition. Published 2020. Accessed June 14, 2021.
-17. World Health Organization. Vaccines and immunization: What is vaccination? https://www.who.int/news-room/q-a-detail/vaccines-and-immunization-what-is-vaccination?adgroupsurvey=%7Badgroupsurvey%7D&gclid=Cj0KCQiAh4j-BRCsARIsAGeV12AXV8bvGz9L4lcVpki58sTo8tsyQs6ITOMI5tsU9dR92_Cao6Wg6kcaAoCbEALw_wcB. Published 2021. Accessed August 26, 2021.
-18. World Health Organization. Immunization as an essential health service: guiding principles for immunization activities during the COVID-19 pandemic and other times of severe disruption. 2020. https://www.who.int/publications/i/item/immunization-as-an-essential-health-service-guiding-principles-for-immunization-activities-during-the-covid-19-pandemic-and-other-times-of-severe-disruption. Accessed November 19, 2020.
-19. World Health Organization. Coronavirus disease (COVID-19): Vaccines. https://www.who.int/news-room/q-a-detail/coronavirus-disease-(covid-19)-vaccines?topicsurvey=v8kj13)&gclid=CjwKCAiAnvj9BRA4EiwAuUMDf1GhB1aKCjp9YOt7XB58s2YxyBEy7wknS_RpDORvg9_gIaU5Mel3dhoCJHEQAvD_BwE. Published 2021. Accessed August 26, 2021.
-20. Centers for Disease Control and Prevention. Key Things to Know About COVID-19 Vaccines. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/8-things.html. Published 2021. Accessed August 26, 2021.
-21. Centers for Disease Control and Prevention. Understanding How COVID-19 Vaccines Work | CDC. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/how-they-work.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvaccines%2Fabout-vaccines%2Fhow-they-work.html. Published 2021. Accessed August 26, 2021.
-22. World Health Organization. Vaccine efficacy, effectiveness and protection. https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection. Published 2021. Accessed August 25, 2021.
-23. World Health Organization. Coronavirus disease (COVID-19): Vaccines safety. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-vaccines-safety. Published 2021. Accessed August 26, 2021.
-24. Centers for Disease Control and Prevention. Possible Side Effects After Getting a COVID-19 Vaccine. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html. Published 2021. Accessed August 27, 2021.
-25. Centers for Disease Control and Prevention. COVID-19 Vaccines for Moderately to Severely Immunocompromised People | CDC. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/immuno.html. Accessed August 26, 2021.
-26. World Health Organization. Interim statement on COVID-19 vaccine booster doses. https://www.who.int/news/item/10-08-2021-interim-statement-on-covid-19-vaccine-booster-doses. Published 2021. Accessed August 27, 2021.
-27. O’Brien K. Episode #49 - Can I get infected after vaccination? World Health Organisation. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-49-can-i-get-infected-after-vaccination. Published 2021. Accessed August 25, 2021.
-28. World Health Organization. Coronavirus disease (COVID-19): Similarities and differences with influenza. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-similarities-and-differences-with-influenza. Published 2020. Accessed December 1, 2020.
-29. World Health Organization. Managing the COVID-19 Infodemic.; 2020. https://www.who.int/publications/i/item/9789240010314.
-30. World Health Organization. Coronavirus Disease (COVID-19) Situation Report - 115.; 2020. doi:10.1001/jama.2020.2633
-31. Pan American Health Organization. PAHO warns against use of chlorine products as treatments for COVID-19 - PAHO/WHO | Pan American Health Organization. https://www.paho.org/en/news/5-8-2020-paho-warns-against-use-chlorine-products-treatments-covid-19. Published 2020. Accessed November 25, 2020.
-32. Food and Drug Administration. Coronavirus (COVID-19) Update: FDA Warns Seller Marketing Dangerous Chlorine Dioxide Products that Claim to Treat or Prevent COVID-19 | FDA. https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-warns-seller-marketing-dangerous-chlorine-dioxide-products-claim. Accessed November 25, 2020.
-33. MedlinePlus. US National Library of Medicine. Eucalyptus. https://medlineplus.gov/druginfo/natural/700.html. Published 2020. Accessed June 12, 2021.
-34. World Health Organization. Vaccine hesitancy: A growing challenge for immunization programmes. https://www.who.int/news/item/18-08-2015-vaccine-hesitancy-a-growing-challenge-for-immunization-programmes. Published 2015. Accessed December 18, 2020.
-35. Soumya Swaminathan. Episode #41 - Vaccines, pregnancy, menstruation, lactation and fertility. World Health Organisation. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-41---vaccines-pregnancy-menstruation-lactation-and-fertility. Published 2021. Accessed June 4, 2021.
-36. Centers for Disease Control and Prevention. Symptoms of Coronavirus (COVID-19). https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html. Published 2021. Accessed June 11, 2021.
-37. World Health Organization. Coronavirus disease (COVID-19): Pregnancy and childbirth. https://www.who.int/news-room/q-a-detail/coronavirus-disease-covid-19-pregnancy-and-childbirth. Published 2020. Accessed November 28, 2020.
-38. World Health Organization. Multisystem inflammatory syndrome in children and adolescents temporally related to COVID-19. https://www.who.int/news-room/commentaries/detail/multisystem-inflammatory-syndrome-in-children-and-adolescents-with-covid-19. Published 2020. Accessed November 28, 2020.
-39. Centers for Disease Control and Prevention. COVID-19 in Children and Teens | CDC. https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/symptoms.html#children-teens. Published 2021. Accessed June 11, 2021.
-40. World Health Organization. Interim recommendations for use of the Pfizer–BioNTech COVID-19 vaccine, BNT162b2, under Emergency Use Listing. https://www.who.int/publications/i/item/WHO-2019-nCoV-vaccines-SAGE_recommendation-BNT162b2-2021.1. Published 2021. Accessed June 23, 2021.
-41. World Health Organization. Clinical features and prognostic factors of COVID-19 in people living with HIV hospitalized with suspected or confirmed SARS-CoV-2 infection. https://www.who.int/news/item/15-07-2021-who-warns-that-hiv-infection-increases-risk-of-severe-and-critical-covid-19. Published 2021. Accessed August 25, 2021.
-42. World Health Organization. Coronavirus disease (COVID-19): COVID-19 vaccines and people living with HIV. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-(covid-19)-covid-19-vaccines-and-people-living-with-hiv. Published 2021. Accessed July 14, 2021.
-43. World Health Organization. Coronavirus disease (COVID-19): Tuberculosis. World Health Organisation. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-tuberculosis. Published 2021. Accessed June 11, 2021.
-44. World Health Organization. Diagnostic testing for SARS-CoV-2. 2020. https://www.who.int/publications/i/item/diagnostic-testing-for-sars-cov-2. Accessed November 19, 2020.
-45. Centers for Disease Control and Prevention. COVID-19 Testing Overview. https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html. Published 2021. Accessed August 2, 2021.
-46. World Health Organization. Antigen-Detection in the Diagnosis of SARS-CoV-2 Infection Using Rapid Immunoassays Interim Guidance.; 2020. https://apps.who.int/iris/bitstream/handle/10665/334253/WHO-2019-nCoV-Antigen_Detection-2020.1-eng.pdf?sequence=1&isAllowed=y. Accessed February 8, 2021.
-47. World Health Organization. Pulse Oximetry Training Manual.; 2011. https://www.who.int/patientsafety/safesurgery/pulse_oximetry/who_ps_pulse_oxymetry_training_manual_en.pdf. Accessed January 30, 2021.
-48. World Health Organization. WHO recommends against the use of remdesivir in COVID-19 patients. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients. Published 2020. Accessed November 24, 2020.
-49. Centers for Disease Control and Prevention. What to Do If You Are Sick | CDC. https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html. Published 2020. Accessed November 27, 2020.
-50. Centers for Disease Control and Prevention. What You Should Know about COVID-19 and Pets. https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html. Published 2021. Accessed June 29, 2021.
+1.	La historia de Jackie | Historias personales | TB | CDC. Accessed August 15, 2023. https://www.cdc.gov/tb/esp/topic/basics/Jackiestory.htm
+2.	Centers for Disease Control and Prevention. Questions and Answers | Pamphlets, Brochures, Booklets | Publications & Products | TB | CDC. Published 2022. Accessed August 10, 2023. https://www.cdc.gov/tb/publications/faqs/default.htm
+3.	World Health Organization. Frequently Asked Questions about Tuberculosis.; 2013. Accessed August 8, 2023. https://apps.who.int/iris/bitstream/handle/10665/205081/B5009.pdf?sequence=1%26isAllowed=y
+4.	MINSA - DPCTB :: Dirección de Prevención y Control de la Tuberculosis. Accessed August 9, 2023. http://www.tuberculosis.minsa.gob.pe/portaldpctb/Contenido.aspx?op=1
+5.	Centers for Disease Control and Prevention. History | World TB Day | TB | CDC. Published 2023. Accessed August 9, 2023. https://www.cdc.gov/tb/worldtbday/history.htm
+6.	Basic TB Facts | TB | CDC. Accessed August 9, 2023. https://www.cdc.gov/tb/topic/basics/default.htm
+7.	Tuberculosis. Accessed August 15, 2023. https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+8.	Centers for Disease Control and Prevention. Fact Sheets | General | Latent TB Infection vs. TB Disease | TB | CDC. Accessed August 10, 2023. https://www.cdc.gov/tb/publications/factsheets/general/ltbiandactivetb.htm
+9.	World Health Organization. WHO Consolidated Guidelines on Tuberculosis Module 1: Prevention Infection Prevention and Control.; 2022. Accessed August 17, 2023. https://www.who.int/publications/i/item/9789240055889
+10.	TB 101 - Infection Control | TB | CDC. Accessed August 16, 2023. https://www.cdc.gov/tb/webcourses/tb101/page1796.html
+11.	World Health Organization. Mask use in the context of COVID-19. Interim guidance. 2020;(December):1-22. doi:10.1093/jiaa077
+12.	World Health Organization. Myth busters. Published 2021. Accessed June 10, 2021. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
+13.	Asian Persons | TB in Specific Populations | TB | CDC. Accessed September 4, 2023. https://www.cdc.gov/tb/topic/populations/tbinasians/default.htm
+14.	Fact Sheets | Testing & Diagnosis | Fact Sheet - Tuberculin Skin Testing | TB | CDC. Accessed August 14, 2023. https://www.cdc.gov/tb/publications/factsheets/testing/skintesting.htm
+15.	Ministerio de salud del Perú. Manual educativo para promotores de salud. http://bvs.minsa.gob.pe/local/MINSA/1397-1.pdf
+16.	Ante sospecha de tuberculosis es vital acudir de inmediato al centro de salud más cercano - Noticias - Ministerio de Salud - Plataforma del Estado Peruano. Accessed August 10, 2023. https://www.gob.pe/institucion/minsa/noticias/36840-ante-sospecha-de-tuberculosis-es-vital-acudir-de-inmediato-al-centro-de-salud-mas-cercano
+17.	Centers for Disease Control and Prevention. PATIENT INFORMATION The 12-dose regimen for latent tuberculosis infection. Accessed August 15, 2023. https://www.cdc.gov/tb/publications/pamphlets/12DoseLTBITreatmentbrochure8.5x11.pdf
+18.	Centers for Disease Control and Prevention. What you need to know about your medicine for latent tuberculosis infection. Accessed August 15, 2023. https://www.cdc.gov/tb/publications/pdf/RIF_508.pdf
+19.	World Health Organization. Smoking and tuberculosis: a dangerous combination. Published 2018. Accessed August 10, 2023. https://www.who.int/europe/news/item/22-03-2018-smoking-and-tuberculosis-a-dangerous-combination
+20.	La historia de Karen | Historias personales | TB | CDC. Accessed August 15, 2023. https://www.cdc.gov/tb/esp/topic/basics/Karenstory.htm
+21.	TB in Specific Populations | Pregnancy | TB | CDC. Accessed September 4, 2023. https://www.cdc.gov/tb/topic/populations/pregnancy/default.htm
+22.	Treatment for TB During Pregnancy | TB | CDC. Accessed September 15, 2023. https://www.cdc.gov/tb/topic/treatment/pregnancy.htm
+23.	Children | TB in Specific Populations | TB | CDC. Accessed September 4, 2023. https://www.cdc.gov/tb/topic/populations/tbinchildren/default.htm
+24.	World Health Organization. Advice on the use of masks for children in the community in the context of COVID-19. Published 2020. Accessed November 19, 2020. https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC_Masks-Children-2020.1
+25.	Centers for Disease Control and Prevention. Evaluation and Management Considerations for Neonates At Risk for COVID-19| CDC. Published 2020. Accessed December 8, 2020. https://www.cdc.gov/coronavirus/2019-ncov/hcp/caring-for-newborns.html
+26.	Centers for Disease Control and Prevention. Your Guide to Masks| CDC. Published 2021. Accessed August 26, 2021. https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html
+27.	TB and HIV Coinfection | TB | CDC. Accessed September 15, 2023. https://www.cdc.gov/tb/topic/basics/tbhivcoinfection.htm
+28.	World Health Organization. Coronavirus disease (COVID-19): Tuberculosis. World Health Organisation. Published 2021. Accessed June 11, 2021. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-tuberculosis
+29.	Centers for Disease Control and Prevention. Interim Clinical Considerations for Use of COVID-19 Vaccines Currently Authorized in the United States. Published 2021. Accessed August 27, 2021. https://www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Finfo-by-product%2Fclinical-considerations.html
+30.	Correctional Facilities | TB in Specific Populations | TB | CDC. Accessed September 15, 2023. https://www.cdc.gov/tb/topic/populations/correctional/default.htm
+31.	Slide Set-Tuberculosis (TB) in Correctional Settings: What Corrections Staff Need to Know Text Only Version Slide 1: Tuberculosis (TB) in Correctional Settings: What Corrections Staff Need to Know.
+
 
 ## About
 
 **contact**: [info@convida.support](mailto:info@convida.support)
 
-**authors**: Carolina Martínez-Dávalos, Vincent Delannoy
+**authors**: Mónica Carolina Martínez Dávalos
 
-**special thanks**: 
-- Prisma. https://www.prisma.org.pe/en/
-
-![Prisma](https://www.prisma.org.pe/wp-content/uploads/logo-prisma-2017.png)
-- Kevin Chamberland for the English translation
+**special thanks**: Vincent Delannoy
 
 **code**: https://github.com/vdelanno/convida
 
